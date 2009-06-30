@@ -6,10 +6,10 @@ categories:
   - 'Tactics'
 source:
   url: 'http://www.tribes2wiki.com/wiki/Chaingun'
-  archived: 'https://web.archive.org/web/20090629060302id_/http://www.tribes2wiki.com:80/wiki/Chaingun'
-  lastModified: '2009-05-31T03:52:00.000Z'
+  archived: 'https://web.archive.org/web/20100113114443id_/http://www.tribes2wiki.com:80/wiki/Chaingun'
+  lastModified: '2009-06-30T19:48:00.000Z'
 ---
-![Official browser art of the chaingun.](/images/TWB_Chaingun.png)
+![](/images/TWB_Chaingun.png)
 
 Official browser art of the chaingun.
 
@@ -27,7 +27,7 @@ Keep in mind that the chaingun has a spin-up and spin-down sequence. While each 
 
 ### Chasing
 
-See main article: flag chaser
+See main article: [flag chaser](/reference/flag-chaser "Flag chaser")
 
 Chaingun is also one of the primary weapons, along with the [grenade launcher](/weapons/grenade-launcher "Grenade launcher"), used by chasers. The rapid fire allows you to adjust your aim for every movement the [capper](/tactics/capper "Capper") makes while still sending bullets his way. It is an effective chasing weapon for all the same reasons that it is an effective dueling weapon. If your target gets too far away from you, you can continue chaingunning him, because every bullet that hits him will make him that much easier to kill if you or one of your teammates gets to him before he heals.
 
@@ -37,7 +37,7 @@ Unfortunately, many players in the game believe that the chaingun is "lame", "un
 
 ### Whoring
 
-A common term used by chaingun opponents is "chainwhore" or "whore". This term is bestowed upon anyone who uses the chaingun more than their victim would like. This imaginary chaingun threshold is completely arbitrary and differs from person to person. Sometimes it will even differ for one person each time they say it. Some factors involved in being called a chainwhore are how long you spend using a chaingun before switching to another weapon, how many bullets you hit your opponent with, and other random things. The bottom line is, people don't like being killed by a chaingun. They believe that you should use less effective weapons, because then you are less likely to kill them, which obviously makes them happier. Something that you can find amusing is that those guys who say that you are a "noob" for using the chaingun actually is not that good with it themselves, and that they just don't like people who are just plain better than them, so don't take their insults personally. If you get really annoyed with people who call you those mean names, you can just hunt them down and cut them with it. Honestly, rubbing it in their faces once in a while won't hurt!=) Besides, you can safely presume they are of the lowest faction in the world of FAGS. Honestly. Just pump their faces full of hot, hot lead. You'll like it and want to do more. So go nuts!
+A common term used by chaingun opponents is "chainwhore" or "whore". This term is bestowed upon anyone who uses the chaingun more than their victim would like. This imaginary chaingun threshold is completely arbitrary and differs from person to person. Sometimes it will even differ for one person each time they say it. Some factors involved in being called a chainwhore are how long you spend using a chaingun before switching to another weapon, how many bullets you hit your opponent with, and other random things. The bottom line is, people don't like being killed by a chaingun. They believe that you should use less effective weapons, because then you are less likely to kill them, which obviously makes them happier.
 
 ### Skill
 
