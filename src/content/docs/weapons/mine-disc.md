@@ -5,10 +5,10 @@ categories:
   - 'Weapons'
 source:
   url: 'http://www.tribes2wiki.com/wiki/Mine-disc'
-  archived: 'https://web.archive.org/web/20090629060345id_/http://www.tribes2wiki.com:80/wiki/Mine-disc'
-  lastModified: '2009-01-07T08:53:00.000Z'
+  archived: 'https://web.archive.org/web/20100113062201id_/http://www.tribes2wiki.com:80/wiki/Mine-disc'
+  lastModified: '2009-07-28T19:40:00.000Z'
 ---
-![Official browser art of the spinfusor.](/images/TWB_Spinfusor.png)
+![](/images/TWB_Spinfusor.png)
 
 Official browser art of the spinfusor.
 
@@ -16,7 +16,7 @@ The **spinfusor**, or **disc launcher** as it was called in Tribes 1, is far and
 
 ## Usage
 
-The spinfusor is arguably the most versatile weapon in the game.
+The spinfusor is one of the most versatile weapons in the game, along with the [chaingun](/weapons/chaingun "Chaingun").
 
 ### Dueling
 
@@ -26,7 +26,7 @@ It can be used in duels with great efficiency. If you shoot the ground that your
 
 See main article: mid-air
 
-Many players pride themselves on being able to hit their opponent with a disc in mid-air (known simply as a mid-air or MA). The [game type](/scripting/game-type "Game type") LakRabbit, along with a few of its predecessors, is one of the more popular game types in the game, where the way to earn points is by hitting players in mid-air. While most mid-airs occur at close and medium ranges, it's also possible to hit them at long range with a combination of luck and good prediction skills. Many players have made movies of themselves composed entirely of hitting long-range mid-airs and other mildly impressive feats. When you look at it objectively, though, the ability to hit mid-airs is rather over-rated in competitive games, because it's extremely unlikely that you will be able to kill someone faster in the air with discs than you could if you practiced with the chaingun instead. However, there are admittedly some emergency situations where the spinfusor is the better choice.
+Many players pride themselves on being able to hit their opponent with a disc in mid-air (known simply as a mid-air or MA). The [game type](/scripting/game-type "Game type") [LakRabbit](/reference/lakrabbit "LakRabbit"), along with a few of its predecessors, is one of the more popular game types in the game, where the way to earn points is by hitting players in mid-air. While most mid-airs occur at close and medium ranges, it's also possible to hit them at long range with a combination of luck and good prediction skills. Many players have made movies of themselves composed entirely of hitting long-range mid-airs and other mildly impressive feats. When you look at it objectively, though, the ability to hit mid-airs is rather over-rated in competitive games, because it's extremely unlikely that you will be able to kill someone faster in the air with discs than you could if you practiced with the chaingun instead. However, there are admittedly some emergency situations where the spinfusor is the better choice.
 
 ### Spamming
 
@@ -40,7 +40,7 @@ In [Classic](/reference/classic "Classic"), the ability to destroy mines with di
 
 ### Disc-jump
 
-A **disc-jump** is the act of shooting a disc at your feet while you are [skiing](/tactics/skiing "Skiing"). The general idea here is to give yourself a great boost in speed at the cost of health. Disc-jumping does not work well in every mod. In [Base](/reference/base "Base"), the gameplay has been slowed too much, and the disc kickback strength is too low for disc-jumping to be at all affective. In [Classic](/reference/classic "Classic"), however, disc-jumping will give you an incredible boost in speed and is a tactic used by every player in many different situations. Some of the more common uses are a [capper](/tactics/capper "Capper") disc-jumping while on a route in order to cap the flag faster, a defensive flag chaser disc-jumping to catch up with an enemy capper, and heavy offense disc-jumping to gain speed or altitude to get into the enemy base faster.
+A **disc-jump** is the act of shooting a disc at your feet while you are [skiing](/tactics/skiing "Skiing"). The general idea here is to give yourself a great boost in speed at the cost of health. Disc-jumping does not work well in every mod. In [Base](/reference/base "Base"), the gameplay has been slowed too much, and the disc kickback strength is too low for disc-jumping to be at all affective. In [Classic](/reference/classic "Classic"), however, disc-jumping will give you an incredible boost in speed and is a tactic used by every player in many different situations. Some of the more common uses are a [capper](/tactics/capper "Capper") disc-jumping while on a route in order to cap the flag faster, a defensive [flag chaser](/reference/flag-chaser "Flag chaser") disc-jumping to catch up with an enemy capper, and [heavy offense](/base-assets/heavy-offense "Heavy offense") disc-jumping to gain speed or altitude to get into the enemy base faster.
 
 ## Technical info
 
