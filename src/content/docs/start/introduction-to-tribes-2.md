@@ -4,8 +4,8 @@ description: 'This page is aimed at readers who don''t play Tribes 2, but are in
 categories: []
 source:
   url: 'http://www.tribes2wiki.com/wiki/Introduction_to_Tribes_2'
-  archived: 'https://web.archive.org/web/20090729162855id_/http://www.tribes2wiki.com:80/wiki/Introduction_to_Tribes_2'
-  lastModified: '2009-07-11T11:22:00.000Z'
+  archived: 'https://web.archive.org/web/20100113072319id_/http://www.tribes2wiki.com:80/wiki/Introduction_to_Tribes_2'
+  lastModified: '2009-09-13T06:56:00.000Z'
 ---
 This page is aimed at readers who don't play Tribes 2, but are interested in what the game is like and don't know where to start. If you'd like, you can download the game right away and begin playing for yourself, but it might be interesting and beneficial to give this page a look-over first.
 
@@ -73,7 +73,7 @@ There are many more, as well, but they are too numerous to list. Also, you will 
   
 The [mod](/scripting/mod "Mod") that a game server is running determines the physics, weapons, items, vehicles, and things like that. The most popular mods don't change anything but the physics and other minor things, while keeping the weapons, items, vehicles, etc all the same. The mod that a server is using will be listed in the _RULES SET_ column of the server browser.
 
--   **[Base](/reference/base "Base")**: Base is the mod that Tribes 2 came with by default. It had much slower physics that Tribes 1, which made games last longer and made the offense have to work a lot harder to coordinate attacks on the enemy base. A majority of the community didn't like the reduced speed for games of CTF, so subsequent mods were made to change the physics to be faster. However, Base is still popular for game types like Arena and Duel Mod. All Base servers will be listed as _variant_ in the server list.
+-   **[Base](/reference/base "Base")**: Base is the mod that Tribes 2 came with by default. It had much slower physics that Tribes 1, which made games last longer and made the offense have to work a lot harder to coordinate attacks on the enemy base. A majority of the community didn't like the reduced speed for games of CTF, so subsequent mods were made to change the physics to be faster. However, Base is still popular for game types like Arena and Duel Mod. All Base servers will be listed as **variant** in the server list.
 -   **[Classic](/reference/classic "Classic")**: Classic became the most popular mod in Tribes 2 after it was made. Classic was designed to be just like Tribes 1 as far as physics and speed. It very quickly became the primary mod for CTF games. Most players seemed to find that the increased speed and rebalanced physics made the game much more intense and strategic. However, Classic did not catch on for most other mods than CTF, because it proved to be a bit unbalanced for player-vs-player combat.
 -   **Version2**: Version2 was developed at the same time as Classic. The creator of Version2 was aiming to make a mod that was very easy for any player to play. While most tasks take practice in other mods, you can do pretty much anything in Version2 without practicing it at all. While this mod may be fun for a while because of how easy everything is, and while it may be useful to get the hang of the very _basics_ of the game without worrying about the learning curve, it is advised that you move on to other mods as soon as possible, or else you might get too accustomed to the easy gameplay and have trouble playing anything else later.
 -   **Other mods**: A few mods that make drastic changes to the game, way beyond simple physics, but still keep the general focus of the game the same are **War2k3**, **Meltdown2**, **Shifter** and **Renegades** along with many, _many_ others. Take note that if you join any server with one of those mods as the rules set, the weapons, armors and vehicles will all be very different from the ones that Tribes 2 was designed with.
@@ -97,7 +97,7 @@ The armors determine how many weapons you can carry, how much damage you can tak
 
 ### Weapons
 
--   **Blaster**: The blaster is basically the 'pistol' of Tribes 2. Overall, most players consider it to be pretty useless, but it actually does have a few uses. Either way, in most cases, you are better off with a different weapon unless you know what you're doing.
+-   **Blaster**: The blaster is basically the 'pistol' of Tribes 2. Overall, most players consider it to be pretty useless, but it actually does have a few uses. Either way, in most cases, you are better off with a different weapon unless you know what you're doing. Only weapon in Tribes 2 that goes through shield pack.
 -   **[Spinfusor](/weapons/spinfusor "Spinfusor")**: This is definitely the most popular Tribes 2 weapon. It's similar to a 'rocket launcher' in that it fires an explosive projectile in a straight line. You'll be hard pressed to find a player who doesn't use a spinfusor as much as possible, and for good reason. You can also [mine-disc](/weapons/mine-disc "Mine-disc") with it.
 -   **[Chaingun](/weapons/chaingun "Chaingun")**: The chaingun is another weapon that ranks up there with the spinfusor in terms of popularity, and for good reason as well. This is definitely the most important weapon to master in the game, as it can kill opponents faster than any other.
 -   **[Grenade launcher](/weapons/grenade-launcher "Grenade launcher")**: Another good weapon to master. In the right situation, the grenade launcher can kill people even more easily than the chaingun. This is one of the two weapons where the projectile is actually affected by gravity.
