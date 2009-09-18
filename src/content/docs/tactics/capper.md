@@ -5,8 +5,8 @@ categories:
   - 'Tactics'
 source:
   url: 'http://www.tribes2wiki.com/wiki/Capper'
-  archived: 'https://web.archive.org/web/20090629060216id_/http://www.tribes2wiki.com:80/wiki/Capper'
-  lastModified: '2009-01-21T14:02:00.000Z'
+  archived: 'https://web.archive.org/web/20110907143425id_/http://www.tribes2wiki.com:80/wiki/Capper'
+  lastModified: '2009-09-18T20:05:00.000Z'
 ---
 **Capper** is short for **one who captures the flag**. This is one of the primary positions in the [Capture the Flag](/reference/capture-the-flag "Capture the Flag") [game type](/scripting/game-type "Game type"). In simple terms, the job of the capper is to **grab** the enemy flag off of their flag stand as fast as possible and bring it back to your base, then, if possible, **capture** (or **cap**) it by bringing it to his own team's flag when it is on the flag stand. The method of achieving this cap changed greatly between [Base](/reference/base "Base") and [Classic](/reference/classic "Classic"). In Base, capper was not a very intricate position, and just about anyone could do it as long as the enemy defense was disrupted, and just about no one could do it if the enemy defense wasn't disrupted. There really wasn't much that could qualify one capper as being better than another. In Classic, capper is a much more dominant and variable position, where many skills come into play, such as knowledge of the fastest routes and ability to improvise said routes, move the enemy's heavy on flag or light on flag, weave past turret fire, and more.
 
@@ -46,6 +46,10 @@ _A bowl in the terrain._
 
 An important part of any fast cap route is something called a **bowl**. A bowl is any curved hill in the terrain that covers a large angle. Bowls are a crucial part of changing your direction and gaining speed. You should practice skiing on bowls to get a feel for exactly how they affect your velocity, and you should keep an eye out for any bowls that you can use as you ski around any map.  
 
+## Shrike capping
+
+The easiest and most common alternative to capping with routes is **shrike capping**. Shrike capping can obviously only be done on maps with vehicles. The average shrike cap is nothing more than flying a shrike towards the flag from the back and jumping out of it. Shrike caps are incredibly slow and very easy to stop, but non-the-less, they are by far the most common capping method on any vehicle map in the average pub. Shrike caps can actually be useful _if_ you do them in medium armor. Medium shrike capping is actually a very viable strategy on maps where the flags are relatively close together, as that doesn't leave enemy defenders as much time to chase you down. However, shrike capping in [light armor](/armors/light-armor "Light armor") is a very dumb and ineffective tactic, and is inferior to literally every single other method you could be using to cap. The only time you should consider it is if you have no other choice, such as if you just happen to be in a shrike and in light armor, and you need to make an emergency grab at that moment. This could happen if you bought a shrike to chase down the enemy capper, but aren't able to kill him in time to stop the cap.
+
 ## Emergency grab
 
 An **emergency grab**, usually called an **e-grab**, is a grab that is done to prevent the enemy from capping the flag at that moment. If your enemy is about to cap, then getting the flag off the stand will delay them for at least a few seconds, even if you die right away. This is sometimes enough time for their capper to be killed, or for someone else to come in and do another e-grab, possibly more successful than yours.
@@ -58,6 +62,8 @@ Obviously, when the enemy flag is not on the flag stand, the capper will need to
 
 ### Standoff
 
+See main article: standoff
+
 A very common situation in CTF is a flag standoff. In this situation, you will have the enemy flag at your base, and the enemy will have your flag at their base. This is definitely a situation where a capper can't afford to just sit out of the action. In the case, most cappers will continue to go offense in attempt to kill the enemy flag carrier and return the flag. A strategy is to run a cap route even though the enemy flag is not on the stand. One reason for this is that it's probably the fastest way to get to the enemy base anyway. Another reason is that it's very possible that your flag carrier will be killed and the enemy flag returned while you are running the route, in which case you will be ready to quickly grab it again. If the standoff is still going when you arrive on the flag stand, you can then continue your effort to kill their flag carrier.
 
 ### Light offense
@@ -68,6 +74,6 @@ If your team has multiple cappers, most likely one of them will defer to being a
 
 ### Heavy offense
 
-See main article: heavy offense
+See main article: [heavy offense](/base-assets/heavy-offense "Heavy offense")
 
 Very often on maps that require strong HO pressure, such as Dangerous Crossing, the capper won't even be a capper for the first couple minutes of the map. Instead, he will go heavy offense to help destroy the enemy base and keep it down. Once the enemy is thoroughly raped, then the capper will start capping.
