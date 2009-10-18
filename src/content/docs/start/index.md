@@ -1,23 +1,23 @@
 ---
 title: 'Main Page'
-description: 'Welcome to the Unofficial Tribes 2 Wiki. Here you''ll find all the information you could ever want about Tribes 2. It''s brand new, so most pages still need to...'
+description: 'Welcome to the Unofficial Tribes 2 Wiki. Here you''ll find all the information you could ever want about Tribes 2. Feel free to create pages for absolutely an...'
 categories: []
 source:
   url: 'http://www.tribes2wiki.com/wiki/Main_Page'
-  archived: 'https://web.archive.org/web/20090629060335id_/http://www.tribes2wiki.com:80/wiki/Main_Page'
-  lastModified: '2009-03-27T04:06:00.000Z'
+  archived: 'https://web.archive.org/web/20100522091814id_/http://www.tribes2wiki.com:80/wiki/Main_Page'
+  lastModified: '2009-10-18T07:29:00.000Z'
 ---
-**Welcome to the Unofficial Tribes 2 Wiki**. Here you'll find all the information you could ever want about [Tribes 2](/start/tribes-2 "Tribes 2"). It's brand new, so most pages still need to be created. Feel free to create pages for absolutely anything related to the game. That includes (but is not limited to) [scripts](/scripting/script "Script"), [maps](/scripting/map "Map"), [servers](/reference/server "Server"), strategies, teams and even individual players if you think there are important things to say about them.
+**Welcome to the Unofficial Tribes 2 Wiki**. Here you'll find all the information you could ever want about [Tribes 2](/start/tribes-2 "Tribes 2"). Feel free to create pages for absolutely anything related to the game. That includes (but is not limited to) [scripts](/scripting/script "Script"), [maps](/scripting/map "Map"), [servers](/reference/server "Server"), strategies, teams and even individual players if you think there are important things to say about them.
 
 **If you aren't familiar with Tribes 2, or you are interested in playing the game**, check out the [Introduction to Tribes 2](/start/introduction-to-tribes-2 "Introduction to Tribes 2") page. There, you will find instructions on how to download the game and play online. Non-Tribes players should also check out that page for some basic information about the game, and players interested in playing the game for the first time will find many useful tips to help them get started on learning the best first person shooter ever created.
 
-**Before you start editing**, and possible before you even start reading, check out the [guidelines section of the help page](/reference/contents "Help:Contents") to get a better idea of how the information here is presented.
+**Before you start editing**, and possibly before you even start reading, check out the [guidelines section of the help page](/reference/contents "Help:Contents") to get a better idea of how the information here is presented.
 
 * * *
 
 [Introduction to Tribes 2](/start/introduction-to-tribes-2 "Introduction to Tribes 2") • [Tribes 2 Community](/project/community-portal-2 "Tribes2Wiki:Community Portal") • [Help Files](/reference/contents "Help:Contents")
 
-We are currently maintaining **85** articles.
+We are currently maintaining **121** articles.
 
 ## Latest News
 
@@ -44,37 +44,10 @@ TribesNext is the first and only "online" authentication solution. Any "nologin"
 
 **[More News...](/project/news "Tribes2Wiki:News")**
 
-## To-do List
+## Videos
 
-### Unwritten articles
+A movie made with Tribes 2 and a few modded weapons intended for comedy. Note that some stunts in this video are not normally possible in Tribes 2.
 
--   Wildcat grav cycle (See Shrike, bomber, Havoc)
--   Beowulf assault tank
--   Jericho mobile point base
+The following movie shows various clips taken from players' recordings that demonstrate some skillful maneuvers.
 
--   Duel Mod
--   Hunters
--   Team Hunters (possibly combine with Hunters)
--   Rabbit
--   LakRabbit (possibly combine with Rabbit)
--   Team Gauntlet
--   Team Rabbit 2
--   Aerial Dogfight
--   Capture and Hold
--   Defend and Destroy
-
--   vehicle station
-
-**Special:WantedPages**
-
-### Shortest pages
-
-These pages don't have a lot of content. Either they need to be expanded, or perhaps they can be merged with another page if there isn't a whole lot to say about them.
-
-**Special:ShortPages**
-
-### Proofreading
-
-These pages have the fewest revisions, which implies that they haven't been corrected very much. Either that means they were perfect the first time through, or no one has proofread them yet.
-
-**Special:FewestRevisions**
+Below is a shoutcasted match for #1 on the ladder that took place back in Tribes 2's prime (or perhaps shortly after its prime).
