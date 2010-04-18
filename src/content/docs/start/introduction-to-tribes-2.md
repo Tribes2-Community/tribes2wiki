@@ -4,8 +4,8 @@ description: 'This page is aimed at readers who don''t play Tribes 2, but are in
 categories: []
 source:
   url: 'http://www.tribes2wiki.com/wiki/Introduction_to_Tribes_2'
-  archived: 'https://web.archive.org/web/20100113072319id_/http://www.tribes2wiki.com:80/wiki/Introduction_to_Tribes_2'
-  lastModified: '2009-09-13T06:56:00.000Z'
+  archived: 'https://web.archive.org/web/20110717100616id_/http://www.tribes2wiki.com/wiki/Introduction_to_Tribes_2'
+  lastModified: '2010-04-18T16:08:00.000Z'
 ---
 This page is aimed at readers who don't play Tribes 2, but are interested in what the game is like and don't know where to start. If you'd like, you can download the game right away and begin playing for yourself, but it might be interesting and beneficial to give this page a look-over first.
 
@@ -17,16 +17,16 @@ If you already have Tribes 2 installed and working, skip ahead to a different se
 
 Both Starsiege: Tribes and Tribes 2 were released on FilePlanet for free download back in 2004. You can download the full Tribes 2 game at any of the following mirrors:
 
--   [http://www.3fl.net.au/downloads/index.php?dlid=1847](http://www.3fl.net.au/downloads/index.php?dlid=1847 "http://www.3fl.net.au/downloads/index.php?dlid=1847")
--   [http://xfer1.the-construct.net/tribes2/tribes2\_gsi.exe](http://xfer1.the-construct.net/tribes2/tribes2_gsi.exe "http://xfer1.the-construct.net/tribes2/tribes2_gsi.exe")
+-   [http://www.3fl.net.au/downloads/index.php?dlid=1847](http://www.3fl.net.au/downloads/index.php?dlid=1847)
+-   [http://xfer1.the-construct.net/tribes2/tribes2\_gsi.exe](http://xfer1.the-construct.net/tribes2/tribes2_gsi.exe)
 
-If you want to be able to play online, you will also need to download the patch that can be found at [TribesNext](http://www.tribesnext.com "http://www.tribesnext.com"). At the moment, the patch is in the beta phase, so you may run into some issues. Check the [TribesNext Forums](http://www.tribesnext.com/forum "http://www.tribesnext.com/forum") for updates, info about known issues, and other alerts.
+If you want to be able to play online, you will also need to download the patch that can be found at [TribesNext](http://www.tribesnext.com). At the moment, the patch is in the beta phase, so you may run into some issues. Check the [TribesNext Forums](http://www.tribesnext.com/forum) for updates, info about known issues, and other alerts.
 
 ### Playing the game online
 
-The official Tribes 2 online servers were shut down by Sierra on November 3, 2008, but you can still play online if you download the [TribesNext](http://www.tribesnext.com "http://www.tribesnext.com") patch. The following instructions are pretty self-explanatory, so if you're used to installing stuff for games, you can probably just skip this section.
+The official Tribes 2 online servers were shut down by Sierra on November 3, 2008, but you can still play online if you download the [TribesNext](http://www.tribesnext.com) patch. The following instructions are pretty self-explanatory, so if you're used to installing stuff for games, you can probably just skip this section.
 
-1.  Download the patch from [TribesNext Downloads](http://www.tribesnext.com/info "http://www.tribesnext.com/info").
+1.  Download the patch from [TribesNext Downloads](http://www.tribesnext.com/info).
 2.  Install it to the directory where your Tribes2.exe is located.
 3.  Load up Tribes 2 with the online shortcut provided.
 4.  Create an account. Note that all old user accounts from the first serveral years after the games release are gone, so every player will need to create a new account.
@@ -34,9 +34,9 @@ The official Tribes 2 online servers were shut down by Sierra on November 3, 200
 6.  Every time you log in in the future, make sure to select your account name from the drop-down menu if it is there. You only need to use the "Retrieve Account" option if your name is not already in the drop-down menu. **Do not forget your password; there is no way to reset it!**
 7.  You are ready to play! Features such as player tags, the browser, and chat are not currently operational, but they will be added in future versions of the patch. Feel free to join a server and play your heart out.
 
-If you need additional help, there are more in-depth instruction on the [TribesNext Forums](http://www.tribesnext.com/forum "http://www.tribesnext.com/forum").
+If you need additional help, there are more in-depth instruction on the [TribesNext Forums](http://www.tribesnext.com/forum).
 
-Keep in mind, TribesNext is still technically in beta. This means that it will be updated any time the developers finish another feature, so you should check back occasionally to see if there's a new version out. It also means that you may occasional experience problems. If these problems persist, feel free to seek help on the [TribesNext Forums](http://www.tribesnext.com/forum "http://www.tribesnext.com/forum"), or, if you prefer, on internet relay chat at [#Tribes @ irc.Arloria.net](irc://irc.Arloria.net/Tribes "irc://irc.Arloria.net/Tribes"). That isn't a support chat-room, so you might not find the help you need there. Feel free to hang out, though!
+Keep in mind, TribesNext is still technically in beta. This means that it will be updated any time the developers finish another feature, so you should check back occasionally to see if there's a new version out. It also means that you may occasional experience problems. If these problems persist, feel free to seek help on the [TribesNext Forums](http://www.tribesnext.com/forum), or, if you prefer, on internet relay chat at [#Tribes @ irc.Arloria.net](irc://irc.Arloria.net/Tribes). That isn't a support chat-room, so you might not find the help you need there. Feel free to hang out, though!
 
 ### Choosing a server
 
@@ -104,8 +104,8 @@ The armors determine how many weapons you can carry, how much damage you can tak
 -   **[Laser rifle](/weapons/laser-rifle "Laser rifle")**: The laser rifle is another staple weapon. It is Tribes 2's sniper rifle. It relies on your energy for power, and has infinite ammo otherwise. If you want to do some long-range sniping, bring a laser rifle. Only players in Scout armor can carry a laser rifle.
 -   **Plasma rifle**: The plasma rifle is similar to the spinfusor, except it has a much slower projectile and a very small blast radius. On the bright side, it shoots much faster, so if your target isn't moving much, you can do much more damage. This weapon is ideal for destroying base equipment.
 -   **ELF projector**: The ELF gun is a weapon that lost much of it's usefulness over the years. It does no damage, but it drains the target's energy. It's up to you if you think that's worth a weapon slot.
--   **[Shocklance](/weapons/shocklance "Shocklance")**: The shocklance is a short-range weapon that fires a instant-hit beam instead of a projectile. It is one of the only weapons in the game capable of killing anyone in one hit, but only if you hit them in the back. Otherwise, it will still do a decent amount of damage. On the downside, it has a very slow firing rate.
--   **Missile launcher**: The missile launcher can only be fired at a target that is giving off enough heat. However, it fires a fast homing missile that can only be stopped by a flare or by outrunning it (only possible with a Shrike). It does enough damage to kill a Scout armor from full health. Missile launchers cannot be carrier by a player in Scout armor.
+-   **[Shocklance](/weapons/shocklance "Shocklance")**: The shocklance is a short-range weapon that fires an instant-hit beam instead of a projectile. It is one of the only weapons in the game capable of killing anyone in one hit, but only if you hit them in the back. Otherwise, it will still do a decent amount of damage. On the downside, it has a very slow firing rate.
+-   **Missile launcher**: The missile launcher can only be fired at a target that is giving off enough heat. However, it fires a fast homing missile that can only be stopped by a flare or by outrunning it (only possible with a Shrike). It does enough damage to kill a Scout armor from full health. Missile launchers cannot be carried by a player in Scout armor.
 -   **[Mortar](/weapons/mortar "Mortar")**: The mortar is a powerful explosive weapon that can only be carried by a player in Juggernaut armor. It does enough damage to kill a Scout in one shot with a large blast radius. It is very good for doing heavy damage to a team's base equipment.
 
 ### Packs
@@ -136,7 +136,7 @@ To get started in this game there are a few terms you should know:
 
 -   LD - Refers to a defender, usually outdoors, in light armor.
 -   HD - Refers to a defender, usually indoors or at doorways, in heavy armor.
--   HoF- Refers to a defender that stands on the flag in heavy armor as to stop being from being able to grab.
+-   HoF- Refers to a defender that stands on the flag in heavy armor as to stop cappers from being able to grab it.
 -   LO - Refers to a light armor that is attacking the enemy base..Again usually outdoors.
 -   HO - Refers to a heavy armor attacker that hits outdoors and indoors.
 
