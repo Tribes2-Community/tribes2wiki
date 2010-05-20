@@ -4,8 +4,8 @@ description: 'Tribes 2 has an extremely fractured community, and it always has s
 categories: []
 source:
   url: 'http://www.tribes2wiki.com/wiki/Tribes2Wiki:Community_Portal'
-  archived: 'https://web.archive.org/web/20100417113509id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:Community_Portal'
-  lastModified: '2009-09-04T07:58:00.000Z'
+  archived: 'https://web.archive.org/web/20100617023414id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:Community_Portal'
+  lastModified: '2010-05-20T19:33:00.000Z'
 ---
 Tribes 2 has an extremely fractured community, and it always has since it first started. However, throughout the game's life, there was always one community that was widely accepted to be the main community. The others are all minor off-shoots that exist on the side.
 
