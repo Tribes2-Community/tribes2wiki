@@ -4,8 +4,8 @@ description: 'Welcome to the Unofficial Tribes 2 Wiki. Here you''ll find all the
 categories: []
 source:
   url: 'http://www.tribes2wiki.com/wiki/Main_Page'
-  archived: 'https://web.archive.org/web/20100522091814id_/http://www.tribes2wiki.com:80/wiki/Main_Page'
-  lastModified: '2009-10-18T07:29:00.000Z'
+  archived: 'https://web.archive.org/web/20100629063039id_/http://www.tribes2wiki.com:80/wiki/Main_Page'
+  lastModified: '2010-05-29T00:26:00.000Z'
 ---
 **Welcome to the Unofficial Tribes 2 Wiki**. Here you'll find all the information you could ever want about [Tribes 2](/start/tribes-2 "Tribes 2"). Feel free to create pages for absolutely anything related to the game. That includes (but is not limited to) [scripts](/scripting/script "Script"), [maps](/scripting/map "Map"), [servers](/reference/server "Server"), strategies, teams and even individual players if you think there are important things to say about them.
 
@@ -21,6 +21,10 @@ We are currently maintaining **121** articles.
 
 ## Latest News
 
+### Capping Tutorial Released — May 28, 2010
+
+Many months in the making, part one of a video teaching players some Tribes 2 basics has been finished and publicized. The video goes into a few fundamentals such as equipment, skiing, and jetting, and finishes with an intro to being a [capper](/tactics/capper "Capper") and using cap routes. This video is the first in what will hopefully be a series of videos teaching players everything they need to know to become very skilled at Tribes 2. Once capping has been thoroughly covered, we intend to move on to other positions as well. For future videos we hope to have multiple experts chiming in to give their advice.
+
 ### TribesNext RC2 is out! — April 2, 2009
 
 We are admittedly a little late with this announcement, but last week, TribesNext released RC2 (release candidate 2) of their multiplayer patch. This patch fixes several bugs and adds a few extra features. This is still a beta release, but so far the beta has been proceeding nicely. You can find the download instructions on the [TribesNext Info](http://www.tribesnext.com/info "http://www.tribesnext.com/info") page.  
@@ -34,20 +38,12 @@ We could always use more teams, so feel free to get your friends together and co
   
 Additionally, there are rumors of a tournament in the works. The tournament will be hosted by the operator of the [Goon Haven](http://www.goonhaven.org "http://www.goonhaven.org") server. Check their website for any specific details when the time comes.
 
-### TribesNext has entered open beta! — January 3, 2009
-
-As promised, TribesNext has been released to the public. You can find the download instructions on the [TribesNext Info](http://www.tribesnext.com/info "http://www.tribesnext.com/info") page. The release is still beta. Check the "known issues" link on the info page for a list of some known issues. If you come across a new problem, then post about it in the forums. There aren't many servers using the system yet, but you can still connect to "nologin" servers while using "online" mode - though you may have to add those servers to your favorites list while you are running "nologin" mode in order to see them in "online" mode.  
-  
-TribesNext is the first and only "online" authentication solution. Any "nologin" solution - such as the one mentioned below - has inherent security concerns. TribesNext, on the other hand, alleviates those concerns.
-
   
 
 **[More News...](/project/news "Tribes2Wiki:News")**
 
 ## Videos
 
-A movie made with Tribes 2 and a few modded weapons intended for comedy. Note that some stunts in this video are not normally possible in Tribes 2.
-
-The following movie shows various clips taken from players' recordings that demonstrate some skillful maneuvers.
+An instructional video teaching some Tribes 2 basics as well as an intro to being a [capper](/tactics/capper "Capper").
 
 Below is a shoutcasted match for #1 on the ladder that took place back in Tribes 2's prime (or perhaps shortly after its prime).
