@@ -4,39 +4,34 @@ description: 'Welcome to the Unofficial Tribes 2 Wiki. Here you''ll find all the
 categories: []
 source:
   url: 'http://www.tribes2wiki.com/wiki/Main_Page'
-  archived: 'https://web.archive.org/web/20100629063039id_/http://www.tribes2wiki.com:80/wiki/Main_Page'
-  lastModified: '2010-05-29T00:26:00.000Z'
+  archived: 'https://web.archive.org/web/20110915093519id_/http://www.tribes2wiki.com:80/wiki/Main_Page'
+  lastModified: '2010-08-22T13:05:00.000Z'
 ---
 **Welcome to the Unofficial Tribes 2 Wiki**. Here you'll find all the information you could ever want about [Tribes 2](/start/tribes-2 "Tribes 2"). Feel free to create pages for absolutely anything related to the game. That includes (but is not limited to) [scripts](/scripting/script "Script"), [maps](/scripting/map "Map"), [servers](/reference/server "Server"), strategies, teams and even individual players if you think there are important things to say about them.
 
 **If you aren't familiar with Tribes 2, or you are interested in playing the game**, check out the [Introduction to Tribes 2](/start/introduction-to-tribes-2 "Introduction to Tribes 2") page. There, you will find instructions on how to download the game and play online. Non-Tribes players should also check out that page for some basic information about the game, and players interested in playing the game for the first time will find many useful tips to help them get started on learning the best first person shooter ever created.
 
-**Before you start editing**, and possibly before you even start reading, check out the [guidelines section of the help page](/reference/contents "Help:Contents") to get a better idea of how the information here is presented.
+**Before you start editing**, and possibly before you even start reading, check out the [guidelines section of the help page](/reference/editing "Help:Editing") to get a better idea of how the information here is presented.
 
 * * *
 
 [Introduction to Tribes 2](/start/introduction-to-tribes-2 "Introduction to Tribes 2") • [Tribes 2 Community](/project/community-portal-2 "Tribes2Wiki:Community Portal") • [Help Files](/reference/contents "Help:Contents")
 
-We are currently maintaining **121** articles.
+We are currently maintaining **126** articles.
 
 ## Latest News
 
-### Capping Tutorial Released — May 28, 2010
+### Another Tournament in the Works — July 27, 2011
 
-Many months in the making, part one of a video teaching players some Tribes 2 basics has been finished and publicized. The video goes into a few fundamentals such as equipment, skiing, and jetting, and finishes with an intro to being a [capper](/tactics/capper "Capper") and using cap routes. This video is the first in what will hopefully be a series of videos teaching players everything they need to know to become very skilled at Tribes 2. Once capping has been thoroughly covered, we intend to move on to other positions as well. For future videos we hope to have multiple experts chiming in to give their advice.
+After the success of the 10-year anniversary tournament, TeamWarfare has decided to host another Tribes 2 draft tournament - the first in what might be a seasonal series of tournaments. For the last tournament, Hi-Rez (the makers of Tribes: Ascend and owners of the Tribes franchise) offered prizes to the winners in the form of Tribes: Ascend merchandise, but it is yet unknown if they will be sponsoring this tournament in some way. While the 10-year anniversary tournament was set up and managed by two players, this one will be run by TWL from the get-go, so any organizational issues that people made have noticed with the last tournament should not carry over to this one. The draft will occur on August 8th, so sign-ups will be open until then. For more information, feel free to check out [this thread](http://www.teamwarfare.com/forums/showthread.asp?forumid=4&threadid=472825) on the TeamWarfare forums.
 
-### TribesNext RC2 is out! — April 2, 2009
+### Tribes 2 10 Year Anniversary Tournament — March 3, 2011
 
-We are admittedly a little late with this announcement, but last week, TribesNext released RC2 (release candidate 2) of their multiplayer patch. This patch fixes several bugs and adds a few extra features. This is still a beta release, but so far the beta has been proceeding nicely. You can find the download instructions on the [TribesNext Info](http://www.tribesnext.com/info "http://www.tribesnext.com/info") page.  
-  
-Some things not included yet are full in-game browser support and anti-cheat functionality. However, the groundwork for both of those systems is in place, so we can expect them to be implemented in the relatively near future.
+TeamWarfare and a couple of Tribes 2 players have organized a draft tournament to celebrate the 10-year anniversary of Tribes 2's release. Sign-ups opened several weeks ago, and have since concluded. The draft consisted of about 230 players and 10 teams. More information can be found [on TWL](http://www.teamwarfare.com/forums/showthread.asp?forumid=4&threadid=468216). While it is technically too late to sign up, there are a couple teams that are having roster issues, and these teams might need to recruit more players one way or another. So even if you missed the deadline, you might still have a chance to play in some matches or even get onto a team.
 
-### Tribes 2 Competition Is Back! — February 23, 2009
+### Tribes 2 IRC Issues — October 7, 2010
 
-Over the past few weeks, teams have been forming on TWL, and they have begun to challenge one another. The first match was last week, and two more will take place tonight. So far, the ladder is off to a better start than we could have anticipated. There are already eight teams with rosters ready to play, and a few more in the works. Check out the ladder here: [Tribes 2 7v7 Classic CTF](http://www.teamwarfare.com/viewladder.asp?ladder=Tribes+2%3A+7v7+Classic+CTF "http://www.teamwarfare.com/viewladder.asp?ladder=Tribes+2%3A+7v7+Classic+CTF")  
-We could always use more teams, so feel free to get your friends together and come play on the ladder.  
-  
-Additionally, there are rumors of a tournament in the works. The tournament will be hosted by the operator of the [Goon Haven](http://www.goonhaven.org "http://www.goonhaven.org") server. Check their website for any specific details when the time comes.
+For those of you who use the Tribes 2 in-game chat, you should be aware that the operator of that IRC server randomly decided that he is no longer going to tolerate Tribes players on his chat network. When TribesNext RC3 is released, Tribes 2 in-game chat will point to a much more stable and well-operated IRC server (irc.tribalwar.com), but until then, Tribes 2 in-game chat will be rather unpopular and may be hostile towards Tribes players. We recommend you steer clear of it unless you just want to see what happens when an idiotic spaz gets his hands on an IRC server. Instructions on how to connect to the new IRC server without using Tribes 2 in-game chat can be found [here](/project/talk-news-tribes-2-irc-issues "Tribes2Wiki talk:News/Tribes 2 IRC Issues").
 
   
 
