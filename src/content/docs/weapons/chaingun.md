@@ -6,8 +6,8 @@ categories:
   - 'Tactics'
 source:
   url: 'http://www.tribes2wiki.com/wiki/Chaingun'
-  archived: 'https://web.archive.org/web/20100113114443id_/http://www.tribes2wiki.com:80/wiki/Chaingun'
-  lastModified: '2009-06-30T19:48:00.000Z'
+  archived: 'https://web.archive.org/web/20111007061618id_/http://www.tribes2wiki.com:80/wiki/Chaingun'
+  lastModified: '2010-11-24T01:47:00.000Z'
 ---
 ![](/images/TWB_Chaingun.png)
 
@@ -51,7 +51,9 @@ There are definitely more things to be said in this section, but I'm getting tir
 
 See main article: interpolation
 
-Another thing that came to light a few years after Tribes 2 came out is a script that went by the name of "interpolate". For most weapons, interpolate was more trouble than it was worth. For the chaingun, however, interpolate allowed for seemingly high accuracy. For this reason, many people believed interpolate was a cheat. Regardless of whether you believe interpolate is fair or not, once it became a well known script, people wouldn't stop accusing others of using it. Any time anyone used a chaingun with above average accuracy, he was accused of "interpolating". Now, no one is allowed to just be good at chaingunning without getting accused of cheating. This added yet another thing for people to complain about when they were killed by something using a chaingun.
+Another thing that came to light a few years after Tribes 2 came out is a script that went by the name of "interpolate". For most weapons, interpolate was more trouble than it was worth. For the chaingun, however, interpolate allowed for seemingly high accuracy. For this reason, many people believed interpolate was a cheat. Regardless of whether you believe interpolate is fair or not, once it became a well known script, people wouldn't stop accusing others of using it. Any time anyone used a chaingun with above average accuracy, he was accused of "interpolating". Now, no one is allowed to just be good at chaingunning without getting accused of cheating. This added yet another thing for people to complain about when they were killed by someone using a chaingun.
+
+Interpolate is officially no longer a cheat in league play.
 
 ## Technical info
 
