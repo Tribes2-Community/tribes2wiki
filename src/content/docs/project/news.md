@@ -4,12 +4,16 @@ description: 'This is where news is written to appear on the front page or any o
 categories: []
 source:
   url: 'http://www.tribes2wiki.com/wiki/Tribes2Wiki:News'
-  archived: 'https://web.archive.org/web/20101107074435id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:News'
-  lastModified: '2010-10-07T22:39:00.000Z'
+  archived: 'https://web.archive.org/web/20110717101306id_/http://www.tribes2wiki.com/wiki/Tribes2Wiki:News'
+  lastModified: '2011-03-04T01:11:00.000Z'
 ---
 This is where news is written to appear on the front page or any other page that uses `{{Tribes2Wiki:News}}`. Old news articles are also archived here. Only sysops have the authority to actually post news, but feel free to post news suggestions on the talk page.
 
 ## Front page news
+
+### Tribes 2 10 Year Anniversary Tournament — March 3, 2011
+
+TeamWarfare and a couple of Tribes 2 players have organized a draft tournament to celebrate the 10-year anniversary of Tribes 2's release. Sign-ups opened several weeks ago, and have since concluded. The draft consisted of about 230 players and 10 teams. More information can be found [on TWL](http://www.teamwarfare.com/forums/showthread.asp?forumid=4&threadid=468216). While it is technically too late to sign up, there are a couple teams that are having roster issues, and these teams might need to recruit more players one way or another. So even if you missed the deadline, you might still have a chance to play in some matches or even get onto a team.
 
 ### Tribes 2 IRC Issues — October 7, 2010
 
@@ -19,15 +23,11 @@ For those of you who use the Tribes 2 in-game chat, you should be aware that the
 
 Many months in the making, part one of a video teaching players some Tribes 2 basics has been finished and publicized. The video goes into a few fundamentals such as equipment, skiing, and jetting, and finishes with an intro to being a [capper](/tactics/capper "Capper") and using cap routes. This video is the first in what will hopefully be a series of videos teaching players everything they need to know to become very skilled at Tribes 2. Once capping has been thoroughly covered, we intend to move on to other positions as well. For future videos we hope to have multiple experts chiming in to give their advice.
 
-### TribesNext RC2 is out! — April 2, 2009
-
-We are admittedly a little late with this announcement, but last week, TribesNext released RC2 (release candidate 2) of their multiplayer patch. This patch fixes several bugs and adds a few extra features. This is still a beta release, but so far the beta has been proceeding nicely. You can find the download instructions on the [TribesNext Info](http://www.tribesnext.com/info) page.  
-  
-Some things not included yet are full in-game browser support and anti-cheat functionality. However, the groundwork for both of those systems is in place, so we can expect them to be implemented in the relatively near future.
-
   
 
 ## Archived News
+
+News/TribesNext RC2 is out!
 
 News/Tribes 2 Competition Is Back!
 
