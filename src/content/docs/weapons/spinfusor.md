@@ -5,8 +5,8 @@ categories:
   - 'Weapons'
 source:
   url: 'http://www.tribes2wiki.com/wiki/Spinfusor'
-  archived: 'https://web.archive.org/web/20100115033544id_/http://www.tribes2wiki.com:80/wiki/Spinfusor'
-  lastModified: '2009-07-28T19:40:00.000Z'
+  archived: 'https://web.archive.org/web/20111206131713id_/http://www.tribes2wiki.com:80/wiki/Spinfusor'
+  lastModified: '2011-05-26T10:11:00.000Z'
 ---
 ![](/images/TWB_Spinfusor.png)
 
@@ -20,13 +20,13 @@ The spinfusor is one of the most versatile weapons in the game, along with the [
 
 ### Dueling
 
-It can be used in duels with great efficiency. If you shoot the ground that your opponent is landing on (known as a groundshot), you'll deal a large amount of damage. The projectile is very accurate and explodes on impact at any range, so with practice you can easily hit groundshots on targets anywhere in your vicinity. It can also be used handily on targets in the air. The projectile moves fast enough that it is hard to dodge even at medium range, and the explosion will knock your target off course, and sometimes propel him into the ground hard enough to kill him instantly. The [chaingun](/weapons/chaingun "Chaingun") is usually always a better option if your opponent is in the air, but many players will disregard that fact and use discs anyway.
+It can be used in duels with great efficiency. If you shoot the ground that your opponent is landing on (known as a groundshot), you'll deal a large amount of damage. The projectile is very accurate and explodes on impact at any range, so with practice you can easily hit groundshots on targets anywhere in your vicinity. It can also be used handily on targets in the air. The projectile moves fast enough that it is hard to dodge even at medium range, and the explosion will knock your target off course, and sometimes propel him into the ground hard enough to kill him instantly. Sometimes in duelling, your opponent will land next to you, discing them at this point, is usually used to win a duel. The [chaingun](/weapons/chaingun "Chaingun") is usually always a better option if your opponent is in the air, but many players will disregard that fact and use discs anyway.
 
 ### Mid-airs
 
 See main article: mid-air
 
-Many players pride themselves on being able to hit their opponent with a disc in mid-air (known simply as a mid-air or MA). The [game type](/scripting/game-type "Game type") [LakRabbit](/reference/lakrabbit "LakRabbit"), along with a few of its predecessors, is one of the more popular game types in the game, where the way to earn points is by hitting players in mid-air. While most mid-airs occur at close and medium ranges, it's also possible to hit them at long range with a combination of luck and good prediction skills. Many players have made movies of themselves composed entirely of hitting long-range mid-airs and other mildly impressive feats. When you look at it objectively, though, the ability to hit mid-airs is rather over-rated in competitive games, because it's extremely unlikely that you will be able to kill someone faster in the air with discs than you could if you practiced with the chaingun instead. However, there are admittedly some emergency situations where the spinfusor is the better choice.
+Many players pride themselves on being able to hit their opponent with a disc in mid-air (known simply as a mid-air or MA). The [game type](/scripting/game-type "Game type") [LakRabbit](/reference/lakrabbit "LakRabbit"), along with a few of its predecessors, is one of the more popular game types in the game, where the way to earn points is by hitting players in mid-air. While most mid-airs occur at close and medium ranges, it's also possible to hit them at long range with a combination of luck and good prediction skills. Many players have made movies of themselves composed entirely of hitting long-range mid-airs and other mildly impressive feats. When you look at it objectively, though, the ability to hit mid-airs is rather over-rated in competitive games, because it's extremely unlikely that you will be able to kill someone faster in the air with discs than you could if you practiced with the chaingun instead. However, there are admittedly some emergency situations where the spinfusor is the better choice. To Mid Air the enemy Horizontally, aim to the right or left. To Mid Air the enemy Vertically, aim for either their feet if they are falling down, or their head if they are jetting up. To Mid air diagnally aim for where they are about to be.
 
 ### Spamming
 
@@ -36,7 +36,7 @@ Another common use of the spinfusor is long-range spamming. Any stationary targe
 
 ### Mine-disc
 
-In [Classic](/reference/classic "Classic"), the ability to destroy mines with discs before they are deployed was added. This feature was originally present in Tribes 1, but was removed in Tribes 2 and wasn't seen again until Classic was made. If you throw a mine at something and then shoot it with a disc, both the disc and the mine will blow up, dealing and incredible amount of damage. You can kill a light armor from full health in one shot with a **mine-disc**. Mine-discing makes any close-range disc shot deal almost twice as much damage and can be used in combination with any of the close-range tactics mentioned above.
+In [Classic](/reference/classic "Classic"), the ability to destroy mines with discs before they are deployed was added. This feature was originally present in Tribes 1, but was removed in Tribes 2 and wasn't seen again until Classic was made. If you throw a mine at something and then shoot it with a disc, both the disc and the mine will blow up, dealing and incredible amount of damage. You can kill a light armor from full health in one shot with a **mine-disc**. Mine-discing makes any close-range disc shot deal almost twice as much damage and can be used in combination with any of the close-range tactics mentioned above. It is easier to Mine Disc an opponent using the max mine throw control, instead of the normal mine throw control. If you want to throw it at your feet while using the max throw, just look at your feet.
 
 ### Disc-jump
 
@@ -131,3 +131,5 @@ Ammo (light/med/heavy)
 15 / 15 / 15
 
 15 / 15 / 15
+
+(Page Edited by Misanthropic)
