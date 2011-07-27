@@ -4,8 +4,8 @@ description: 'This page is aimed at readers who don''t play Tribes 2, but are in
 categories: []
 source:
   url: 'http://www.tribes2wiki.com/wiki/Introduction_to_Tribes_2'
-  archived: 'https://web.archive.org/web/20110717100616id_/http://www.tribes2wiki.com/wiki/Introduction_to_Tribes_2'
-  lastModified: '2010-04-18T16:08:00.000Z'
+  archived: 'https://web.archive.org/web/20110907054324id_/http://www.tribes2wiki.com:80/wiki/Introduction_to_Tribes_2'
+  lastModified: '2011-07-27T16:32:00.000Z'
 ---
 This page is aimed at readers who don't play Tribes 2, but are interested in what the game is like and don't know where to start. If you'd like, you can download the game right away and begin playing for yourself, but it might be interesting and beneficial to give this page a look-over first.
 
@@ -15,10 +15,7 @@ If you already have Tribes 2 installed and working, skip ahead to a different se
 
 ### Downloading the game
 
-Both Starsiege: Tribes and Tribes 2 were released on FilePlanet for free download back in 2004. You can download the full Tribes 2 game at any of the following mirrors:
-
--   [http://www.3fl.net.au/downloads/index.php?dlid=1847](http://www.3fl.net.au/downloads/index.php?dlid=1847)
--   [http://xfer1.the-construct.net/tribes2/tribes2\_gsi.exe](http://xfer1.the-construct.net/tribes2/tribes2_gsi.exe)
+Both Starsiege: Tribes and Tribes 2 were released on FilePlanet for free download back in 2004. You can download the full Tribes 2 game at one of the mirrors listed on the [TribesNext downloads page](http://www.tribesnext.com/downloads/tribes2gsi).
 
 If you want to be able to play online, you will also need to download the patch that can be found at [TribesNext](http://www.tribesnext.com). At the moment, the patch is in the beta phase, so you may run into some issues. Check the [TribesNext Forums](http://www.tribesnext.com/forum) for updates, info about known issues, and other alerts.
 
@@ -29,14 +26,14 @@ The official Tribes 2 online servers were shut down by Sierra on November 3, 200
 1.  Download the patch from [TribesNext Downloads](http://www.tribesnext.com/info).
 2.  Install it to the directory where your Tribes2.exe is located.
 3.  Load up Tribes 2 with the online shortcut provided.
-4.  Create an account. Note that all old user accounts from the first serveral years after the games release are gone, so every player will need to create a new account.
+4.  Create an account. Note that all old user accounts from the first several years after the games release are gone, so every player will need to create a new account.
 5.  Follow the onscreen instructions.
 6.  Every time you log in in the future, make sure to select your account name from the drop-down menu if it is there. You only need to use the "Retrieve Account" option if your name is not already in the drop-down menu. **Do not forget your password; there is no way to reset it!**
 7.  You are ready to play! Features such as player tags, the browser, and chat are not currently operational, but they will be added in future versions of the patch. Feel free to join a server and play your heart out.
 
 If you need additional help, there are more in-depth instruction on the [TribesNext Forums](http://www.tribesnext.com/forum).
 
-Keep in mind, TribesNext is still technically in beta. This means that it will be updated any time the developers finish another feature, so you should check back occasionally to see if there's a new version out. It also means that you may occasional experience problems. If these problems persist, feel free to seek help on the [TribesNext Forums](http://www.tribesnext.com/forum), or, if you prefer, on internet relay chat at [#Tribes @ irc.Arloria.net](irc://irc.Arloria.net/Tribes). That isn't a support chat-room, so you might not find the help you need there. Feel free to hang out, though!
+Keep in mind, TribesNext is still technically in beta. This means that it will be updated any time the developers finish another feature, so you should check back occasionally to see if there's a new version out. It also means that you may occasional experience problems. If these problems persist, feel free to seek help on the [TribesNext Forums](http://www.tribesnext.com/forum), or, if you prefer, on internet relay chat at [#TribesNext @ irc.TribalWar.com](irc://irc.tribalwar.com/tribesnext). That isn't a support chat-room, so you might not find the help you need there. Feel free to hang out, though!
 
 ### Choosing a server
 
@@ -75,7 +72,6 @@ The [mod](/scripting/mod "Mod") that a game server is running determines the phy
 
 -   **[Base](/reference/base "Base")**: Base is the mod that Tribes 2 came with by default. It had much slower physics that Tribes 1, which made games last longer and made the offense have to work a lot harder to coordinate attacks on the enemy base. A majority of the community didn't like the reduced speed for games of CTF, so subsequent mods were made to change the physics to be faster. However, Base is still popular for game types like Arena and Duel Mod. All Base servers will be listed as **variant** in the server list.
 -   **[Classic](/reference/classic "Classic")**: Classic became the most popular mod in Tribes 2 after it was made. Classic was designed to be just like Tribes 1 as far as physics and speed. It very quickly became the primary mod for CTF games. Most players seemed to find that the increased speed and rebalanced physics made the game much more intense and strategic. However, Classic did not catch on for most other mods than CTF, because it proved to be a bit unbalanced for player-vs-player combat.
--   **Version2**: Version2 was developed at the same time as Classic. The creator of Version2 was aiming to make a mod that was very easy for any player to play. While most tasks take practice in other mods, you can do pretty much anything in Version2 without practicing it at all. While this mod may be fun for a while because of how easy everything is, and while it may be useful to get the hang of the very _basics_ of the game without worrying about the learning curve, it is advised that you move on to other mods as soon as possible, or else you might get too accustomed to the easy gameplay and have trouble playing anything else later.
 -   **Other mods**: A few mods that make drastic changes to the game, way beyond simple physics, but still keep the general focus of the game the same are **War2k3**, **Meltdown2**, **Shifter** and **Renegades** along with many, _many_ others. Take note that if you join any server with one of those mods as the rules set, the weapons, armors and vehicles will all be very different from the ones that Tribes 2 was designed with.
 
   
