@@ -4,8 +4,8 @@ description: 'Welcome to the Unofficial Tribes 2 Wiki. Here you''ll find all the
 categories: []
 source:
   url: 'http://www.tribes2wiki.com/wiki/Main_Page'
-  archived: 'https://web.archive.org/web/20110915093519id_/http://www.tribes2wiki.com:80/wiki/Main_Page'
-  lastModified: '2010-08-22T13:05:00.000Z'
+  archived: 'https://web.archive.org/web/20111007223251id_/http://www.tribes2wiki.com/wiki/Main_Page'
+  lastModified: '2011-10-05T04:38:00.000Z'
 ---
 **Welcome to the Unofficial Tribes 2 Wiki**. Here you'll find all the information you could ever want about [Tribes 2](/start/tribes-2 "Tribes 2"). Feel free to create pages for absolutely anything related to the game. That includes (but is not limited to) [scripts](/scripting/script "Script"), [maps](/scripting/map "Map"), [servers](/reference/server "Server"), strategies, teams and even individual players if you think there are important things to say about them.
 
@@ -17,7 +17,7 @@ source:
 
 [Introduction to Tribes 2](/start/introduction-to-tribes-2 "Introduction to Tribes 2") • [Tribes 2 Community](/project/community-portal-2 "Tribes2Wiki:Community Portal") • [Help Files](/reference/contents "Help:Contents")
 
-We are currently maintaining **126** articles.
+We are currently maintaining **125** articles.
 
 ## Latest News
 
