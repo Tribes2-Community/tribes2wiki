@@ -64,6 +64,11 @@ const DROPPED = new Set([
   'Category:Tactics',
   'Category:Weapons',
   'Help:Contents',
+  // Removed after the recovery. Both were jokes from 2008: the disclaimer doesn't
+  // fit a site trying to grow a community, and a page saying "to hell with your
+  // privacy" is not in the community's interest. Kept in git history.
+  'Tribes2Wiki:General disclaimer',
+  'Tribes2Wiki:Privacy policy',
 ]);
 
 /**
