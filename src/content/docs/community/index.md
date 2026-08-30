@@ -29,7 +29,7 @@ A **PUG** — a pick-up game — is organised in advance. Teams are picked from 
 up, and the game starts at a set time. PUGs are where the more competitive play happens,
 and they're arranged in Discord rather than by sitting in a server waiting. The Cut runs
 Saturday nights, Dad Tribes runs Fridays, and Ski Club runs 5v5 through
-[the Cut's Discord](https://discord.gg/yz3AhkJCxg).
+[The Cut's Discord](https://discord.gg/yz3AhkJCxg).
 
 If a server looks empty, that's usually why — check Discord before assuming the game is
 dead.

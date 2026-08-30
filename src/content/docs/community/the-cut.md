@@ -16,10 +16,10 @@ in September 2026 and a round robin running on Sunday evenings after it.
 
 ## Taking part
 
-PUGs are arranged in the Cut's Discord rather than in the server itself, so sitting in an
+PUGs are arranged in The Cut's Discord rather than in the server itself, so sitting in an
 empty server will not get you a game.
 
-**[Join the Cut's Discord](https://discord.gg/yz3AhkJCxg)**, then watch for the sign-up when
+**[Join The Cut's Discord](https://discord.gg/yz3AhkJCxg)**, then watch for the sign-up when
 it goes up.
 
 It is also where [Ski Club](/community/ski-club) runs its 5v5 games, and where the

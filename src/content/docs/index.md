@@ -51,7 +51,7 @@ Tribes2Maps — and where to look before writing one of this wiki's
 ### 25 Year Anniversary Tournament — May 29, 2026
 
 Tribes 2 turns 25, and it is being marked with a tournament: the **25 Year Anniversary
-Tournament**, hosted by **the Cut** and powered by **TribalOutpost**. Sign-ups, rules and
+Tournament**, hosted by **The Cut** and powered by **TribalOutpost**. Sign-ups, rules and
 the full schedule are at **[tribes2forever.com](https://tribes2forever.com)**.
 
 #### Format
