@@ -1,0 +1,67 @@
+---
+/**
+ * Wraps Starlight's default footer with per-page provenance for content
+ * recovered from the Internet Archive, so attribution travels with the article
+ * rather than living only in NOTICE.md.
+ */
+import Default from '@astrojs/starlight/components/Footer.astro';
+
+interface Attribution {
+  source: string;
+  author: string;
+  url?: string;
+  license?: string;
+  extent?: string;
+}
+
+const { entry } = Astro.locals.starlightRoute;
+const data = entry.data as {
+  source?: { url: string; archived: string; lastModified?: string };
+  attribution?: Attribution[];
+};
+const source = data.source;
+const attribution = data.attribution ?? [];
+
+const lastModified = source?.lastModified
+  ? new Date(source.lastModified).toLocaleDateString('en-GB', {
+      day: 'numeric',
+      month: 'long',
+      year: 'numeric',
+    })
+  : null;
+---
+
+{
+  (source || attribution.length > 0) && (
+    <div class="t2-provenance">
+      {source && (
+        <p>
+          Recovered from the original <strong>tribes2wiki.com</strong>, written by its community of
+          contributors.
+          {lastModified && <> Last edited there on {lastModified}.</>}{' '}
+          <a href={source.archived} rel="nofollow noopener">
+            View the archived original
+          </a>
+          .
+        </p>
+      )}
+      {attribution.map((credit) => (
+        <p>
+          {credit.extent ?? 'Includes material'} from{' '}
+          {credit.url ? (
+            <a href={credit.url} rel="nofollow noopener">
+              {credit.source}
+            </a>
+          ) : (
+            <strong>{credit.source}</strong>
+          )}{' '}
+          by <strong>{credit.author}</strong>
+          {credit.license && <>, licensed under {credit.license}</>}
+          .
+        </p>
+      ))}
+    </div>
+  )
+}
+
+<Default><slot /></Default>

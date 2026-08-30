@@ -1,0 +1,758 @@
+{
+  "generatedAt": "2026-08-29T23:54:05.569Z",
+  "note": "Authorship recovered from archived MediaWiki history pages. Email addresses were never public on the original wiki and are not recoverable.",
+  "pageCount": 8,
+  "revisionCount": 76,
+  "contributors": [
+    {
+      "user": "Kryand",
+      "edits": 45
+    },
+    {
+      "user": "Eolk",
+      "edits": 6
+    },
+    {
+      "user": "Red Shifter",
+      "edits": 4
+    },
+    {
+      "user": "Misanthropic",
+      "edits": 2
+    },
+    {
+      "user": "119.93.229.211",
+      "edits": 1
+    },
+    {
+      "user": "12.183.120.62",
+      "edits": 1
+    },
+    {
+      "user": "147.86.23.36",
+      "edits": 1
+    },
+    {
+      "user": "195.33.140.250",
+      "edits": 1
+    },
+    {
+      "user": "200.87.98.100",
+      "edits": 1
+    },
+    {
+      "user": "212.116.219.91",
+      "edits": 1
+    },
+    {
+      "user": "212.138.113.11",
+      "edits": 1
+    },
+    {
+      "user": "212.138.47.13",
+      "edits": 1
+    },
+    {
+      "user": "65.111.184.207",
+      "edits": 1
+    },
+    {
+      "user": "72.166.66.4",
+      "edits": 1
+    },
+    {
+      "user": "74.192.208.188",
+      "edits": 1
+    },
+    {
+      "user": "81.195.140.138",
+      "edits": 1
+    },
+    {
+      "user": "82.140.10.90",
+      "edits": 1
+    },
+    {
+      "user": "93.62.224.186",
+      "edits": 1
+    },
+    {
+      "user": "DS",
+      "edits": 1
+    },
+    {
+      "user": "Ehafazotije",
+      "edits": 1
+    },
+    {
+      "user": "Maychill101",
+      "edits": 1
+    },
+    {
+      "user": "Redirect fixer",
+      "edits": 1
+    },
+    {
+      "user": "Teratos",
+      "edits": 1
+    }
+  ],
+  "pages": [
+    {
+      "title": "Base asset",
+      "source": "https://web.archive.org/web/20100417113050id_/http://www.tribes2wiki.com:80/w/index.php5?title=Base_asset&action=history",
+      "revisions": [
+        {
+          "timestamp": "2009-01-18T12:49:00.000Z",
+          "user": "Kryand",
+          "summary": "New page: A '''base asset''' is any stationary object on a map that belongs to one of the teams and provides that team with certain functions. In most mods, these are base turrets, [[inv...",
+          "minor": false,
+          "bytes": 917,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-01-21T14:46:00.000Z",
+          "user": "Eolk",
+          "summary": "Categorize.",
+          "minor": false,
+          "bytes": 943,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-03-27T02:49:00.000Z",
+          "user": "Kryand",
+          "summary": "",
+          "minor": false,
+          "bytes": 952,
+          "reverted": false
+        },
+        {
+          "timestamp": "2010-04-12T06:14:00.000Z",
+          "user": "Maychill101",
+          "summary": "",
+          "minor": false,
+          "bytes": 1038,
+          "reverted": false
+        },
+        {
+          "timestamp": "2010-04-13T20:16:00.000Z",
+          "user": "Eolk",
+          "summary": "Undo revision 1408 by Maychill101 (Talk)",
+          "minor": false,
+          "bytes": 952,
+          "reverted": false
+        }
+      ]
+    },
+    {
+      "title": "Fusion mortar",
+      "source": "https://web.archive.org/web/20101107075202id_/http://www.tribes2wiki.com:80/w/index.php5?title=Fusion_mortar&action=history",
+      "revisions": [
+        {
+          "timestamp": "2008-12-08T23:23:00.000Z",
+          "user": "Eolk",
+          "summary": "Create this.",
+          "minor": false,
+          "bytes": 1260,
+          "reverted": false
+        },
+        {
+          "timestamp": "2008-12-08T23:35:00.000Z",
+          "user": "Eolk",
+          "summary": "Add two more.",
+          "minor": false,
+          "bytes": 1910,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-01-16T02:00:00.000Z",
+          "user": "Kryand",
+          "summary": "",
+          "minor": false,
+          "bytes": 1971,
+          "reverted": false
+        },
+        {
+          "timestamp": "2010-06-27T23:02:00.000Z",
+          "user": "74.192.208.188",
+          "summary": "",
+          "minor": false,
+          "bytes": 1970,
+          "reverted": false
+        }
+      ]
+    },
+    {
+      "title": "Juggernaut armor",
+      "source": "https://web.archive.org/web/20101107075208id_/http://www.tribes2wiki.com:80/w/index.php5?title=Juggernaut_armor&action=history",
+      "revisions": [
+        {
+          "timestamp": "2009-03-27T04:04:00.000Z",
+          "user": "Kryand",
+          "summary": "New page: {{stub}} The '''Juggernaut armor''', more commonly referred to as '''heavy armor''' or '''heavy''', is the largest, slowest, and most durable armor in Tribes 2. The lack of maneuverability...",
+          "minor": false,
+          "bytes": 558,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-04-02T23:55:00.000Z",
+          "user": "Red Shifter",
+          "summary": "categorized",
+          "minor": false,
+          "bytes": 578,
+          "reverted": false
+        }
+      ]
+    },
+    {
+      "title": "Main Page",
+      "source": "https://web.archive.org/web/20110825005725id_/http://www.tribes2wiki.com:80/w/index.php5?title=Main_Page&action=history",
+      "revisions": [
+        {
+          "timestamp": "2008-12-07T19:52:00.000Z",
+          "user": "Kryand",
+          "summary": "New page: __NOTOC__ {| width=\"100%\" style=\"border: 1px solid #aaaacc; background-color: #eeeeff; padding: 0.5em; margin-top: 1em\" | Image:TWB_Tribes2.jpg | '''Welcome to the Unofficial Tribes 2...",
+          "minor": false,
+          "bytes": 3837,
+          "reverted": false
+        },
+        {
+          "timestamp": "2008-12-07T19:53:00.000Z",
+          "user": "Kryand",
+          "summary": "New Main Page moved to Main Page: finished",
+          "minor": false,
+          "bytes": null,
+          "reverted": false
+        },
+        {
+          "timestamp": "2008-12-07T20:17:00.000Z",
+          "user": "Kryand",
+          "summary": "Protected \"Main Page\" [edit=autoconfirmed:move=autoconfirmed]",
+          "minor": false,
+          "bytes": null,
+          "reverted": false
+        },
+        {
+          "timestamp": "2008-12-07T20:36:00.000Z",
+          "user": "Kryand",
+          "summary": "→Significant Articles",
+          "minor": false,
+          "bytes": 3810,
+          "reverted": false
+        },
+        {
+          "timestamp": "2008-12-07T23:53:00.000Z",
+          "user": "Kryand",
+          "summary": "",
+          "minor": false,
+          "bytes": 3809,
+          "reverted": false
+        },
+        {
+          "timestamp": "2008-12-08T05:23:00.000Z",
+          "user": "Kryand",
+          "summary": "",
+          "minor": false,
+          "bytes": 3808,
+          "reverted": false
+        },
+        {
+          "timestamp": "2008-12-09T01:18:00.000Z",
+          "user": "Teratos",
+          "summary": "Added a few gametypes, re-ordered in alpha order (lol)",
+          "minor": false,
+          "bytes": 3854,
+          "reverted": false
+        },
+        {
+          "timestamp": "2008-12-09T18:36:00.000Z",
+          "user": "Kryand",
+          "summary": "",
+          "minor": false,
+          "bytes": 3943,
+          "reverted": false
+        },
+        {
+          "timestamp": "2008-12-09T18:43:00.000Z",
+          "user": "Kryand",
+          "summary": "",
+          "minor": false,
+          "bytes": 3909,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-01-04T00:30:00.000Z",
+          "user": "Kryand",
+          "summary": "",
+          "minor": false,
+          "bytes": 3921,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-01-17T17:19:00.000Z",
+          "user": "Kryand",
+          "summary": "→Significant Articles",
+          "minor": false,
+          "bytes": 3090,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-01-17T17:31:00.000Z",
+          "user": "Kryand",
+          "summary": "→Unwritten Articles",
+          "minor": false,
+          "bytes": 2415,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-01-17T17:34:00.000Z",
+          "user": "Kryand",
+          "summary": "→Unwritten Articles",
+          "minor": false,
+          "bytes": 2499,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-01-17T17:34:00.000Z",
+          "user": "Kryand",
+          "summary": "→Unwritten Articles",
+          "minor": false,
+          "bytes": 2491,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-01-17T17:44:00.000Z",
+          "user": "Kryand",
+          "summary": "→To-do List",
+          "minor": false,
+          "bytes": 2931,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-01-17T17:48:00.000Z",
+          "user": "Kryand",
+          "summary": "→Unwritten articles",
+          "minor": false,
+          "bytes": 3178,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-01-19T11:23:00.000Z",
+          "user": "Kryand",
+          "summary": "→Unwritten articles",
+          "minor": false,
+          "bytes": 3159,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-02-01T11:53:00.000Z",
+          "user": "Red Shifter",
+          "summary": "→Unwritten articles",
+          "minor": false,
+          "bytes": 3110,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-03-27T04:06:00.000Z",
+          "user": "Kryand",
+          "summary": "→Unwritten articles",
+          "minor": false,
+          "bytes": 3044,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-06-30T19:43:00.000Z",
+          "user": "Kryand",
+          "summary": "→Unwritten articles",
+          "minor": false,
+          "bytes": 2919,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-07-02T09:12:00.000Z",
+          "user": "Kryand",
+          "summary": "",
+          "minor": false,
+          "bytes": 2878,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-07-02T10:50:00.000Z",
+          "user": "Kryand",
+          "summary": "→Unwritten articles",
+          "minor": false,
+          "bytes": 2718,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-07-03T07:47:00.000Z",
+          "user": "Kryand",
+          "summary": "",
+          "minor": false,
+          "bytes": 2524,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-10-18T07:29:00.000Z",
+          "user": "Kryand",
+          "summary": "",
+          "minor": false,
+          "bytes": 2468,
+          "reverted": false
+        },
+        {
+          "timestamp": "2010-05-29T00:26:00.000Z",
+          "user": "Kryand",
+          "summary": "",
+          "minor": false,
+          "bytes": 2274,
+          "reverted": false
+        },
+        {
+          "timestamp": "2010-08-22T13:05:00.000Z",
+          "user": "Kryand",
+          "summary": "",
+          "minor": false,
+          "bytes": 2273,
+          "reverted": false
+        }
+      ]
+    },
+    {
+      "title": "Map",
+      "source": "https://web.archive.org/web/20100513002639id_/http://www.tribes2wiki.com:80/w/index.php5?title=Map&action=history",
+      "revisions": [
+        {
+          "timestamp": "2008-12-10T01:26:00.000Z",
+          "user": "Eolk",
+          "summary": "Create.",
+          "minor": false,
+          "bytes": 523,
+          "reverted": false
+        },
+        {
+          "timestamp": "2008-12-10T01:47:00.000Z",
+          "user": "Eolk",
+          "summary": "Eh, remove that category.",
+          "minor": false,
+          "bytes": 505,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-01-18T14:19:00.000Z",
+          "user": "Kryand",
+          "summary": "",
+          "minor": false,
+          "bytes": 5350,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-05-20T13:23:00.000Z",
+          "user": "147.86.23.36",
+          "summary": "czgjxAhRSi",
+          "minor": false,
+          "bytes": 187,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-05-20T13:24:00.000Z",
+          "user": "212.116.219.91",
+          "summary": "eBsrzpgeEKUNmDsVN",
+          "minor": false,
+          "bytes": 187,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-05-20T13:24:00.000Z",
+          "user": "81.195.140.138",
+          "summary": "GIkxVJTgAQrYDbGuS",
+          "minor": false,
+          "bytes": 187,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-05-20T13:25:00.000Z",
+          "user": "119.93.229.211",
+          "summary": "KvtAOyxRIe",
+          "minor": false,
+          "bytes": 187,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-05-20T13:25:00.000Z",
+          "user": "200.87.98.100",
+          "summary": "ESaGqzLRpqxH",
+          "minor": false,
+          "bytes": 187,
+          "reverted": true
+        },
+        {
+          "timestamp": "2009-05-23T10:07:00.000Z",
+          "user": "Kryand",
+          "summary": "Reverted edits by 200.87.98.100 (Talk) to last version by 119.93.229.211",
+          "minor": false,
+          "bytes": 187,
+          "reverted": true
+        },
+        {
+          "timestamp": "2009-05-23T10:08:00.000Z",
+          "user": "Kryand",
+          "summary": "Reverted edits by Kryand (Talk) to last version by 200.87.98.100",
+          "minor": false,
+          "bytes": 187,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-05-23T10:10:00.000Z",
+          "user": "Kryand",
+          "summary": "",
+          "minor": false,
+          "bytes": 5350,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-09-03T06:50:00.000Z",
+          "user": "82.140.10.90",
+          "summary": "→MIS file",
+          "minor": false,
+          "bytes": 4983,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-09-03T06:51:00.000Z",
+          "user": "65.111.184.207",
+          "summary": "→NAV file",
+          "minor": false,
+          "bytes": 4792,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-09-03T06:51:00.000Z",
+          "user": "212.138.47.13",
+          "summary": "→SPN file",
+          "minor": false,
+          "bytes": 3743,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-09-03T06:51:00.000Z",
+          "user": "12.183.120.62",
+          "summary": "→Editing",
+          "minor": false,
+          "bytes": 1690,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-09-03T06:52:00.000Z",
+          "user": "212.138.113.11",
+          "summary": "BMcpERpMbDwAwo",
+          "minor": false,
+          "bytes": 187,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-09-03T06:52:00.000Z",
+          "user": "93.62.224.186",
+          "summary": "PAmXsvknExqotGUZg",
+          "minor": false,
+          "bytes": 187,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-09-04T07:53:00.000Z",
+          "user": "Red Shifter",
+          "summary": "",
+          "minor": false,
+          "bytes": 5350,
+          "reverted": false
+        }
+      ]
+    },
+    {
+      "title": "Spinfusor",
+      "source": "https://web.archive.org/web/20111007064244id_/http://www.tribes2wiki.com:80/w/index.php5?title=Spinfusor&action=history",
+      "revisions": [
+        {
+          "timestamp": "2008-11-05T00:00:00.000Z",
+          "user": "Kryand",
+          "summary": "initial",
+          "minor": false,
+          "bytes": 3453,
+          "reverted": false
+        },
+        {
+          "timestamp": "2008-11-05T00:13:00.000Z",
+          "user": "Kryand",
+          "summary": "category link",
+          "minor": false,
+          "bytes": 3476,
+          "reverted": false
+        },
+        {
+          "timestamp": "2008-11-05T16:49:00.000Z",
+          "user": "Kryand",
+          "summary": "make use of a twb template",
+          "minor": false,
+          "bytes": 3448,
+          "reverted": false
+        },
+        {
+          "timestamp": "2008-11-11T05:23:00.000Z",
+          "user": "Kryand",
+          "summary": "technical info",
+          "minor": false,
+          "bytes": 3990,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-01-07T08:53:00.000Z",
+          "user": "Kryand",
+          "summary": "",
+          "minor": false,
+          "bytes": 5143,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-07-28T19:39:00.000Z",
+          "user": "Kryand",
+          "summary": "→Usage",
+          "minor": false,
+          "bytes": 5171,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-07-28T19:40:00.000Z",
+          "user": "Kryand",
+          "summary": "→Dueling: I doubt there will ever be an article for this",
+          "minor": false,
+          "bytes": 5167,
+          "reverted": false
+        },
+        {
+          "timestamp": "2010-11-24T01:45:00.000Z",
+          "user": "Ehafazotije",
+          "summary": "",
+          "minor": false,
+          "bytes": 5654,
+          "reverted": true
+        },
+        {
+          "timestamp": "2010-11-24T01:47:00.000Z",
+          "user": "DS",
+          "summary": "Reverted edits by Ehafazotije (talk) to last revision by Kryand",
+          "minor": false,
+          "bytes": 5167,
+          "reverted": false
+        },
+        {
+          "timestamp": "2011-05-26T10:10:00.000Z",
+          "user": "Misanthropic",
+          "summary": "",
+          "minor": false,
+          "bytes": 5760,
+          "reverted": false
+        },
+        {
+          "timestamp": "2011-05-26T10:11:00.000Z",
+          "user": "Misanthropic",
+          "summary": "",
+          "minor": false,
+          "bytes": 5760,
+          "reverted": false
+        }
+      ]
+    },
+    {
+      "title": "Tribes 2",
+      "source": "https://web.archive.org/web/20101107072956id_/http://www.tribes2wiki.com:80/w/index.php5?title=Tribes_2&action=history",
+      "revisions": [
+        {
+          "timestamp": "2008-11-09T21:42:00.000Z",
+          "user": "Kryand",
+          "summary": "inital - redirect",
+          "minor": false,
+          "bytes": 23,
+          "reverted": false
+        },
+        {
+          "timestamp": "2008-12-07T19:05:00.000Z",
+          "user": "Redirect fixer",
+          "summary": "Main Page has been moved, it is now a redirect to Old Main Page",
+          "minor": false,
+          "bytes": 27,
+          "reverted": false
+        },
+        {
+          "timestamp": "2008-12-07T21:42:00.000Z",
+          "user": "Kryand",
+          "summary": "",
+          "minor": false,
+          "bytes": 64,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-03-27T01:29:00.000Z",
+          "user": "Kryand",
+          "summary": "",
+          "minor": false,
+          "bytes": 73,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-05-20T13:24:00.000Z",
+          "user": "72.166.66.4",
+          "summary": "QuuULuOaIhPHaSbnULP",
+          "minor": false,
+          "bytes": 187,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-05-23T10:11:00.000Z",
+          "user": "Kryand",
+          "summary": "",
+          "minor": false,
+          "bytes": 73,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-09-03T06:51:00.000Z",
+          "user": "195.33.140.250",
+          "summary": "KoHHtIaqmjElqNfP",
+          "minor": false,
+          "bytes": 187,
+          "reverted": false
+        },
+        {
+          "timestamp": "2009-09-04T07:53:00.000Z",
+          "user": "Red Shifter",
+          "summary": "",
+          "minor": false,
+          "bytes": 73,
+          "reverted": false
+        }
+      ]
+    },
+    {
+      "title": "Tribes2Wiki talk:News/Tribes 2 IRC Issues",
+      "source": "https://web.archive.org/web/20110829071048id_/http://www.tribes2wiki.com:80/w/index.php5?title=Tribes2Wiki_talk:News/Tribes_2_IRC_Issues&action=history",
+      "revisions": [
+        {
+          "timestamp": "2010-10-07T22:38:00.000Z",
+          "user": "Kryand",
+          "summary": "Created page with \"==Connecting to the new IRC server== You will need an IRC client such as mIRC, X-Chat, Mibbit, etc. If you have a client installed, you should be able to click on this link to au...\"",
+          "minor": false,
+          "bytes": 501,
+          "reverted": false
+        },
+        {
+          "timestamp": "2011-07-27T16:12:00.000Z",
+          "user": "Kryand",
+          "summary": "→Connecting to the new IRC server",
+          "minor": false,
+          "bytes": 522,
+          "reverted": false
+        }
+      ]
+    }
+  ]
+}

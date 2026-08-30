@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.astro/
+
+# Raw Wayback captures. Reproducible from archive/manifest.json via `npm run fetch-archive`.
+/archive-cache/
+
+# Reference-only material that must never be committed (e.g. the original wiki logo).
+/reference/
+
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*

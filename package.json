@@ -1,0 +1,31 @@
+{
+  "name": "tribes2wiki",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "The Community Tribes 2 Wiki",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "fetch-archive": "node scripts/fetch-archive.ts",
+    "fetch-history": "node scripts/fetch-history.ts",
+    "convert": "node scripts/convert.ts",
+    "report-missing": "node scripts/report-missing.ts",
+    "replay-history": "node scripts/replay-history.ts",
+    "trace-emblem": "node scripts/trace-emblem.ts",
+    "fetch-images": "node scripts/fetch-images.ts",
+    "generate-redirects": "node scripts/generate-redirects.ts"
+  },
+  "dependencies": {
+    "@astrojs/starlight": "^0.41.10",
+    "astro": "^7.2.9",
+    "sharp": "^0.35.4"
+  },
+  "devDependencies": {
+    "cheerio": "^1.2.0",
+    "potrace": "^2.1.8",
+    "turndown": "^7.2.4",
+    "turndown-plugin-gfm": "^1.0.2"
+  }
+}

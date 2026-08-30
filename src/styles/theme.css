@@ -1,0 +1,79 @@
+/*
+ * Tribes 2 styling for Starlight: weathered steel base, molten gold accents.
+ * Only Starlight's design tokens are overridden, so upstream theme updates
+ * keep working.
+ */
+
+:root {
+  /* Gold accent ramp, light mode. */
+  --sl-color-accent-low: #f5e6c0;
+  --sl-color-accent: #9a6a12;
+  --sl-color-accent-high: #5e3f08;
+
+  --t2-gold: #c9962f;
+  --t2-gold-bright: #f0c757;
+  --t2-steel: #5f6a77;
+  --t2-rule: rgba(201, 150, 47, 0.35);
+}
+
+:root[data-theme='dark'] {
+  --sl-color-accent-low: #3a2a08;
+  --sl-color-accent: #c9962f;
+  --sl-color-accent-high: #f4d98a;
+
+  /* Cool slate rather than Starlight's neutral grey. */
+  --sl-color-bg: #14181e;
+  --sl-color-bg-nav: #171c23;
+  --sl-color-bg-sidebar: #171c23;
+  --sl-color-bg-inline-code: #232a33;
+  --sl-color-hairline: #2a323c;
+  --sl-color-hairline-light: #333c47;
+
+  --t2-gold: #e0ad3f;
+  --t2-gold-bright: #f4d98a;
+  --t2-steel: #8e99a6;
+  --t2-rule: rgba(224, 173, 63, 0.3);
+}
+
+/* Headings pick up the metal accent, mirroring the logo's gold-on-steel. */
+.sl-markdown-content h1,
+.sl-markdown-content h2 {
+  color: var(--t2-gold);
+}
+
+.sl-markdown-content h2 {
+  border-bottom: 1px solid var(--t2-rule);
+  padding-bottom: 0.25rem;
+}
+
+.site-title {
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+/* Provenance block appended to imported pages. */
+.t2-provenance {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--sl-color-hairline);
+  font-size: var(--sl-text-xs);
+  color: var(--sl-color-gray-3);
+  line-height: 1.6;
+}
+
+.t2-provenance a {
+  color: var(--sl-color-gray-2);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.t2-provenance a:hover {
+  color: var(--t2-gold);
+}
+
+/* Recovered screenshots are low-resolution; don't let them balloon. */
+.sl-markdown-content img {
+  max-width: min(100%, 32rem);
+  height: auto;
+  border-radius: 4px;
+}

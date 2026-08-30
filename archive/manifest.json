@@ -1,0 +1,1881 @@
+{
+  "generatedAt": "2026-08-29T23:36:18.503Z",
+  "source": {
+    "host": "tribes2wiki.com",
+    "cdx": "http://web.archive.org/cdx/search/cdx?url=tribes2wiki.com&matchType=domain&filter=statuscode:200",
+    "note": "Captures fetched with the id_ modifier: original markup, no Wayback toolbar."
+  },
+  "pageCount": 75,
+  "captureCount": 192,
+  "pages": [
+    {
+      "title": "Assault armor",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Assault_armor",
+      "captures": [
+        {
+          "timestamp": "20110717100441",
+          "waybackUrl": "https://web.archive.org/web/20110717100441id_/http://www.tribes2wiki.com/wiki/Assault_armor",
+          "sha256": "14331b9efb2a40cc77185c1c6be9bbf9c84b8b8d89218f18fccf55ae4ff0eecc",
+          "lastModified": "2009-04-02T23:56:00.000Z",
+          "cacheFile": "archive-cache/pages/Assault_armor/20110717100441.html"
+        }
+      ]
+    },
+    {
+      "title": "Base",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Base",
+      "captures": [
+        {
+          "timestamp": "20111007064254",
+          "waybackUrl": "https://web.archive.org/web/20111007064254id_/http://www.tribes2wiki.com:80/wiki/Base",
+          "sha256": "29b253a9588b13904652b7517e4a09a77a84876bcdca7787993757eb3b174311",
+          "lastModified": "2009-03-27T02:38:00.000Z",
+          "cacheFile": "archive-cache/pages/Base/20111007064254.html"
+        }
+      ]
+    },
+    {
+      "title": "Base asset",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Base_asset",
+      "captures": [
+        {
+          "timestamp": "20100415054211",
+          "waybackUrl": "https://web.archive.org/web/20100415054211id_/http://www.tribes2wiki.com:80/wiki/Base_asset",
+          "sha256": "319812e1a6eba7ad01c9bf303c6821b73c056fa609026987a6c5f22de9108017",
+          "lastModified": "2010-04-13T20:16:00.000Z",
+          "cacheFile": "archive-cache/pages/Base_asset/20100415054211.html"
+        },
+        {
+          "timestamp": "20100516101821",
+          "waybackUrl": "https://web.archive.org/web/20100516101821id_/http://www.tribes2wiki.com:80/wiki/Base_asset",
+          "sha256": "414755071e319f39316f43070472b82b24d268bdbaec35e6ae3f329a5cca21d9",
+          "lastModified": "2010-04-13T20:16:00.000Z",
+          "cacheFile": "archive-cache/pages/Base_asset/20100516101821.html"
+        },
+        {
+          "timestamp": "20100617062504",
+          "waybackUrl": "https://web.archive.org/web/20100617062504id_/http://www.tribes2wiki.com:80/wiki/Base_asset",
+          "sha256": "ceb5fad90ead9d1def823e7190c8ee006a02d07da96216d1e0d852e228817d53",
+          "lastModified": "2010-04-13T20:16:00.000Z",
+          "cacheFile": "archive-cache/pages/Base_asset/20100617062504.html"
+        }
+      ]
+    },
+    {
+      "title": "Base raping",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Base_raping",
+      "captures": [
+        {
+          "timestamp": "20101107074519",
+          "waybackUrl": "https://web.archive.org/web/20101107074519id_/http://www.tribes2wiki.com:80/wiki/Base_raping",
+          "sha256": "3c2b6b59a6e09ba4cddc0f71d24dfb5bfa8090c430928ae800081bd6d510844d",
+          "lastModified": "2009-08-03T02:47:00.000Z",
+          "cacheFile": "archive-cache/pages/Base_raping/20101107074519.html"
+        }
+      ]
+    },
+    {
+      "title": "Base turret",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Base_turret",
+      "captures": [
+        {
+          "timestamp": "20100417113116",
+          "waybackUrl": "https://web.archive.org/web/20100417113116id_/http://www.tribes2wiki.com:80/wiki/Base_turret",
+          "sha256": "fe4b26b0a0ceb2726885578ded6da65c9576b1ed97aff0e055052dea2b65f7c5",
+          "lastModified": "2010-03-15T08:50:00.000Z",
+          "cacheFile": "archive-cache/pages/Base_turret/20100417113116.html"
+        }
+      ]
+    },
+    {
+      "title": "Browser",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Browser",
+      "captures": [
+        {
+          "timestamp": "20101107080443",
+          "waybackUrl": "https://web.archive.org/web/20101107080443id_/http://www.tribes2wiki.com:80/wiki/Browser",
+          "sha256": "eef669345b8c03ea5bd31781209516c4fad0886958e17147a044f0c50966b209",
+          "lastModified": "2009-03-27T02:50:00.000Z",
+          "cacheFile": "archive-cache/pages/Browser/20101107080443.html"
+        }
+      ]
+    },
+    {
+      "title": "Capper",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Capper",
+      "captures": [
+        {
+          "timestamp": "20090629060216",
+          "waybackUrl": "https://web.archive.org/web/20090629060216id_/http://www.tribes2wiki.com:80/wiki/Capper",
+          "sha256": "83902a5aaf973e91e710d8ebd5817ffa3edbdf7c8c229994d3dced7e4b84b7fd",
+          "lastModified": "2009-01-21T14:02:00.000Z",
+          "cacheFile": "archive-cache/pages/Capper/20090629060216.html"
+        },
+        {
+          "timestamp": "20100113114018",
+          "waybackUrl": "https://web.archive.org/web/20100113114018id_/http://www.tribes2wiki.com:80/wiki/Capper",
+          "sha256": "9b60065e9c746c17b221eba79cb52b6a205335b2c117979c640adb74fd7aabd0",
+          "lastModified": "2009-09-18T20:05:00.000Z",
+          "cacheFile": "archive-cache/pages/Capper/20100113114018.html"
+        },
+        {
+          "timestamp": "20101106204536",
+          "waybackUrl": "https://web.archive.org/web/20101106204536id_/http://www.tribes2wiki.com:80/wiki/Capper",
+          "sha256": "000744fe26c4f0ac530164d2ea3f0095d641fe7b6c56be2935eff009ac47bfea",
+          "lastModified": "2009-09-18T20:05:00.000Z",
+          "cacheFile": "archive-cache/pages/Capper/20101106204536.html"
+        },
+        {
+          "timestamp": "20110323012504",
+          "waybackUrl": "https://web.archive.org/web/20110323012504id_/http://www.tribes2wiki.com:80/wiki/Capper",
+          "sha256": "c22b45810726f53b64db9a18d43b96f10117b5bb85e7f9f3683fc89d318894a7",
+          "lastModified": "2009-09-18T20:05:00.000Z",
+          "cacheFile": "archive-cache/pages/Capper/20110323012504.html"
+        },
+        {
+          "timestamp": "20110425012426",
+          "waybackUrl": "https://web.archive.org/web/20110425012426id_/http://www.tribes2wiki.com:80/wiki/Capper",
+          "sha256": "42def0cf473326f1ad1b77687c4aa40add159e1f6af7c527624fd548aa83ea22",
+          "lastModified": "2009-09-18T20:05:00.000Z",
+          "cacheFile": "archive-cache/pages/Capper/20110425012426.html"
+        },
+        {
+          "timestamp": "20110717100952",
+          "waybackUrl": "https://web.archive.org/web/20110717100952id_/http://www.tribes2wiki.com/wiki/Capper",
+          "sha256": "c732c5fc0f81c0d975db6b8cfee716e9e33afb093c593786991170a977bd146e",
+          "lastModified": "2009-09-18T20:05:00.000Z",
+          "cacheFile": "archive-cache/pages/Capper/20110717100952.html"
+        },
+        {
+          "timestamp": "20110907143425",
+          "waybackUrl": "https://web.archive.org/web/20110907143425id_/http://www.tribes2wiki.com:80/wiki/Capper",
+          "sha256": "58d847b5da15d94d49989401ab9435740721c4ab75be729a9ba625cc096611fb",
+          "lastModified": "2009-09-18T20:05:00.000Z",
+          "cacheFile": "archive-cache/pages/Capper/20110907143425.html"
+        }
+      ]
+    },
+    {
+      "title": "Capture the Flag",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Capture_the_Flag",
+      "captures": [
+        {
+          "timestamp": "20110827081205",
+          "waybackUrl": "https://web.archive.org/web/20110827081205id_/http://www.tribes2wiki.com:80/wiki/Capture_the_Flag",
+          "sha256": "899e29894f50422abb98078320076d4501de5eb78ae86096dfefdd822e5fb400",
+          "lastModified": "2009-09-18T19:57:00.000Z",
+          "cacheFile": "archive-cache/pages/Capture_the_Flag/20110827081205.html"
+        }
+      ]
+    },
+    {
+      "title": "Category:Armors",
+      "namespace": "Category",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Category:Armors",
+      "captures": [
+        {
+          "timestamp": "20101107080448",
+          "waybackUrl": "https://web.archive.org/web/20101107080448id_/http://www.tribes2wiki.com:80/wiki/Category:Armors",
+          "sha256": "6b590aba8985dd555eaa58c1dfdf1e87923f128958a3dd81eaddda47b892fe3b",
+          "lastModified": "2009-04-02T23:55:00.000Z",
+          "cacheFile": "archive-cache/pages/Category_Armors/20101107080448.html"
+        }
+      ]
+    },
+    {
+      "title": "Category:Base assets",
+      "namespace": "Category",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Category:Base_assets",
+      "captures": [
+        {
+          "timestamp": "20100417113405",
+          "waybackUrl": "https://web.archive.org/web/20100417113405id_/http://www.tribes2wiki.com:80/wiki/Category:Base_assets",
+          "sha256": "bd3cf69898b4aac84fc5b2e83cfa5b7d1d4efffc8226e0956f28262b151917e0",
+          "lastModified": "2009-01-16T01:13:00.000Z",
+          "cacheFile": "archive-cache/pages/Category_Base_assets/20100417113405.html"
+        }
+      ]
+    },
+    {
+      "title": "Category:Maps",
+      "namespace": "Category",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Category:Maps",
+      "captures": [
+        {
+          "timestamp": "20100513003730",
+          "waybackUrl": "https://web.archive.org/web/20100513003730id_/http://www.tribes2wiki.com:80/wiki/Category:Maps",
+          "sha256": "da553b35344caba4a059eb0585a427b45f16190c7b9a547b27b98547791efb65",
+          "lastModified": "2008-12-10T21:11:00.000Z",
+          "cacheFile": "archive-cache/pages/Category_Maps/20100513003730.html"
+        }
+      ]
+    },
+    {
+      "title": "Category:Movies",
+      "namespace": "Category",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Category:Movies",
+      "captures": [
+        {
+          "timestamp": "20111007064721",
+          "waybackUrl": "https://web.archive.org/web/20111007064721id_/http://www.tribes2wiki.com:80/wiki/Category:Movies",
+          "sha256": "62f7a4355ee15d7f58c2cef2f2a3f97668eca300055243bf1dcce7e08e5dbc41",
+          "lastModified": null,
+          "cacheFile": "archive-cache/pages/Category_Movies/20111007064721.html"
+        }
+      ]
+    },
+    {
+      "title": "Category:Scripting",
+      "namespace": "Category",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Category:Scripting",
+      "captures": [
+        {
+          "timestamp": "20100513003756",
+          "waybackUrl": "https://web.archive.org/web/20100513003756id_/http://www.tribes2wiki.com:80/wiki/Category:Scripting",
+          "sha256": "5ba99e6cb35d859687f22f2d0d2094105f1f85d27d589bbd827c3f96c7c06a99",
+          "lastModified": "2008-12-10T01:32:00.000Z",
+          "cacheFile": "archive-cache/pages/Category_Scripting/20100513003756.html"
+        }
+      ]
+    },
+    {
+      "title": "Category:Tactics",
+      "namespace": "Category",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Category:Tactics",
+      "captures": [
+        {
+          "timestamp": "20090629060237",
+          "waybackUrl": "https://web.archive.org/web/20090629060237id_/http://www.tribes2wiki.com:80/wiki/Category:Tactics",
+          "sha256": "82ef31ee22f6de3a3645ae307da86e53a0863d3d0705fff6380a51e4028b3e1b",
+          "lastModified": "2008-12-08T22:53:00.000Z",
+          "cacheFile": "archive-cache/pages/Category_Tactics/20090629060237.html"
+        },
+        {
+          "timestamp": "20100113134157",
+          "waybackUrl": "https://web.archive.org/web/20100113134157id_/http://www.tribes2wiki.com:80/wiki/Category:Tactics",
+          "sha256": "906590de5bcba9fad4ec14c0c4fe7fa02eff484fb7d1c81c35af20457505eeaf",
+          "lastModified": "2008-12-08T22:53:00.000Z",
+          "cacheFile": "archive-cache/pages/Category_Tactics/20100113134157.html"
+        },
+        {
+          "timestamp": "20101107080454",
+          "waybackUrl": "https://web.archive.org/web/20101107080454id_/http://www.tribes2wiki.com:80/wiki/Category:Tactics",
+          "sha256": "13a687978dd41ad244c861ebc0e42a3307f1b5c5adac415102ae194a479265f4",
+          "lastModified": "2008-12-08T22:53:00.000Z",
+          "cacheFile": "archive-cache/pages/Category_Tactics/20101107080454.html"
+        }
+      ]
+    },
+    {
+      "title": "Category:Weapons",
+      "namespace": "Category",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Category:Weapons",
+      "captures": [
+        {
+          "timestamp": "20090629060243",
+          "waybackUrl": "https://web.archive.org/web/20090629060243id_/http://www.tribes2wiki.com:80/wiki/Category:Weapons",
+          "sha256": "e69ef5f7176aadf81c367b1d366216add1d644834cb37ffa7ff49f7162fd7110",
+          "lastModified": "2008-11-05T15:33:00.000Z",
+          "cacheFile": "archive-cache/pages/Category_Weapons/20090629060243.html"
+        },
+        {
+          "timestamp": "20100115235336",
+          "waybackUrl": "https://web.archive.org/web/20100115235336id_/http://www.tribes2wiki.com:80/wiki/Category:Weapons",
+          "sha256": "9a6868ebe61420b0aceb25932d14780246109888102f2beef250e469e8b19790",
+          "lastModified": "2008-11-05T15:33:00.000Z",
+          "cacheFile": "archive-cache/pages/Category_Weapons/20100115235336.html"
+        },
+        {
+          "timestamp": "20101107074647",
+          "waybackUrl": "https://web.archive.org/web/20101107074647id_/http://www.tribes2wiki.com:80/wiki/Category:Weapons",
+          "sha256": "9b318b690f7ec0b28996aadef231a4c56efbadb6d5a41a30590edaafdb4c36bd",
+          "lastModified": "2008-11-05T15:33:00.000Z",
+          "cacheFile": "archive-cache/pages/Category_Weapons/20101107074647.html"
+        },
+        {
+          "timestamp": "20111007064259",
+          "waybackUrl": "https://web.archive.org/web/20111007064259id_/http://www.tribes2wiki.com:80/wiki/Category:Weapons",
+          "sha256": "c5c84c3a5c506b447253c620b46f494b4a6c442912997dc8cdd82c4ea4db182e",
+          "lastModified": "2008-11-05T15:33:00.000Z",
+          "cacheFile": "archive-cache/pages/Category_Weapons/20111007064259.html"
+        }
+      ]
+    },
+    {
+      "title": "Chaingun",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Chaingun",
+      "captures": [
+        {
+          "timestamp": "20090629060302",
+          "waybackUrl": "https://web.archive.org/web/20090629060302id_/http://www.tribes2wiki.com:80/wiki/Chaingun",
+          "sha256": "6f6bc3d31765f81cf542c70aad3e33fae15ac5b6267fbb7827390dd48252203c",
+          "lastModified": "2009-05-31T03:52:00.000Z",
+          "cacheFile": "archive-cache/pages/Chaingun/20090629060302.html"
+        },
+        {
+          "timestamp": "20100113114443",
+          "waybackUrl": "https://web.archive.org/web/20100113114443id_/http://www.tribes2wiki.com:80/wiki/Chaingun",
+          "sha256": "580cb34c6edf0cef93f35d6fdb373df7b75209279e3df072094f397aedd8f8e3",
+          "lastModified": "2009-06-30T19:48:00.000Z",
+          "cacheFile": "archive-cache/pages/Chaingun/20100113114443.html"
+        },
+        {
+          "timestamp": "20111007061618",
+          "waybackUrl": "https://web.archive.org/web/20111007061618id_/http://www.tribes2wiki.com:80/wiki/Chaingun",
+          "sha256": "c547a8689cc39cb0edfbe01b4241c17d80b468a67c5f2acab4bcce7ba0c97cd8",
+          "lastModified": "2010-11-24T01:47:00.000Z",
+          "cacheFile": "archive-cache/pages/Chaingun/20111007061618.html"
+        }
+      ]
+    },
+    {
+      "title": "Classic",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Classic",
+      "captures": [
+        {
+          "timestamp": "20111007113436",
+          "waybackUrl": "https://web.archive.org/web/20111007113436id_/http://www.tribes2wiki.com:80/wiki/Classic",
+          "sha256": "81a4b8d5deb2067b16406f778eea58c7bd181e6b924cf02ae0f02f2b16808f22",
+          "lastModified": "2010-10-28T03:55:00.000Z",
+          "cacheFile": "archive-cache/pages/Classic/20111007113436.html"
+        }
+      ]
+    },
+    {
+      "title": "Cloak pack",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Cloak_pack",
+      "captures": [
+        {
+          "timestamp": "20110323012734",
+          "waybackUrl": "https://web.archive.org/web/20110323012734id_/http://www.tribes2wiki.com:80/wiki/Cloak_pack",
+          "sha256": "68ff91c4f68e7569c5ceb5f94f2a41d253a39e5ffa582c4d5e85044e145062ba",
+          "lastModified": "2009-07-30T03:17:00.000Z",
+          "cacheFile": "archive-cache/pages/Cloak_pack/20110323012734.html"
+        },
+        {
+          "timestamp": "20110425011313",
+          "waybackUrl": "https://web.archive.org/web/20110425011313id_/http://www.tribes2wiki.com:80/wiki/Cloak_pack",
+          "sha256": "9ca5f95f62ee348c730641fbb6d1782d6dcdc79561a61b1bed946e8d88df8205",
+          "lastModified": "2009-07-30T03:17:00.000Z",
+          "cacheFile": "archive-cache/pages/Cloak_pack/20110425011313.html"
+        }
+      ]
+    },
+    {
+      "title": "Command circuit",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Command_circuit",
+      "captures": [
+        {
+          "timestamp": "20110717100159",
+          "waybackUrl": "https://web.archive.org/web/20110717100159id_/http://www.tribes2wiki.com/wiki/Command_circuit",
+          "sha256": "c3b29aa19eeb33aed62c07c274a70689d8d04eac0eefac424089c0ccf82d3245",
+          "lastModified": "2010-11-24T01:47:00.000Z",
+          "cacheFile": "archive-cache/pages/Command_circuit/20110717100159.html"
+        }
+      ]
+    },
+    {
+      "title": "DefaultGame.cs",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/DefaultGame.cs",
+      "captures": [
+        {
+          "timestamp": "20100617024043",
+          "waybackUrl": "https://web.archive.org/web/20100617024043id_/http://www.tribes2wiki.com:80/wiki/DefaultGame.cs",
+          "sha256": "c5d9d6dbd7bc7c81d83cd0825a08244115f45edb7dca723bf88a02f56b3c4dde",
+          "lastModified": "2008-11-11T03:38:00.000Z",
+          "cacheFile": "archive-cache/pages/DefaultGame_cs/20100617024043.html"
+        }
+      ]
+    },
+    {
+      "title": "Deployable station",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Deployable_station",
+      "captures": [
+        {
+          "timestamp": "20110323012932",
+          "waybackUrl": "https://web.archive.org/web/20110323012932id_/http://www.tribes2wiki.com:80/wiki/Deployable_station",
+          "sha256": "94acce6d20652f775dbf7497d593b3fb86f998b459cbbb5921953aa7168da624",
+          "lastModified": "2009-08-13T00:56:00.000Z",
+          "cacheFile": "archive-cache/pages/Deployable_station/20110323012932.html"
+        },
+        {
+          "timestamp": "20110425011841",
+          "waybackUrl": "https://web.archive.org/web/20110425011841id_/http://www.tribes2wiki.com:80/wiki/Deployable_station",
+          "sha256": "ea34e60b39eeafe5f01f549be178f2826c4e18831f4c08ba37bf28defe4d9881",
+          "lastModified": "2009-08-13T00:56:00.000Z",
+          "cacheFile": "archive-cache/pages/Deployable_station/20110425011841.html"
+        },
+        {
+          "timestamp": "20111007064730",
+          "waybackUrl": "https://web.archive.org/web/20111007064730id_/http://www.tribes2wiki.com:80/wiki/Deployable_station",
+          "sha256": "a7dbdd7787bc1669ea786416d65738e6bda3768a84dfc2a90be8994996aa7fb8",
+          "lastModified": "2009-08-13T00:56:00.000Z",
+          "cacheFile": "archive-cache/pages/Deployable_station/20111007064730.html"
+        }
+      ]
+    },
+    {
+      "title": "Energy pack",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Energy_pack",
+      "captures": [
+        {
+          "timestamp": "20110323012509",
+          "waybackUrl": "https://web.archive.org/web/20110323012509id_/http://www.tribes2wiki.com:80/wiki/Energy_pack",
+          "sha256": "984d06bf0b0c19b9840f7cc76ee324ecff5282b1bd67ee6029d85df0d501fe20",
+          "lastModified": "2009-01-15T13:53:00.000Z",
+          "cacheFile": "archive-cache/pages/Energy_pack/20110323012509.html"
+        },
+        {
+          "timestamp": "20110425010522",
+          "waybackUrl": "https://web.archive.org/web/20110425010522id_/http://www.tribes2wiki.com:80/wiki/Energy_pack",
+          "sha256": "1348639a91de4c27e9b72ed708ef8da7e9edfff4605fb654c01854b6d19e9795",
+          "lastModified": "2009-01-15T13:53:00.000Z",
+          "cacheFile": "archive-cache/pages/Energy_pack/20110425010522.html"
+        }
+      ]
+    },
+    {
+      "title": "Eolk",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Eolk",
+      "captures": [
+        {
+          "timestamp": "20110518133517",
+          "waybackUrl": "https://web.archive.org/web/20110518133517id_/http://www.tribes2wiki.com:80/wiki/Eolk",
+          "sha256": "29c7bfda8ea5e37e08fe43cdc88f61e9676ff1670989b148c057980b017b6712",
+          "lastModified": "2009-07-05T09:33:00.000Z",
+          "cacheFile": "archive-cache/pages/Eolk/20110518133517.html"
+        }
+      ]
+    },
+    {
+      "title": "Flag chaser",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Flag_chaser",
+      "captures": [
+        {
+          "timestamp": "20111007064304",
+          "waybackUrl": "https://web.archive.org/web/20111007064304id_/http://www.tribes2wiki.com:80/wiki/Flag_chaser",
+          "sha256": "8b9367de69b193b2425ae27c9f9715bd05b022bfb874d2e57c25fb7f6fc350a0",
+          "lastModified": "2009-07-28T23:33:00.000Z",
+          "cacheFile": "archive-cache/pages/Flag_chaser/20111007064304.html"
+        }
+      ]
+    },
+    {
+      "title": "Fusion mortar",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Fusion_mortar",
+      "captures": [
+        {
+          "timestamp": "20101105210726",
+          "waybackUrl": "https://web.archive.org/web/20101105210726id_/http://www.tribes2wiki.com:80/wiki/Fusion_mortar",
+          "sha256": "fdab214bc11b3d4ba3482887a4336253b589cc6444e0dce1e2be9451aca335a4",
+          "lastModified": "2010-06-27T23:02:00.000Z",
+          "cacheFile": "archive-cache/pages/Fusion_mortar/20101105210726.html"
+        },
+        {
+          "timestamp": "20101206060901",
+          "waybackUrl": "https://web.archive.org/web/20101206060901id_/http://www.tribes2wiki.com:80/wiki/Fusion_mortar",
+          "sha256": "0c91e01e918adfd1e615476595b58c6bec728a19ec62bd1c53c8284ab756f6ff",
+          "lastModified": "2010-06-27T23:02:00.000Z",
+          "cacheFile": "archive-cache/pages/Fusion_mortar/20101206060901.html"
+        }
+      ]
+    },
+    {
+      "title": "Game type",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Game_type",
+      "captures": [
+        {
+          "timestamp": "20100513002820",
+          "waybackUrl": "https://web.archive.org/web/20100513002820id_/http://www.tribes2wiki.com:80/wiki/Game_type",
+          "sha256": "6a13fb7bd4fac8eaf6bac4d4b4b3ad1210fcf9343a764f2054eef39c006d676f",
+          "lastModified": "2008-12-10T01:33:00.000Z",
+          "cacheFile": "archive-cache/pages/Game_type/20100513002820.html"
+        },
+        {
+          "timestamp": "20111007124904",
+          "waybackUrl": "https://web.archive.org/web/20111007124904id_/http://www.tribes2wiki.com:80/wiki/Game_type",
+          "sha256": "2cbd322c74831ef460ebceb8aa45a9c389b85bd3c23a980c8a2a95010ce11880",
+          "lastModified": "2008-12-10T01:33:00.000Z",
+          "cacheFile": "archive-cache/pages/Game_type/20111007124904.html"
+        }
+      ]
+    },
+    {
+      "title": "Generator",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Generator",
+      "captures": [
+        {
+          "timestamp": "20100417113408",
+          "waybackUrl": "https://web.archive.org/web/20100417113408id_/http://www.tribes2wiki.com:80/wiki/Generator",
+          "sha256": "c9b67b25e4c41bfdbb4460a39603692c27ef933ef74753bb015562e30f92cf45",
+          "lastModified": "2009-07-30T06:05:00.000Z",
+          "cacheFile": "archive-cache/pages/Generator/20100417113408.html"
+        }
+      ]
+    },
+    {
+      "title": "Grenade launcher",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Grenade_launcher",
+      "captures": [
+        {
+          "timestamp": "20101107080458",
+          "waybackUrl": "https://web.archive.org/web/20101107080458id_/http://www.tribes2wiki.com:80/wiki/Grenade_launcher",
+          "sha256": "261b4346767a11a940510160156b07a64837a93948058d05ce0c15c46311e1a4",
+          "lastModified": "2009-03-27T02:27:00.000Z",
+          "cacheFile": "archive-cache/pages/Grenade_launcher/20101107080458.html"
+        }
+      ]
+    },
+    {
+      "title": "Hand grenade",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Hand_grenade",
+      "captures": [
+        {
+          "timestamp": "20110323013031",
+          "waybackUrl": "https://web.archive.org/web/20110323013031id_/http://www.tribes2wiki.com:80/wiki/Hand_grenade",
+          "sha256": "0fafddd9902180b4206040360e894bcbe1c46731a1c79bfbeeda1173f1853ede",
+          "lastModified": "2009-03-27T01:47:00.000Z",
+          "cacheFile": "archive-cache/pages/Hand_grenade/20110323013031.html"
+        },
+        {
+          "timestamp": "20110424030554",
+          "waybackUrl": "https://web.archive.org/web/20110424030554id_/http://www.tribes2wiki.com:80/wiki/Hand_grenade",
+          "sha256": "3c4e24cd429246c0ce7b13f7fb4d0e92cb0a95980f645bd4186cc3bd89ee2de5",
+          "lastModified": "2009-03-27T01:47:00.000Z",
+          "cacheFile": "archive-cache/pages/Hand_grenade/20110424030554.html"
+        }
+      ]
+    },
+    {
+      "title": "Heavy defense",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Heavy_defense",
+      "captures": [
+        {
+          "timestamp": "20101106192630",
+          "waybackUrl": "https://web.archive.org/web/20101106192630id_/http://www.tribes2wiki.com:80/wiki/Heavy_defense",
+          "sha256": "19f9caa2cf9de058b001d61d2487e6b6edbd91e7b7031753cd6b6e8b72658a8a",
+          "lastModified": "2009-07-12T11:36:00.000Z",
+          "cacheFile": "archive-cache/pages/Heavy_defense/20101106192630.html"
+        }
+      ]
+    },
+    {
+      "title": "Heavy offense",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Heavy_offense",
+      "captures": [
+        {
+          "timestamp": "20111007064736",
+          "waybackUrl": "https://web.archive.org/web/20111007064736id_/http://www.tribes2wiki.com:80/wiki/Heavy_offense",
+          "sha256": "2e87c3bdc1a7195c52b155002ac205dcf2caa58fd82211a18f615a68440fb532",
+          "lastModified": "2010-04-18T16:21:00.000Z",
+          "cacheFile": "archive-cache/pages/Heavy_offense/20111007064736.html"
+        }
+      ]
+    },
+    {
+      "title": "Help:Contents",
+      "namespace": "Help",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Help:Contents",
+      "captures": [
+        {
+          "timestamp": "20100417113413",
+          "waybackUrl": "https://web.archive.org/web/20100417113413id_/http://www.tribes2wiki.com:80/wiki/Help:Contents",
+          "sha256": "6aa846e1b945da23cf9ee102130df8852c697bb314b1f9d20bedcafb91ff6ade",
+          "lastModified": "2010-01-07T05:48:00.000Z",
+          "cacheFile": "archive-cache/pages/Help_Contents/20100417113413.html"
+        },
+        {
+          "timestamp": "20100617024023",
+          "waybackUrl": "https://web.archive.org/web/20100617024023id_/http://www.tribes2wiki.com:80/wiki/Help:Contents",
+          "sha256": "830b8dfbcbdb0fb64a4f36c95969d3e1614fdd566986d0d8fc66d409782485c0",
+          "lastModified": "2010-01-07T05:48:00.000Z",
+          "cacheFile": "archive-cache/pages/Help_Contents/20100617024023.html"
+        },
+        {
+          "timestamp": "20101106192608",
+          "waybackUrl": "https://web.archive.org/web/20101106192608id_/http://www.tribes2wiki.com:80/wiki/Help:Contents",
+          "sha256": "37ca1e74cad26cd22e4533d3a3ba8d47c0724bbb5845417be17e95a9ad2dbdef",
+          "lastModified": "2010-01-07T05:48:00.000Z",
+          "cacheFile": "archive-cache/pages/Help_Contents/20101106192608.html"
+        },
+        {
+          "timestamp": "20110323011316",
+          "waybackUrl": "https://web.archive.org/web/20110323011316id_/http://www.tribes2wiki.com:80/wiki/Help:Contents",
+          "sha256": "a1b7f3e68f8573ab1085bff8bc1ce4fe95b2ce2a2fabfe92ce6f990ec20105af",
+          "lastModified": "2010-01-07T05:48:00.000Z",
+          "cacheFile": "archive-cache/pages/Help_Contents/20110323011316.html"
+        },
+        {
+          "timestamp": "20110424024254",
+          "waybackUrl": "https://web.archive.org/web/20110424024254id_/http://www.tribes2wiki.com:80/wiki/Help:Contents",
+          "sha256": "d313d0d726479912c65c523b4dff2faedcbad1711ef5a380e4dfa6fcc55a7ede",
+          "lastModified": "2010-01-07T05:48:00.000Z",
+          "cacheFile": "archive-cache/pages/Help_Contents/20110424024254.html"
+        },
+        {
+          "timestamp": "20110717101704",
+          "waybackUrl": "https://web.archive.org/web/20110717101704id_/http://www.tribes2wiki.com/wiki/Help:Contents",
+          "sha256": "86c286b09b0ad13ce7ebef88200d2f9499d266db7026d5c28b9fd87888e241d4",
+          "lastModified": "2010-01-07T05:48:00.000Z",
+          "cacheFile": "archive-cache/pages/Help_Contents/20110717101704.html"
+        },
+        {
+          "timestamp": "20110907053207",
+          "waybackUrl": "https://web.archive.org/web/20110907053207id_/http://www.tribes2wiki.com:80/wiki/Help:Contents",
+          "sha256": "f5b9d7d26d3af4aa08813e1001023a561b2434b2148bf63c01203360dbfceda6",
+          "lastModified": "2010-01-07T05:48:00.000Z",
+          "cacheFile": "archive-cache/pages/Help_Contents/20110907053207.html"
+        }
+      ]
+    },
+    {
+      "title": "Help:Editing",
+      "namespace": "Help",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Help:Editing",
+      "captures": [
+        {
+          "timestamp": "20101107074347",
+          "waybackUrl": "https://web.archive.org/web/20101107074347id_/http://www.tribes2wiki.com:80/wiki/Help:Editing",
+          "sha256": "a68d480ee2ba09cc1c81fd6e9f36a95bad4bf6396d742f0e9cdb6d424850ee7e",
+          "lastModified": "2010-01-06T23:29:00.000Z",
+          "cacheFile": "archive-cache/pages/Help_Editing/20101107074347.html"
+        },
+        {
+          "timestamp": "20110828204447",
+          "waybackUrl": "https://web.archive.org/web/20110828204447id_/http://www.tribes2wiki.com:80/wiki/Help:Editing",
+          "sha256": "2877d6cc4699880270fac272ecb547ab5171c78d88fc701e56747284e00d4110",
+          "lastModified": "2010-01-06T23:29:00.000Z",
+          "cacheFile": "archive-cache/pages/Help_Editing/20110828204447.html"
+        }
+      ]
+    },
+    {
+      "title": "Introduction to Tribes 2",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Introduction_to_Tribes_2",
+      "captures": [
+        {
+          "timestamp": "20090629060212",
+          "waybackUrl": "https://web.archive.org/web/20090629060212id_/http://www.tribes2wiki.com:80/wiki/Introduction_to_Tribes_2",
+          "sha256": "299fc91280366136d579eb5223924580ae8952cc967a6e76f44cf61d6a9a8363",
+          "lastModified": "2009-06-02T02:41:00.000Z",
+          "cacheFile": "archive-cache/pages/Introduction_to_Tribes_2/20090629060212.html"
+        },
+        {
+          "timestamp": "20090729162855",
+          "waybackUrl": "https://web.archive.org/web/20090729162855id_/http://www.tribes2wiki.com:80/wiki/Introduction_to_Tribes_2",
+          "sha256": "1764e1bafda642f8a6534e9627acfa73a972b63aad37bc22fb06df6f8da1f2c3",
+          "lastModified": "2009-07-11T11:22:00.000Z",
+          "cacheFile": "archive-cache/pages/Introduction_to_Tribes_2/20090729162855.html"
+        },
+        {
+          "timestamp": "20100113072319",
+          "waybackUrl": "https://web.archive.org/web/20100113072319id_/http://www.tribes2wiki.com:80/wiki/Introduction_to_Tribes_2",
+          "sha256": "eae0541929c4696d75f516f5919406122e41930beb1040a9cff393b96e07c038",
+          "lastModified": "2009-09-13T06:56:00.000Z",
+          "cacheFile": "archive-cache/pages/Introduction_to_Tribes_2/20100113072319.html"
+        },
+        {
+          "timestamp": "20101106192532",
+          "waybackUrl": "https://web.archive.org/web/20101106192532id_/http://www.tribes2wiki.com:80/wiki/Introduction_to_Tribes_2",
+          "sha256": "e451092dcc2459c7ca2bb946f25837799006815bb57a8d3b5a2045e03691922f",
+          "lastModified": "2010-04-18T16:08:00.000Z",
+          "cacheFile": "archive-cache/pages/Introduction_to_Tribes_2/20101106192532.html"
+        },
+        {
+          "timestamp": "20110323002738",
+          "waybackUrl": "https://web.archive.org/web/20110323002738id_/http://www.tribes2wiki.com:80/wiki/Introduction_to_Tribes_2",
+          "sha256": "fe48a201b4869a9b5387a957eeeeaf369097bf544d86c42d832093616f307c68",
+          "lastModified": "2010-04-18T16:08:00.000Z",
+          "cacheFile": "archive-cache/pages/Introduction_to_Tribes_2/20110323002738.html"
+        },
+        {
+          "timestamp": "20110424024345",
+          "waybackUrl": "https://web.archive.org/web/20110424024345id_/http://www.tribes2wiki.com:80/wiki/Introduction_to_Tribes_2",
+          "sha256": "0e01ca9076885e2bf7577999c16d1de2a21ab6977938936cfedf922cf890b135",
+          "lastModified": "2010-04-18T16:08:00.000Z",
+          "cacheFile": "archive-cache/pages/Introduction_to_Tribes_2/20110424024345.html"
+        },
+        {
+          "timestamp": "20110717100616",
+          "waybackUrl": "https://web.archive.org/web/20110717100616id_/http://www.tribes2wiki.com/wiki/Introduction_to_Tribes_2",
+          "sha256": "353d8f783f9ae1e1feea0259fe91082254c35720ed813e45f29ef33ce43ce732",
+          "lastModified": "2010-04-18T16:08:00.000Z",
+          "cacheFile": "archive-cache/pages/Introduction_to_Tribes_2/20110717100616.html"
+        },
+        {
+          "timestamp": "20110907054324",
+          "waybackUrl": "https://web.archive.org/web/20110907054324id_/http://www.tribes2wiki.com:80/wiki/Introduction_to_Tribes_2",
+          "sha256": "b9e7ea8dfb39ee28171fa04c4e74f46cd802712dae84240882754247739ec896",
+          "lastModified": "2011-07-27T16:32:00.000Z",
+          "cacheFile": "archive-cache/pages/Introduction_to_Tribes_2/20110907054324.html"
+        }
+      ]
+    },
+    {
+      "title": "Inventory station",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Inventory_station",
+      "captures": [
+        {
+          "timestamp": "20100417113418",
+          "waybackUrl": "https://web.archive.org/web/20100417113418id_/http://www.tribes2wiki.com:80/wiki/Inventory_station",
+          "sha256": "5b405ec0b426b08d005fccfda5ee90b4ad0b1154f7f6e9e1f2e10ee66f35c180",
+          "lastModified": "2009-08-13T00:56:00.000Z",
+          "cacheFile": "archive-cache/pages/Inventory_station/20100417113418.html"
+        },
+        {
+          "timestamp": "20111007064310",
+          "waybackUrl": "https://web.archive.org/web/20111007064310id_/http://www.tribes2wiki.com:80/wiki/Inventory_station",
+          "sha256": "9dfd5686e89b6135831441295d57eaf0e56e57e79a807b93c516de6675169006",
+          "lastModified": "2009-08-13T00:56:00.000Z",
+          "cacheFile": "archive-cache/pages/Inventory_station/20111007064310.html"
+        }
+      ]
+    },
+    {
+      "title": "Juggernaut",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Juggernaut",
+      "captures": [
+        {
+          "timestamp": "20101106033745",
+          "waybackUrl": "https://web.archive.org/web/20101106033745id_/http://www.tribes2wiki.com:80/wiki/Juggernaut",
+          "sha256": "1e8c8bb28342ecd38ae4b6dc9793c96e9ce1267b77bfbcebbd9d0305a97e39fc",
+          "lastModified": "2009-04-02T23:55:00.000Z",
+          "cacheFile": "archive-cache/pages/Juggernaut/20101106033745.html"
+        },
+        {
+          "timestamp": "20101207034407",
+          "waybackUrl": "https://web.archive.org/web/20101207034407id_/http://www.tribes2wiki.com:80/wiki/Juggernaut",
+          "sha256": "73a0251f9fbddf4b6464fe5df74063599d70da984b93319cdbe40d9fbf486a3a",
+          "lastModified": "2009-04-02T23:55:00.000Z",
+          "cacheFile": "archive-cache/pages/Juggernaut/20101207034407.html"
+        }
+      ]
+    },
+    {
+      "title": "Juggernaut armor",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Juggernaut_armor",
+      "captures": [
+        {
+          "timestamp": "20101107021041",
+          "waybackUrl": "https://web.archive.org/web/20101107021041id_/http://www.tribes2wiki.com:80/wiki/Juggernaut_armor",
+          "sha256": "b3edf72aea8c00f1ab9d3e5fc99a97405406beb5d1e8c4ef7727e219fbe765b7",
+          "lastModified": "2009-04-02T23:55:00.000Z",
+          "cacheFile": "archive-cache/pages/Juggernaut_armor/20101107021041.html"
+        }
+      ]
+    },
+    {
+      "title": "Katabatic",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Katabatic",
+      "captures": [
+        {
+          "timestamp": "20100513004825",
+          "waybackUrl": "https://web.archive.org/web/20100513004825id_/http://www.tribes2wiki.com:80/wiki/Katabatic",
+          "sha256": "9cd94bdaa78fd508bd2cab601e001d27035f369139a69bc977e31302078cde69",
+          "lastModified": "2009-01-18T16:29:00.000Z",
+          "cacheFile": "archive-cache/pages/Katabatic/20100513004825.html"
+        },
+        {
+          "timestamp": "20101107095045",
+          "waybackUrl": "https://web.archive.org/web/20101107095045id_/http://www.tribes2wiki.com:80/wiki/Katabatic",
+          "sha256": "fc797f3e90653603b80ac2f3bf6cd130561c3346c4c2f378f35836849b7efba2",
+          "lastModified": "2009-01-18T16:29:00.000Z",
+          "cacheFile": "archive-cache/pages/Katabatic/20101107095045.html"
+        }
+      ]
+    },
+    {
+      "title": "LakRabbit",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/LakRabbit",
+      "captures": [
+        {
+          "timestamp": "20111007064315",
+          "waybackUrl": "https://web.archive.org/web/20111007064315id_/http://www.tribes2wiki.com:80/wiki/LakRabbit",
+          "sha256": "7bbeda240bd17a1cb8099f7c0ffdd1a69358ab65260f5da59a7fa22596492a93",
+          "lastModified": "2009-07-02T10:00:00.000Z",
+          "cacheFile": "archive-cache/pages/LakRabbit/20111007064315.html"
+        }
+      ]
+    },
+    {
+      "title": "Landspike turret",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Landspike_turret",
+      "captures": [
+        {
+          "timestamp": "20111007064320",
+          "waybackUrl": "https://web.archive.org/web/20111007064320id_/http://www.tribes2wiki.com:80/wiki/Landspike_turret",
+          "sha256": "b61fc91263f65a0270f29d0c5fe93f926eb4616ce512a4762e0077a3091b6883",
+          "lastModified": "2010-10-28T16:28:00.000Z",
+          "cacheFile": "archive-cache/pages/Landspike_turret/20111007064320.html"
+        }
+      ]
+    },
+    {
+      "title": "Laser rifle",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Laser_rifle",
+      "captures": [
+        {
+          "timestamp": "20090629060307",
+          "waybackUrl": "https://web.archive.org/web/20090629060307id_/http://www.tribes2wiki.com:80/wiki/Laser_rifle",
+          "sha256": "bd949677c393f3157155a45bc4f6f68c0fae2f7f71d0a373691892030bece198",
+          "lastModified": "2009-01-10T07:15:00.000Z",
+          "cacheFile": "archive-cache/pages/Laser_rifle/20090629060307.html"
+        },
+        {
+          "timestamp": "20100124072755",
+          "waybackUrl": "https://web.archive.org/web/20100124072755id_/http://www.tribes2wiki.com:80/wiki/Laser_rifle",
+          "sha256": "4ba1bdc8ff140d32632eb498d44e84c7e0618ab89f082555f7565a0c60e6e1cb",
+          "lastModified": "2009-01-10T07:15:00.000Z",
+          "cacheFile": "archive-cache/pages/Laser_rifle/20100124072755.html"
+        },
+        {
+          "timestamp": "20100125121226",
+          "waybackUrl": "https://web.archive.org/web/20100125121226id_/http://www.tribes2wiki.com:80/wiki/Laser_rifle",
+          "sha256": "9ab022cdaf4d6470f1a81c49cacddc0d0ca7e1c4aabfa155365fd2c71e1e129c",
+          "lastModified": "2009-01-10T07:15:00.000Z",
+          "cacheFile": "archive-cache/pages/Laser_rifle/20100125121226.html"
+        },
+        {
+          "timestamp": "20110323012812",
+          "waybackUrl": "https://web.archive.org/web/20110323012812id_/http://www.tribes2wiki.com:80/wiki/Laser_rifle",
+          "sha256": "4c9b0cf3f88c18277c7c2dc2e9d5c8ae77cec0dbcabcc232a6f8a8168c2dab26",
+          "lastModified": "2009-01-10T07:15:00.000Z",
+          "cacheFile": "archive-cache/pages/Laser_rifle/20110323012812.html"
+        },
+        {
+          "timestamp": "20110424030548",
+          "waybackUrl": "https://web.archive.org/web/20110424030548id_/http://www.tribes2wiki.com:80/wiki/Laser_rifle",
+          "sha256": "ad60f12530da6967c7a6344f0eb082887fb33393b5b1aa20a99158f6c2078fba",
+          "lastModified": "2009-01-10T07:15:00.000Z",
+          "cacheFile": "archive-cache/pages/Laser_rifle/20110424030548.html"
+        }
+      ]
+    },
+    {
+      "title": "Light armor",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Light_armor",
+      "captures": [
+        {
+          "timestamp": "20100115035135",
+          "waybackUrl": "https://web.archive.org/web/20100115035135id_/http://www.tribes2wiki.com:80/wiki/Light_armor",
+          "sha256": "6be2b30e2629d124870320a05eaff722e732c8bcd0aa88a68dd1eba33a856f89",
+          "lastModified": "2009-01-16T14:49:00.000Z",
+          "cacheFile": "archive-cache/pages/Light_armor/20100115035135.html"
+        },
+        {
+          "timestamp": "20111007124909",
+          "waybackUrl": "https://web.archive.org/web/20111007124909id_/http://www.tribes2wiki.com:80/wiki/Light_armor",
+          "sha256": "165aa09171081cdb5ca1b07f379828c8ee5d6ebfcb8cef65bb713e9fb809c3d2",
+          "lastModified": "2009-01-16T14:49:00.000Z",
+          "cacheFile": "archive-cache/pages/Light_armor/20111007124909.html"
+        }
+      ]
+    },
+    {
+      "title": "Loadout",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Loadout",
+      "captures": [
+        {
+          "timestamp": "20111007064325",
+          "waybackUrl": "https://web.archive.org/web/20111007064325id_/http://www.tribes2wiki.com:80/wiki/Loadout",
+          "sha256": "6e7ed64bc79f5e77dcfdc0ba14a53762bde33eadb675af507e63b8e1e9b82373",
+          "lastModified": "2009-09-05T01:27:00.000Z",
+          "cacheFile": "archive-cache/pages/Loadout/20111007064325.html"
+        }
+      ]
+    },
+    {
+      "title": "Main Page",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Main_Page",
+      "captures": [
+        {
+          "timestamp": "20090629060335",
+          "waybackUrl": "https://web.archive.org/web/20090629060335id_/http://www.tribes2wiki.com:80/wiki/Main_Page",
+          "sha256": "54f557703b43ec91aaa5780fec576eeb0af0a907489eb166a3c690407e4de544",
+          "lastModified": "2009-03-27T04:06:00.000Z",
+          "cacheFile": "archive-cache/pages/Main_Page/20090629060335.html"
+        },
+        {
+          "timestamp": "20100113064858",
+          "waybackUrl": "https://web.archive.org/web/20100113064858id_/http://www.tribes2wiki.com:80/wiki/Main_Page",
+          "sha256": "5c1d565740ae09bdf42cd8dc4c0ca25df633d8209086f76e158328217c4fc49d",
+          "lastModified": "2009-10-18T07:29:00.000Z",
+          "cacheFile": "archive-cache/pages/Main_Page/20100113064858.html"
+        },
+        {
+          "timestamp": "20100416083613",
+          "waybackUrl": "https://web.archive.org/web/20100416083613id_/http://www.tribes2wiki.com:80/wiki/Main_Page",
+          "sha256": "27dbd7946ae90cff9a9bfd874852455e8671901eab1df7334dd2baa65f8fc8a2",
+          "lastModified": "2009-10-18T07:29:00.000Z",
+          "cacheFile": "archive-cache/pages/Main_Page/20100416083613.html"
+        },
+        {
+          "timestamp": "20100522091814",
+          "waybackUrl": "https://web.archive.org/web/20100522091814id_/http://www.tribes2wiki.com:80/wiki/Main_Page",
+          "sha256": "4b67b1ef69b6f65a1c277fbd5d7e7a480bda17106cc81c71ee545406a0c33397",
+          "lastModified": "2009-10-18T07:29:00.000Z",
+          "cacheFile": "archive-cache/pages/Main_Page/20100522091814.html"
+        },
+        {
+          "timestamp": "20100629063039",
+          "waybackUrl": "https://web.archive.org/web/20100629063039id_/http://www.tribes2wiki.com:80/wiki/Main_Page",
+          "sha256": "a57daa5ace8bd125f4c2d5a2c657d329268ea3aad2b25044d6ca9e2454c39b0c",
+          "lastModified": "2010-05-29T00:26:00.000Z",
+          "cacheFile": "archive-cache/pages/Main_Page/20100629063039.html"
+        },
+        {
+          "timestamp": "20101105210812",
+          "waybackUrl": "https://web.archive.org/web/20101105210812id_/http://www.tribes2wiki.com:80/wiki/Main_Page",
+          "sha256": "715709cedc43f49667b7d686534d4e4965aada2f4ac5cf8fd497a3362a543a5f",
+          "lastModified": "2010-08-22T13:05:00.000Z",
+          "cacheFile": "archive-cache/pages/Main_Page/20101105210812.html"
+        },
+        {
+          "timestamp": "20101206060929",
+          "waybackUrl": "https://web.archive.org/web/20101206060929id_/http://www.tribes2wiki.com:80/wiki/Main_Page",
+          "sha256": "6af3722b5b1d8d9979e5d045bf08742f7204745492ca955d3c62d98e03fff22a",
+          "lastModified": "2010-08-22T13:05:00.000Z",
+          "cacheFile": "archive-cache/pages/Main_Page/20101206060929.html"
+        },
+        {
+          "timestamp": "20110116040113",
+          "waybackUrl": "https://web.archive.org/web/20110116040113id_/http://www.tribes2wiki.com:80/wiki/Main_Page",
+          "sha256": "0bee6d3d1342878e3c03aee66f8076fddde4cba69d737e9ae59c919da5f1d429",
+          "lastModified": "2010-08-22T13:05:00.000Z",
+          "cacheFile": "archive-cache/pages/Main_Page/20110116040113.html"
+        },
+        {
+          "timestamp": "20110208093414",
+          "waybackUrl": "https://web.archive.org/web/20110208093414id_/http://tribes2wiki.com/wiki/Main_Page",
+          "sha256": "633921b7b11055d129fbd49e68e4bc5f87ef03b660374899e313282fe20516ff",
+          "lastModified": "2010-08-22T13:05:00.000Z",
+          "cacheFile": "archive-cache/pages/Main_Page/20110208093414.html"
+        },
+        {
+          "timestamp": "20110323073745",
+          "waybackUrl": "https://web.archive.org/web/20110323073745id_/http://www.tribes2wiki.com:80/wiki/Main_Page",
+          "sha256": "8e071040de2bb94af4a7ac7b1a1bcff7236dde7f8fa1491de888d5106a9be7de",
+          "lastModified": "2010-08-22T13:05:00.000Z",
+          "cacheFile": "archive-cache/pages/Main_Page/20110323073745.html"
+        },
+        {
+          "timestamp": "20110424030624",
+          "waybackUrl": "https://web.archive.org/web/20110424030624id_/http://www.tribes2wiki.com:80/wiki/Main_Page",
+          "sha256": "1c467fafbc88cc00fb5007cf69ac8ac3b93d2ae38e860c13955da38380e32447",
+          "lastModified": "2010-08-22T13:05:00.000Z",
+          "cacheFile": "archive-cache/pages/Main_Page/20110424030624.html"
+        },
+        {
+          "timestamp": "20110524172210",
+          "waybackUrl": "https://web.archive.org/web/20110524172210id_/http://www.tribes2wiki.com:80/wiki/Main_Page",
+          "sha256": "68c4de510e3cf223d7b496c12efed7c79df64ca5c849551c23978d2a573eb2ba",
+          "lastModified": "2010-08-22T13:05:00.000Z",
+          "cacheFile": "archive-cache/pages/Main_Page/20110524172210.html"
+        },
+        {
+          "timestamp": "20110717100017",
+          "waybackUrl": "https://web.archive.org/web/20110717100017id_/http://www.tribes2wiki.com/wiki/Main_Page",
+          "sha256": "720b9de3ad0e90b9fded68ffff2d405a2578a818a45d23a77aa7786245dc13ca",
+          "lastModified": "2010-08-22T13:05:00.000Z",
+          "cacheFile": "archive-cache/pages/Main_Page/20110717100017.html"
+        },
+        {
+          "timestamp": "20110818100730",
+          "waybackUrl": "https://web.archive.org/web/20110818100730id_/http://www.tribes2wiki.com:80/wiki/Main_Page",
+          "sha256": "5f6786568b4b56478b1415cb9e7d8174d8be2ff138a08e8636a8f3dfbd649186",
+          "lastModified": "2010-08-22T13:05:00.000Z",
+          "cacheFile": "archive-cache/pages/Main_Page/20110818100730.html"
+        },
+        {
+          "timestamp": "20110907073510",
+          "waybackUrl": "https://web.archive.org/web/20110907073510id_/http://www.tribes2wiki.com:80/wiki/Main_Page",
+          "sha256": "14076c1b9c0b1f458f5bde249d7244870f157b9e0bb94c53e5af475865a1d2ab",
+          "lastModified": "2010-08-22T13:05:00.000Z",
+          "cacheFile": "archive-cache/pages/Main_Page/20110907073510.html"
+        },
+        {
+          "timestamp": "20110915093519",
+          "waybackUrl": "https://web.archive.org/web/20110915093519id_/http://www.tribes2wiki.com:80/wiki/Main_Page",
+          "sha256": "444e418529aba52c71f237036a54587d6d8e9a01b800bcf66e16c1dc845debc8",
+          "lastModified": "2010-08-22T13:05:00.000Z",
+          "cacheFile": "archive-cache/pages/Main_Page/20110915093519.html"
+        },
+        {
+          "timestamp": "20111006174700",
+          "waybackUrl": "https://web.archive.org/web/20111006174700id_/http://www.tribes2wiki.com:80/wiki/Main_Page",
+          "sha256": "55983dd5b135c225c8810b201c317ca32e8642ad2bcc605c6881742546e501d4",
+          "lastModified": "2011-10-05T04:38:00.000Z",
+          "cacheFile": "archive-cache/pages/Main_Page/20111006174700.html"
+        },
+        {
+          "timestamp": "20111007223251",
+          "waybackUrl": "https://web.archive.org/web/20111007223251id_/http://www.tribes2wiki.com/wiki/Main_Page",
+          "sha256": "5efcb1e3923ba008e7a6967382ace8088f7b512470c808bbe15816d6c1e7c8b4",
+          "lastModified": "2011-10-05T04:38:00.000Z",
+          "cacheFile": "archive-cache/pages/Main_Page/20111007223251.html"
+        },
+        {
+          "timestamp": "20111106045913",
+          "waybackUrl": "https://web.archive.org/web/20111106045913id_/http://www.tribes2wiki.com:80/wiki/Main_Page",
+          "sha256": "50e5c73feee9353de3fd1c046e8ec5d31967593979fc0f1d59dcccefbd8dad07",
+          "lastModified": "2011-10-10T16:35:00.000Z",
+          "cacheFile": "archive-cache/pages/Main_Page/20111106045913.html"
+        },
+        {
+          "timestamp": "20111206203935",
+          "waybackUrl": "https://web.archive.org/web/20111206203935id_/http://www.tribes2wiki.com:80/wiki/Main_Page",
+          "sha256": "ca8929a31799e9010c3a44fbfbff6eef036c0e9e1de1e474b5b58fd2fbd8808e",
+          "lastModified": "2011-10-10T16:35:00.000Z",
+          "cacheFile": "archive-cache/pages/Main_Page/20111206203935.html"
+        }
+      ]
+    },
+    {
+      "title": "Map",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Map",
+      "captures": [
+        {
+          "timestamp": "20100426092410",
+          "waybackUrl": "https://web.archive.org/web/20100426092410id_/http://www.tribes2wiki.com:80/wiki/Map",
+          "sha256": "aec0d888d23ec6b63d9aa77e69e53cc2f9b4eb97c6abee8088acbeb683da9b26",
+          "lastModified": "2009-09-04T07:53:00.000Z",
+          "cacheFile": "archive-cache/pages/Map/20100426092410.html"
+        },
+        {
+          "timestamp": "20100511115413",
+          "waybackUrl": "https://web.archive.org/web/20100511115413id_/http://www.tribes2wiki.com:80/wiki/Map",
+          "sha256": "e5969d0df0f689465f0b5ba2db328688cf7f06d5154d610f13e4a26ecd915ca2",
+          "lastModified": "2009-09-04T07:53:00.000Z",
+          "cacheFile": "archive-cache/pages/Map/20100511115413.html"
+        },
+        {
+          "timestamp": "20100612045240",
+          "waybackUrl": "https://web.archive.org/web/20100612045240id_/http://www.tribes2wiki.com:80/wiki/Map",
+          "sha256": "aeb1d58be816ecd0d3746356437dd1bcc304b60b365f3213c1ee6ee04750a0bf",
+          "lastModified": "2009-09-04T07:53:00.000Z",
+          "cacheFile": "archive-cache/pages/Map/20100612045240.html"
+        },
+        {
+          "timestamp": "20100714014145",
+          "waybackUrl": "https://web.archive.org/web/20100714014145id_/http://www.tribes2wiki.com:80/wiki/Map",
+          "sha256": "92da93abcf38b7c683139d75cc3993c4724f9208e4b03108a555eb54680efe18",
+          "lastModified": "2009-09-04T07:53:00.000Z",
+          "cacheFile": "archive-cache/pages/Map/20100714014145.html"
+        },
+        {
+          "timestamp": "20101107073013",
+          "waybackUrl": "https://web.archive.org/web/20101107073013id_/http://www.tribes2wiki.com:80/wiki/Map",
+          "sha256": "392b8d744009c9c35f2a14b71e330f8e7af9462a1f33a95f90007794be53cdcd",
+          "lastModified": "2009-09-04T07:53:00.000Z",
+          "cacheFile": "archive-cache/pages/Map/20101107073013.html"
+        },
+        {
+          "timestamp": "20110829081400",
+          "waybackUrl": "https://web.archive.org/web/20110829081400id_/http://www.tribes2wiki.com:80/wiki/Map",
+          "sha256": "5a8747238fd74160563f190a9284f17e913bddfb4dad70a490b95524abac47d0",
+          "lastModified": "2009-09-04T07:53:00.000Z",
+          "cacheFile": "archive-cache/pages/Map/20110829081400.html"
+        }
+      ]
+    },
+    {
+      "title": "Mine-disc",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Mine-disc",
+      "captures": [
+        {
+          "timestamp": "20090629060345",
+          "waybackUrl": "https://web.archive.org/web/20090629060345id_/http://www.tribes2wiki.com:80/wiki/Mine-disc",
+          "sha256": "c554b18b2bb9373a26cfb99276d31a89ecb520c95d2a47a50ef9ee78a90b7c45",
+          "lastModified": "2009-01-07T08:53:00.000Z",
+          "cacheFile": "archive-cache/pages/Mine_disc/20090629060345.html"
+        },
+        {
+          "timestamp": "20100113062201",
+          "waybackUrl": "https://web.archive.org/web/20100113062201id_/http://www.tribes2wiki.com:80/wiki/Mine-disc",
+          "sha256": "f93379e337b2d4f0271b514159361a18683be7eaf03435301dc45900e7ebb5f0",
+          "lastModified": "2009-07-28T19:40:00.000Z",
+          "cacheFile": "archive-cache/pages/Mine_disc/20100113062201.html"
+        }
+      ]
+    },
+    {
+      "title": "Mod",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Mod",
+      "captures": [
+        {
+          "timestamp": "20100417113423",
+          "waybackUrl": "https://web.archive.org/web/20100417113423id_/http://www.tribes2wiki.com:80/wiki/Mod",
+          "sha256": "4ccc6a3ab9d12399cb95d3b79875f8eada57823a1b75fdee2626d2931c0ddfc9",
+          "lastModified": "2008-12-10T01:32:00.000Z",
+          "cacheFile": "archive-cache/pages/Mod/20100417113423.html"
+        },
+        {
+          "timestamp": "20100617023914",
+          "waybackUrl": "https://web.archive.org/web/20100617023914id_/http://www.tribes2wiki.com:80/wiki/Mod",
+          "sha256": "6816d63d79d73d30f401c82be59a90b1c97e49fc106e93234f73767b68420fc3",
+          "lastModified": "2008-12-10T01:32:00.000Z",
+          "cacheFile": "archive-cache/pages/Mod/20100617023914.html"
+        },
+        {
+          "timestamp": "20111007124913",
+          "waybackUrl": "https://web.archive.org/web/20111007124913id_/http://www.tribes2wiki.com:80/wiki/Mod",
+          "sha256": "4b9852e48e23108c746aec998239ae78d7baa12e3c452e1bc9b2b56f71aa659f",
+          "lastModified": "2008-12-10T01:32:00.000Z",
+          "cacheFile": "archive-cache/pages/Mod/20111007124913.html"
+        }
+      ]
+    },
+    {
+      "title": "Mortar",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Mortar",
+      "captures": [
+        {
+          "timestamp": "20101107095050",
+          "waybackUrl": "https://web.archive.org/web/20101107095050id_/http://www.tribes2wiki.com:80/wiki/Mortar",
+          "sha256": "f49b80fdac4dfb8a879d0c028f7137fb91a8f2947fbf8ab30c291586f9688012",
+          "lastModified": "2010-06-27T23:02:00.000Z",
+          "cacheFile": "archive-cache/pages/Mortar/20101107095050.html"
+        }
+      ]
+    },
+    {
+      "title": "Pulse sensor",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Pulse_sensor",
+      "captures": [
+        {
+          "timestamp": "20100417113428",
+          "waybackUrl": "https://web.archive.org/web/20100417113428id_/http://www.tribes2wiki.com:80/wiki/Pulse_sensor",
+          "sha256": "965bcc7f30e45b617da30d05d497939a86c00a782546e1c402eb072e25f9459f",
+          "lastModified": "2009-09-22T01:06:00.000Z",
+          "cacheFile": "archive-cache/pages/Pulse_sensor/20100417113428.html"
+        }
+      ]
+    },
+    {
+      "title": "Scout armor",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Scout_armor",
+      "captures": [
+        {
+          "timestamp": "20101107080503",
+          "waybackUrl": "https://web.archive.org/web/20101107080503id_/http://www.tribes2wiki.com:80/wiki/Scout_armor",
+          "sha256": "e7457acce554be618ab2ae0e87baf9c8d0af9762a6d6335685ae48f4bea83495",
+          "lastModified": "2009-01-16T14:49:00.000Z",
+          "cacheFile": "archive-cache/pages/Scout_armor/20101107080503.html"
+        }
+      ]
+    },
+    {
+      "title": "Script",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Script",
+      "captures": [
+        {
+          "timestamp": "20101107074652",
+          "waybackUrl": "https://web.archive.org/web/20101107074652id_/http://www.tribes2wiki.com:80/wiki/Script",
+          "sha256": "18de859c9f53ac1ecd2403fae36c116ab488c975b33cae6cbe98de7229163298",
+          "lastModified": "2009-09-04T07:54:00.000Z",
+          "cacheFile": "archive-cache/pages/Script/20101107074652.html"
+        },
+        {
+          "timestamp": "20110323012540",
+          "waybackUrl": "https://web.archive.org/web/20110323012540id_/http://www.tribes2wiki.com:80/wiki/Script",
+          "sha256": "919a8796c0fac181f03df5623a7024e4fe0e6e038afbc537956c5d05da9f6667",
+          "lastModified": "2009-09-04T07:54:00.000Z",
+          "cacheFile": "archive-cache/pages/Script/20110323012540.html"
+        },
+        {
+          "timestamp": "20110424024248",
+          "waybackUrl": "https://web.archive.org/web/20110424024248id_/http://www.tribes2wiki.com:80/wiki/Script",
+          "sha256": "ec5d3a2dc6503f3b77cc571d5281a3b677daaf12d20855cc7d4dc4dcb6229427",
+          "lastModified": "2009-09-04T07:54:00.000Z",
+          "cacheFile": "archive-cache/pages/Script/20110424024248.html"
+        },
+        {
+          "timestamp": "20110717101527",
+          "waybackUrl": "https://web.archive.org/web/20110717101527id_/http://www.tribes2wiki.com/wiki/Script",
+          "sha256": "4e36466ad12ba967b89df2feab36ec577f2a18d408f75c09852132ce71a801ed",
+          "lastModified": "2009-09-04T07:54:00.000Z",
+          "cacheFile": "archive-cache/pages/Script/20110717101527.html"
+        },
+        {
+          "timestamp": "20110907071132",
+          "waybackUrl": "https://web.archive.org/web/20110907071132id_/http://www.tribes2wiki.com:80/wiki/Script",
+          "sha256": "4a39b100b7aaa70bccef3f67ba3c9db843ae95134b3a5613d4ea83f0ee04d1b1",
+          "lastModified": "2009-09-04T07:54:00.000Z",
+          "cacheFile": "archive-cache/pages/Script/20110907071132.html"
+        }
+      ]
+    },
+    {
+      "title": "Scripting",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Scripting",
+      "captures": [
+        {
+          "timestamp": "20110323002756",
+          "waybackUrl": "https://web.archive.org/web/20110323002756id_/http://www.tribes2wiki.com:80/wiki/Scripting",
+          "sha256": "a77ff2befcff0ce261f834535f7d8202f0fed33f83864f22ea477e30133e6bb3",
+          "lastModified": "2009-09-04T07:54:00.000Z",
+          "cacheFile": "archive-cache/pages/Scripting/20110323002756.html"
+        },
+        {
+          "timestamp": "20110425012431",
+          "waybackUrl": "https://web.archive.org/web/20110425012431id_/http://www.tribes2wiki.com:80/wiki/Scripting",
+          "sha256": "99e56f7e3f4cb57456dd2695d4879c68a7810729e2bd100bd0b1a95e95a7a121",
+          "lastModified": "2009-09-04T07:54:00.000Z",
+          "cacheFile": "archive-cache/pages/Scripting/20110425012431.html"
+        },
+        {
+          "timestamp": "20110717101619",
+          "waybackUrl": "https://web.archive.org/web/20110717101619id_/http://www.tribes2wiki.com/wiki/Scripting",
+          "sha256": "d81543039a8042f8f58a18668e442705c3da5f3774baecc27be9b9cba05d7a1e",
+          "lastModified": "2009-09-04T07:54:00.000Z",
+          "cacheFile": "archive-cache/pages/Scripting/20110717101619.html"
+        }
+      ]
+    },
+    {
+      "title": "Server",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Server",
+      "captures": [
+        {
+          "timestamp": "20101107074327",
+          "waybackUrl": "https://web.archive.org/web/20101107074327id_/http://www.tribes2wiki.com:80/wiki/Server",
+          "sha256": "c1959e9fdb6fcce859dfa2da817adba083ddad3bfaf86d01a5749e1446a718df",
+          "lastModified": "2009-09-04T07:57:00.000Z",
+          "cacheFile": "archive-cache/pages/Server/20101107074327.html"
+        },
+        {
+          "timestamp": "20110717101738",
+          "waybackUrl": "https://web.archive.org/web/20110717101738id_/http://www.tribes2wiki.com/wiki/Server",
+          "sha256": "ad6a1320a7b2f73c99733a9fc31a0e106a172cf39e9833317dfef325709165d1",
+          "lastModified": "2009-09-04T07:57:00.000Z",
+          "cacheFile": "archive-cache/pages/Server/20110717101738.html"
+        },
+        {
+          "timestamp": "20110827042715",
+          "waybackUrl": "https://web.archive.org/web/20110827042715id_/http://www.tribes2wiki.com:80/wiki/Server",
+          "sha256": "6e940668c53df29f741cadda9e93fd8e4ca7d91e020f6b9edb7de2fb128371c9",
+          "lastModified": "2009-09-04T07:57:00.000Z",
+          "cacheFile": "archive-cache/pages/Server/20110827042715.html"
+        }
+      ]
+    },
+    {
+      "title": "Shocklance",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Shocklance",
+      "captures": [
+        {
+          "timestamp": "20101107074353",
+          "waybackUrl": "https://web.archive.org/web/20101107074353id_/http://www.tribes2wiki.com:80/wiki/Shocklance",
+          "sha256": "c2dfbc0ac786c97cc57053a2f563b77feecfd234bd5ef58d1c1c8282ea34cd23",
+          "lastModified": "2010-02-23T07:34:00.000Z",
+          "cacheFile": "archive-cache/pages/Shocklance/20101107074353.html"
+        }
+      ]
+    },
+    {
+      "title": "Ski",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Ski",
+      "captures": [
+        {
+          "timestamp": "20101107072812",
+          "waybackUrl": "https://web.archive.org/web/20101107072812id_/http://www.tribes2wiki.com:80/wiki/Ski",
+          "sha256": "0bd58d8539573d9ab80aaa297b2e0ee1af21e8a65563f6cd18835a268721f8fb",
+          "lastModified": "2009-01-07T06:24:00.000Z",
+          "cacheFile": "archive-cache/pages/Ski/20101107072812.html"
+        }
+      ]
+    },
+    {
+      "title": "Skiing",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Skiing",
+      "captures": [
+        {
+          "timestamp": "20090629060419",
+          "waybackUrl": "https://web.archive.org/web/20090629060419id_/http://www.tribes2wiki.com:80/wiki/Skiing",
+          "sha256": "d25c95407fe56992ea115b4a570aa577a5a58bee813e121e80ee01cb34ace0d4",
+          "lastModified": "2009-01-07T06:24:00.000Z",
+          "cacheFile": "archive-cache/pages/Skiing/20090629060419.html"
+        },
+        {
+          "timestamp": "20100113134855",
+          "waybackUrl": "https://web.archive.org/web/20100113134855id_/http://www.tribes2wiki.com:80/wiki/Skiing",
+          "sha256": "bc9c8c191986a760e0a340f7054dd74c41527a108cf80a51da7b63c9fed22317",
+          "lastModified": "2009-01-07T06:24:00.000Z",
+          "cacheFile": "archive-cache/pages/Skiing/20100113134855.html"
+        },
+        {
+          "timestamp": "20111007064330",
+          "waybackUrl": "https://web.archive.org/web/20111007064330id_/http://www.tribes2wiki.com:80/wiki/Skiing",
+          "sha256": "f7689f4f2a4c067ca28f27e0aeb6d2a1ed52b05a2d3047a67d1636b78ec3fc49",
+          "lastModified": "2009-01-07T06:24:00.000Z",
+          "cacheFile": "archive-cache/pages/Skiing/20111007064330.html"
+        }
+      ]
+    },
+    {
+      "title": "Solar panel",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Solar_panel",
+      "captures": [
+        {
+          "timestamp": "20100417113433",
+          "waybackUrl": "https://web.archive.org/web/20100417113433id_/http://www.tribes2wiki.com:80/wiki/Solar_panel",
+          "sha256": "b79672d06530036370288640bf62709d91781ee8152dfcc6226bc720be73e146",
+          "lastModified": "2009-07-30T06:03:00.000Z",
+          "cacheFile": "archive-cache/pages/Solar_panel/20100417113433.html"
+        }
+      ]
+    },
+    {
+      "title": "Spam",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Spam",
+      "captures": [
+        {
+          "timestamp": "20100115044726",
+          "waybackUrl": "https://web.archive.org/web/20100115044726id_/http://www.tribes2wiki.com:80/wiki/Spam",
+          "sha256": "95f5f8b20a69ec5623f231834834a828d8159abd5035e71872413ac01baede42",
+          "lastModified": "2008-12-08T22:54:00.000Z",
+          "cacheFile": "archive-cache/pages/Spam/20100115044726.html"
+        },
+        {
+          "timestamp": "20111007124919",
+          "waybackUrl": "https://web.archive.org/web/20111007124919id_/http://www.tribes2wiki.com:80/wiki/Spam",
+          "sha256": "bf0453e59cc3f7429e493c45db3ab8b7c2795dc234e069054407e18e96119b6a",
+          "lastModified": "2008-12-08T22:54:00.000Z",
+          "cacheFile": "archive-cache/pages/Spam/20111007124919.html"
+        }
+      ]
+    },
+    {
+      "title": "Spawn",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Spawn",
+      "captures": [
+        {
+          "timestamp": "20111007064748",
+          "waybackUrl": "https://web.archive.org/web/20111007064748id_/http://www.tribes2wiki.com:80/wiki/Spawn",
+          "sha256": "6b196aff7da02cc4e034c950b5d7fa14d517d96cfddf639110b3fbcf43313887",
+          "lastModified": "2009-03-27T01:50:00.000Z",
+          "cacheFile": "archive-cache/pages/Spawn/20111007064748.html"
+        }
+      ]
+    },
+    {
+      "title": "Spider clamp turret",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Spider_clamp_turret",
+      "captures": [
+        {
+          "timestamp": "20111007124934",
+          "waybackUrl": "https://web.archive.org/web/20111007124934id_/http://www.tribes2wiki.com:80/wiki/Spider_clamp_turret",
+          "sha256": "704dce09f0cecf06831aeddf1da4312ac5bdac4f8cd9d282eac030c4ce609c16",
+          "lastModified": "2010-10-28T16:28:00.000Z",
+          "cacheFile": "archive-cache/pages/Spider_clamp_turret/20111007124934.html"
+        }
+      ]
+    },
+    {
+      "title": "Spinfusor",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Spinfusor",
+      "captures": [
+        {
+          "timestamp": "20090629060542",
+          "waybackUrl": "https://web.archive.org/web/20090629060542id_/http://www.tribes2wiki.com:80/wiki/Spinfusor",
+          "sha256": "3b0c7fc3bc538071e3b92f869fac6e348ad7a4fbd34025f6c7ca5ff6b449abb2",
+          "lastModified": "2009-01-07T08:53:00.000Z",
+          "cacheFile": "archive-cache/pages/Spinfusor/20090629060542.html"
+        },
+        {
+          "timestamp": "20100115033544",
+          "waybackUrl": "https://web.archive.org/web/20100115033544id_/http://www.tribes2wiki.com:80/wiki/Spinfusor",
+          "sha256": "537b4387a163615e4b79f7c0bb982de1af2864b8797a015dcff9e2423e830bee",
+          "lastModified": "2009-07-28T19:40:00.000Z",
+          "cacheFile": "archive-cache/pages/Spinfusor/20100115033544.html"
+        },
+        {
+          "timestamp": "20110907063139",
+          "waybackUrl": "https://web.archive.org/web/20110907063139id_/http://www.tribes2wiki.com:80/wiki/Spinfusor",
+          "sha256": "e764ad568ddc60b6dfe77a4d7fff5238c9c4cecf3ef57c044c3bd7ef23bddffe",
+          "lastModified": "2011-05-26T10:11:00.000Z",
+          "cacheFile": "archive-cache/pages/Spinfusor/20110907063139.html"
+        },
+        {
+          "timestamp": "20111006165843",
+          "waybackUrl": "https://web.archive.org/web/20111006165843id_/http://www.tribes2wiki.com:80/wiki/Spinfusor",
+          "sha256": "a85a61b00628dba512506ee65c042f31d5e1a10c4f02a5e9fdd8bbe63f2b855e",
+          "lastModified": "2011-05-26T10:11:00.000Z",
+          "cacheFile": "archive-cache/pages/Spinfusor/20111006165843.html"
+        },
+        {
+          "timestamp": "20111106013722",
+          "waybackUrl": "https://web.archive.org/web/20111106013722id_/http://www.tribes2wiki.com:80/wiki/Spinfusor",
+          "sha256": "b5a09e2b30362c5bdbff87b491dd5c6a5155231aeb2b3de027c2f9077ef729c7",
+          "lastModified": "2011-05-26T10:11:00.000Z",
+          "cacheFile": "archive-cache/pages/Spinfusor/20111106013722.html"
+        },
+        {
+          "timestamp": "20111206131713",
+          "waybackUrl": "https://web.archive.org/web/20111206131713id_/http://www.tribes2wiki.com:80/wiki/Spinfusor",
+          "sha256": "eb62b8ccc8f9e74b5f7439630642a0ceab46bae233fbc74bcd04f8dd3bbf871a",
+          "lastModified": "2011-05-26T10:11:00.000Z",
+          "cacheFile": "archive-cache/pages/Spinfusor/20111206131713.html"
+        }
+      ]
+    },
+    {
+      "title": "Targeting laser",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Targeting_laser",
+      "captures": [
+        {
+          "timestamp": "20101107074618",
+          "waybackUrl": "https://web.archive.org/web/20101107074618id_/http://www.tribes2wiki.com:80/wiki/Targeting_laser",
+          "sha256": "6dcadaaa6ef81c5b9da203cf318b20b47f5aba28edffc9421aaecc0698de4033",
+          "lastModified": "2010-10-27T14:54:00.000Z",
+          "cacheFile": "archive-cache/pages/Targeting_laser/20101107074618.html"
+        }
+      ]
+    },
+    {
+      "title": "Targeting Laser",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Targeting_Laser",
+      "captures": [
+        {
+          "timestamp": "20101107074544",
+          "waybackUrl": "https://web.archive.org/web/20101107074544id_/http://www.tribes2wiki.com:80/wiki/Targeting_Laser",
+          "sha256": "deeb886c2371f6edbc2ebf911d0e5f33a22afa125c3a5f3d3b8895439f8ffd32",
+          "lastModified": "2010-10-27T14:54:00.000Z",
+          "cacheFile": "archive-cache/pages/Targeting_Laser/20101107074544.html"
+        }
+      ]
+    },
+    {
+      "title": "TribalWar",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/TribalWar",
+      "captures": [
+        {
+          "timestamp": "20100417113128",
+          "waybackUrl": "https://web.archive.org/web/20100417113128id_/http://www.tribes2wiki.com:80/wiki/TribalWar",
+          "sha256": "d9cd46517c05e83ffd301e4a27577a48215579ae389627c94894dd091e3a43c5",
+          "lastModified": "2008-12-14T23:34:00.000Z",
+          "cacheFile": "archive-cache/pages/TribalWar/20100417113128.html"
+        }
+      ]
+    },
+    {
+      "title": "Tribes 2",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Tribes_2",
+      "captures": [
+        {
+          "timestamp": "20101105210721",
+          "waybackUrl": "https://web.archive.org/web/20101105210721id_/http://www.tribes2wiki.com:80/wiki/Tribes_2",
+          "sha256": "2baa80c123f494d2d31c39cfa31a849cbc38ea5c243f387a6899aa608f58e156",
+          "lastModified": "2009-09-04T07:53:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes_2/20101105210721.html"
+        },
+        {
+          "timestamp": "20101206060745",
+          "waybackUrl": "https://web.archive.org/web/20101206060745id_/http://www.tribes2wiki.com:80/wiki/Tribes_2",
+          "sha256": "efed0930e2835863081f552a3fb8e7b26762c810b8185b5dd96d4c9d571a18f1",
+          "lastModified": "2009-09-04T07:53:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes_2/20101206060745.html"
+        },
+        {
+          "timestamp": "20110717100926",
+          "waybackUrl": "https://web.archive.org/web/20110717100926id_/http://www.tribes2wiki.com/wiki/Tribes_2",
+          "sha256": "5b04555e48ed6cdb3bb8aeaf26a436d6aa8620c5f5d33a7936a1a83d29e0e48a",
+          "lastModified": "2009-09-04T07:53:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes_2/20110717100926.html"
+        },
+        {
+          "timestamp": "20110907073932",
+          "waybackUrl": "https://web.archive.org/web/20110907073932id_/http://www.tribes2wiki.com:80/wiki/Tribes_2",
+          "sha256": "54a8ac3e277700cd74b3d7c80fb779597c70d42a9796513131f3afc56d69c169",
+          "lastModified": "2009-09-04T07:53:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes_2/20110907073932.html"
+        }
+      ]
+    },
+    {
+      "title": "Tribes2Wiki talk:News/Tribes 2 IRC Issues",
+      "namespace": "Tribes2Wiki talk",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Tribes2Wiki_talk:News/Tribes_2_IRC_Issues",
+      "captures": [
+        {
+          "timestamp": "20101107095100",
+          "waybackUrl": "https://web.archive.org/web/20101107095100id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki_talk:News/Tribes_2_IRC_Issues",
+          "sha256": "b867be4c32c18414e1226048a340718b679c1bab6432f3ee664a00751e193cf7",
+          "lastModified": "2010-10-07T22:38:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_talk_News_Tribes_2_IRC_Issues/20101107095100.html"
+        },
+        {
+          "timestamp": "20110517022527",
+          "waybackUrl": "https://web.archive.org/web/20110517022527id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki_talk:News/Tribes_2_IRC_Issues",
+          "sha256": "c59c6b1ea47a12a54e6f8a4812217bc67ab958e86ca89e50ab1921fd81bddfdb",
+          "lastModified": "2010-10-07T22:38:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_talk_News_Tribes_2_IRC_Issues/20110517022527.html"
+        },
+        {
+          "timestamp": "20110717100829",
+          "waybackUrl": "https://web.archive.org/web/20110717100829id_/http://www.tribes2wiki.com/wiki/Tribes2Wiki_talk:News/Tribes_2_IRC_Issues",
+          "sha256": "9d1111efec86416ddbf8309e8766f9eed96a944a73ee090921b11b9d517ffa4a",
+          "lastModified": "2010-10-07T22:38:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_talk_News_Tribes_2_IRC_Issues/20110717100829.html"
+        },
+        {
+          "timestamp": "20110820130951",
+          "waybackUrl": "https://web.archive.org/web/20110820130951id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki_talk:News/Tribes_2_IRC_Issues",
+          "sha256": "7515adede275019ec89a54d5f98849e2f3df697e3da5df95767c60b677652461",
+          "lastModified": "2011-07-27T16:12:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_talk_News_Tribes_2_IRC_Issues/20110820130951.html"
+        },
+        {
+          "timestamp": "20110907060826",
+          "waybackUrl": "https://web.archive.org/web/20110907060826id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki_talk:News/Tribes_2_IRC_Issues",
+          "sha256": "c2fdb8fcc28b2942de98812743d8ec60399a0c884dd3c540c063145929f6b806",
+          "lastModified": "2011-07-27T16:12:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_talk_News_Tribes_2_IRC_Issues/20110907060826.html"
+        }
+      ]
+    },
+    {
+      "title": "Tribes2Wiki:About",
+      "namespace": "Tribes2Wiki",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Tribes2Wiki:About",
+      "captures": [
+        {
+          "timestamp": "20100417113505",
+          "waybackUrl": "https://web.archive.org/web/20100417113505id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:About",
+          "sha256": "905820cfef5a1dd7c3f3270bc26cb69bd5e6621752439897ef2b5b3015311c29",
+          "lastModified": "2008-12-06T22:02:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_About/20100417113505.html"
+        },
+        {
+          "timestamp": "20100617023645",
+          "waybackUrl": "https://web.archive.org/web/20100617023645id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:About",
+          "sha256": "2c5259fbc3b73d50cf66e4130fb008744e63054e872279bb81928559ae366004",
+          "lastModified": "2008-12-06T22:02:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_About/20100617023645.html"
+        },
+        {
+          "timestamp": "20101106192706",
+          "waybackUrl": "https://web.archive.org/web/20101106192706id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:About",
+          "sha256": "ab0b27c1f4c61224ace44d25bfbf2272be7fe0cdc75081af676a93e266a81fd4",
+          "lastModified": "2008-12-06T22:02:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_About/20101106192706.html"
+        },
+        {
+          "timestamp": "20110518133521",
+          "waybackUrl": "https://web.archive.org/web/20110518133521id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:About",
+          "sha256": "0015588399744d56dd3e0ba4722ba624556342d4a14aa4b0e6c02749ee2a8624",
+          "lastModified": "2008-12-06T22:02:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_About/20110518133521.html"
+        },
+        {
+          "timestamp": "20110827064010",
+          "waybackUrl": "https://web.archive.org/web/20110827064010id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:About",
+          "sha256": "2bc17f5c5e828d97073cfdd833ad151a8e74a1d6bcd222fcb506de36faea1a7d",
+          "lastModified": "2008-12-06T22:02:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_About/20110827064010.html"
+        }
+      ]
+    },
+    {
+      "title": "Tribes2Wiki:Community portal",
+      "namespace": "Tribes2Wiki",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Tribes2Wiki:Community_portal",
+      "captures": [
+        {
+          "timestamp": "20101106192712",
+          "waybackUrl": "https://web.archive.org/web/20101106192712id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:Community_portal",
+          "sha256": "66afeb407bc929ea25b7414abf740038a6b7c9d5df2fc28f896756c0286ea2c8",
+          "lastModified": "2010-10-07T19:17:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_Community_portal/20101106192712.html"
+        },
+        {
+          "timestamp": "20110323010817",
+          "waybackUrl": "https://web.archive.org/web/20110323010817id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:Community_portal",
+          "sha256": "dbd39f4685a175e45fee47c3b4dcf1fb6e3d61cde7293690163a15e8b95b48eb",
+          "lastModified": "2010-10-07T19:17:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_Community_portal/20110323010817.html"
+        },
+        {
+          "timestamp": "20110424031220",
+          "waybackUrl": "https://web.archive.org/web/20110424031220id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:Community_portal",
+          "sha256": "344a659ec3ce5dbc47da42fb530c8db19c0855bcbfd0b0c4f4f1f325043b959a",
+          "lastModified": "2010-10-07T19:17:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_Community_portal/20110424031220.html"
+        },
+        {
+          "timestamp": "20110717100405",
+          "waybackUrl": "https://web.archive.org/web/20110717100405id_/http://www.tribes2wiki.com/wiki/Tribes2Wiki:Community_portal",
+          "sha256": "2c26368ef6d4c8d949168b0073c8f4a905487268ab77f6bebe979de2f52615fb",
+          "lastModified": "2010-10-07T19:17:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_Community_portal/20110717100405.html"
+        },
+        {
+          "timestamp": "20110907144055",
+          "waybackUrl": "https://web.archive.org/web/20110907144055id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:Community_portal",
+          "sha256": "0cdecd8d542d8f48ab65fcdd97053b82e38a967c7c52446963cab6bc676c4b06",
+          "lastModified": "2010-10-07T19:17:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_Community_portal/20110907144055.html"
+        }
+      ]
+    },
+    {
+      "title": "Tribes2Wiki:Community Portal",
+      "namespace": "Tribes2Wiki",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Tribes2Wiki:Community_Portal",
+      "captures": [
+        {
+          "timestamp": "20100417113509",
+          "waybackUrl": "https://web.archive.org/web/20100417113509id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:Community_Portal",
+          "sha256": "331fb1e7bc62b053e8a68d05be5eac6fe4478cf1e944d28b2dd0544906e71059",
+          "lastModified": "2009-09-04T07:58:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_Community_Portal/20100417113509.html"
+        },
+        {
+          "timestamp": "20100617023414",
+          "waybackUrl": "https://web.archive.org/web/20100617023414id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:Community_Portal",
+          "sha256": "4a4f244c8c7b46cf84702001e0051158f1c9a075912743ea468c35084736646e",
+          "lastModified": "2010-05-20T19:33:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_Community_Portal/20100617023414.html"
+        },
+        {
+          "timestamp": "20101107074413",
+          "waybackUrl": "https://web.archive.org/web/20101107074413id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:Community_Portal",
+          "sha256": "9a35bb0fdf449111b6a2ceea3f73863c001ad7568974b258bdec5fda002f6665",
+          "lastModified": "2010-10-07T19:17:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_Community_Portal/20101107074413.html"
+        },
+        {
+          "timestamp": "20110826234534",
+          "waybackUrl": "https://web.archive.org/web/20110826234534id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:Community_Portal",
+          "sha256": "5ae6a6476ee7a27c306286813676b9e634387cc93bcfe084a546952e06e39eca",
+          "lastModified": "2010-10-07T19:17:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_Community_Portal/20110826234534.html"
+        }
+      ]
+    },
+    {
+      "title": "Tribes2Wiki:General disclaimer",
+      "namespace": "Tribes2Wiki",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Tribes2Wiki:General_disclaimer",
+      "captures": [
+        {
+          "timestamp": "20100417113135",
+          "waybackUrl": "https://web.archive.org/web/20100417113135id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:General_disclaimer",
+          "sha256": "c72ef42b58a884b0da5b7d6e4abe7f2b9fab718bc590a336bd97e79753de33cd",
+          "lastModified": "2008-12-06T22:04:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_General_disclaimer/20100417113135.html"
+        },
+        {
+          "timestamp": "20100617024051",
+          "waybackUrl": "https://web.archive.org/web/20100617024051id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:General_disclaimer",
+          "sha256": "fae874fdf2b3ee6b7179782fa13c2d2e1cd678d2b05674271f65326ab91db0eb",
+          "lastModified": "2008-12-06T22:04:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_General_disclaimer/20100617024051.html"
+        },
+        {
+          "timestamp": "20101106192717",
+          "waybackUrl": "https://web.archive.org/web/20101106192717id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:General_disclaimer",
+          "sha256": "b6e8b1dd16b858c989da007e3614adeb57b222a6badfbc3460b0f0cffa43ac2a",
+          "lastModified": "2008-12-06T22:04:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_General_disclaimer/20101106192717.html"
+        },
+        {
+          "timestamp": "20110518133533",
+          "waybackUrl": "https://web.archive.org/web/20110518133533id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:General_disclaimer",
+          "sha256": "c50fb3eb45a9353411d77b6abbd2919fd3813a7afaf9ce8e917dd35aede4060b",
+          "lastModified": "2008-12-06T22:04:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_General_disclaimer/20110518133533.html"
+        },
+        {
+          "timestamp": "20110828205204",
+          "waybackUrl": "https://web.archive.org/web/20110828205204id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:General_disclaimer",
+          "sha256": "89581cabd96ab372ec04193bd8dd692725e53f1d69ab3ec63c01eb9743d933b4",
+          "lastModified": "2008-12-06T22:04:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_General_disclaimer/20110828205204.html"
+        }
+      ]
+    },
+    {
+      "title": "Tribes2Wiki:News",
+      "namespace": "Tribes2Wiki",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Tribes2Wiki:News",
+      "captures": [
+        {
+          "timestamp": "20101107074435",
+          "waybackUrl": "https://web.archive.org/web/20101107074435id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:News",
+          "sha256": "3697e78dd32284932cec9ed376cf61606e32e8b0053c65ef53108ea200aaf931",
+          "lastModified": "2010-10-07T22:39:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_News/20101107074435.html"
+        },
+        {
+          "timestamp": "20110717101306",
+          "waybackUrl": "https://web.archive.org/web/20110717101306id_/http://www.tribes2wiki.com/wiki/Tribes2Wiki:News",
+          "sha256": "7bc607c4db1fb6ad1080a93a5772ef45fa59d0eb7ade5eddc31e96044f0189cd",
+          "lastModified": "2011-03-04T01:11:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_News/20110717101306.html"
+        },
+        {
+          "timestamp": "20110827081159",
+          "waybackUrl": "https://web.archive.org/web/20110827081159id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:News",
+          "sha256": "d0a78af38ced1069e8b0393aa209d3eb5a95e77910a3f4ae79026026ceecf0a7",
+          "lastModified": "2011-07-27T16:02:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_News/20110827081159.html"
+        }
+      ]
+    },
+    {
+      "title": "Tribes2Wiki:News/Tribes 2 IRC Issues",
+      "namespace": "Tribes2Wiki",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Tribes2Wiki:News/Tribes_2_IRC_Issues",
+      "captures": [
+        {
+          "timestamp": "20110518083456",
+          "waybackUrl": "https://web.archive.org/web/20110518083456id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:News/Tribes_2_IRC_Issues",
+          "sha256": "981e9b7d5f91677aa907aefae91f58fe36975b0483b66366c5587194e7cf392a",
+          "lastModified": "2010-10-07T22:33:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_News_Tribes_2_IRC_Issues/20110518083456.html"
+        },
+        {
+          "timestamp": "20110827115747",
+          "waybackUrl": "https://web.archive.org/web/20110827115747id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:News/Tribes_2_IRC_Issues",
+          "sha256": "1b11a68efec0407eae392bddb94d387b35f0270f0f8f924019dde893315ad3fc",
+          "lastModified": "2010-10-07T22:33:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_News_Tribes_2_IRC_Issues/20110827115747.html"
+        }
+      ]
+    },
+    {
+      "title": "Tribes2Wiki:Privacy policy",
+      "namespace": "Tribes2Wiki",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Tribes2Wiki:Privacy_policy",
+      "captures": [
+        {
+          "timestamp": "20100417113514",
+          "waybackUrl": "https://web.archive.org/web/20100417113514id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:Privacy_policy",
+          "sha256": "a2d81dcdf5aac15a3eded722531101ecb208faf279b499f0feedd72edc507f50",
+          "lastModified": "2008-12-06T22:02:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_Privacy_policy/20100417113514.html"
+        },
+        {
+          "timestamp": "20100617024117",
+          "waybackUrl": "https://web.archive.org/web/20100617024117id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:Privacy_policy",
+          "sha256": "903cffea7051b96643f0adfb12e120dcb9a333eb73b54f639720fc42bd5ecd46",
+          "lastModified": "2008-12-06T22:02:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_Privacy_policy/20100617024117.html"
+        },
+        {
+          "timestamp": "20101106192732",
+          "waybackUrl": "https://web.archive.org/web/20101106192732id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:Privacy_policy",
+          "sha256": "2788ade2ab7dfa02bc6b7d685d1be2209c110ae9810b18ce729e0a9483034f13",
+          "lastModified": "2008-12-06T22:02:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_Privacy_policy/20101106192732.html"
+        },
+        {
+          "timestamp": "20110518082653",
+          "waybackUrl": "https://web.archive.org/web/20110518082653id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:Privacy_policy",
+          "sha256": "e886fb239bf77a4daa6ff5fbd5462fec7530e782ff7ffe22cae0e98479feb4ef",
+          "lastModified": "2008-12-06T22:02:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_Privacy_policy/20110518082653.html"
+        },
+        {
+          "timestamp": "20110717100301",
+          "waybackUrl": "https://web.archive.org/web/20110717100301id_/http://www.tribes2wiki.com/wiki/Tribes2Wiki:Privacy_policy",
+          "sha256": "176690067224116e70d6bfc6970c7285bea8a2317592c481c203bc80f50ec2dd",
+          "lastModified": "2008-12-06T22:02:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_Privacy_policy/20110717100301.html"
+        },
+        {
+          "timestamp": "20110829105646",
+          "waybackUrl": "https://web.archive.org/web/20110829105646id_/http://www.tribes2wiki.com:80/wiki/Tribes2Wiki:Privacy_policy",
+          "sha256": "cc5e69878cc2d60f4c8a994743ce4e99a38e63e33c709239fb2ad39368b817bc",
+          "lastModified": "2008-12-06T22:02:00.000Z",
+          "cacheFile": "archive-cache/pages/Tribes2Wiki_Privacy_policy/20110829105646.html"
+        }
+      ]
+    },
+    {
+      "title": "Vehicle pad",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Vehicle_pad",
+      "captures": [
+        {
+          "timestamp": "20100417113519",
+          "waybackUrl": "https://web.archive.org/web/20100417113519id_/http://www.tribes2wiki.com:80/wiki/Vehicle_pad",
+          "sha256": "594134358078a6c8bafd0e23c864d743c002ae3c4b1bcac7dfd77bbae6ba6542",
+          "lastModified": "2009-08-02T21:21:00.000Z",
+          "cacheFile": "archive-cache/pages/Vehicle_pad/20100417113519.html"
+        }
+      ]
+    },
+    {
+      "title": "Waypoint",
+      "namespace": "Main",
+      "originalUrl": "http://www.tribes2wiki.com/wiki/Waypoint",
+      "captures": [
+        {
+          "timestamp": "20110717100045",
+          "waybackUrl": "https://web.archive.org/web/20110717100045id_/http://www.tribes2wiki.com/wiki/Waypoint",
+          "sha256": "7c8d99b409e91d312d6c5f3f247a393a4c7f3bce43365448e08aacdf5fd85605",
+          "lastModified": "2010-11-24T01:47:00.000Z",
+          "cacheFile": "archive-cache/pages/Waypoint/20110717100045.html"
+        }
+      ]
+    }
+  ]
+}

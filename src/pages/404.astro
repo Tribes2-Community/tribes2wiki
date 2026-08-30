@@ -1,0 +1,90 @@
+---
+/**
+ * Not-found page, doubling as the fallback router for old tribes2wiki.com URLs.
+ *
+ * Most old URLs are handled by real redirect pages (see `redirects` in
+ * astro.config.mjs). Two kinds can't be, and land here instead:
+ *
+ *   - titles containing a colon (`/wiki/Category:Armors`), which would need a
+ *     directory with a colon in its name -- illegal on Windows, so no static
+ *     page can be emitted for them;
+ *   - the query form the wiki also answered on, `/w/index.php5?title=Foo`,
+ *     which a static host can't route on at all.
+ *
+ * GitHub Pages serves this file for any unmatched path, so the lookup runs
+ * client-side and forwards to the right article.
+ */
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import redirectMap from '../redirects.json' with { type: 'json' };
+
+const lookup = redirectMap.all as Record<string, string>;
+---
+
+<StarlightPage
+  frontmatter={{
+    title: 'Page not found',
+    description: 'That page does not exist, or has moved since the original wiki.',
+    template: 'splash',
+    tableOfContents: false,
+  }}
+>
+  <script is:inline set:html={`
+    (function () {
+      var map = ${JSON.stringify(lookup)};
+
+      // Normalise a path the way MediaWiki treated titles: spaces and underscores
+      // are equivalent, the leading character is case-insensitive, and a trailing
+      // slash is meaningless.
+      function normalise(p) {
+        try { p = decodeURIComponent(p); } catch (e) {}
+        return p.replace(/\\+/g, '_').replace(/ /g, '_').replace(/\\/+$/, '').toLowerCase();
+      }
+
+      var index = {};
+      for (var key in map) index[normalise(key)] = map[key];
+
+      var candidates = [];
+      var path = window.location.pathname;
+      candidates.push(path);
+
+      // The wiki also answered on /w/index.php5?title=Foo and /index.php?title=Foo
+      var title = new URLSearchParams(window.location.search).get('title');
+      if (title) candidates.push('/wiki/' + title);
+
+      for (var i = 0; i < candidates.length; i++) {
+        var hit = index[normalise(candidates[i])];
+        if (hit) {
+          window.location.replace(hit + window.location.hash);
+          return;
+        }
+      }
+
+      // No match: reveal the not-found content, which is hidden by default so the
+      // redirect case never flashes it.
+      document.documentElement.removeAttribute('data-t2-resolving');
+    })();
+  `} />
+
+  <style is:inline>
+    html[data-t2-resolving] .t2-notfound {
+      visibility: hidden;
+    }
+  </style>
+  <script is:inline set:html={`document.documentElement.setAttribute('data-t2-resolving','');`} />
+
+  <div class="t2-notfound">
+    <p>
+      That page doesn't exist here. If you followed a link to the original
+      <strong>tribes2wiki.com</strong>, it may be one of the articles the Internet Archive never
+      captured — about a third of the wiki was lost when the site went down.
+    </p>
+    <p>
+      Try <a href="/">the front page</a>, search from the header, or see
+      <a href="/project/restoration">The restoration</a> for what survived and what didn't.
+      The full list of missing articles is in
+      <a href="https://github.com/Tribes2-Community/tribes2wiki/blob/main/MISSING_PAGES.md"
+        >MISSING_PAGES.md</a
+      >, and writing one is the most useful thing anyone can do.
+    </p>
+  </div>
+</StarlightPage>
