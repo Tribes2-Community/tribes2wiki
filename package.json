@@ -15,7 +15,8 @@
     "replay-history": "node scripts/replay-history.ts",
     "trace-emblem": "node scripts/trace-emblem.ts",
     "fetch-images": "node scripts/fetch-images.ts",
-    "generate-redirects": "node scripts/generate-redirects.ts"
+    "generate-redirects": "node scripts/generate-redirects.ts",
+    "make-og-image": "node scripts/make-og-image.ts"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.41.10",
