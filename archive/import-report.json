@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T00:12:13.042Z",
+  "generatedAt": "2026-08-30T00:55:51.651Z",
   "convertedPages": 75,
   "slugCollisions": [
     {
@@ -879,8 +879,8 @@
     },
     {
       "title": "Main Page",
-      "section": "start",
-      "file": "src/content/docs/start/index.md"
+      "section": "",
+      "file": "src/content/docs/index.md"
     },
     {
       "title": "Map",

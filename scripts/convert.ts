@@ -5,7 +5,7 @@
  * truth -- re-running this overwrites hand edits. See README.
  */
 import { mkdir, writeFile, rm } from 'node:fs/promises';
-import { readFileSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 import * as cheerio from 'cheerio';
 import TurndownService from 'turndown';
@@ -295,8 +295,12 @@ async function main(): Promise<void> {
   const slugCollisions: { slug: string; titles: string[] }[] = [];
 
   for (const info of pages) {
-    const section = sectionFor(info.title, info.categories);
-    const baseSlug = info.title === 'Main Page' ? 'index' : slugify(info.title);
+    // The wiki's Main Page becomes the site root, so it lives at the content root
+    // rather than inside a section directory -- otherwise it builds to /start and
+    // nothing serves `/`.
+    const isHome = info.title === 'Main Page';
+    const section = isHome ? '' : sectionFor(info.title, info.categories);
+    const baseSlug = isHome ? 'index' : slugify(info.title);
 
     let slug = baseSlug;
     for (let n = 2; takenSlugs.has(`${section}/${slug}`); n++) slug = `${baseSlug}-${n}`;
@@ -326,7 +330,18 @@ async function main(): Promise<void> {
   for (const [title, placement] of placements) knownRoutes.set(title, placement.route);
 
   // Pass 3: convert.
-  await rm(OUT_DIR, { recursive: true, force: true });
+  //
+  // Remove only the files a previous run generated, listed in the last import
+  // report -- never the whole directory. Articles written by hand since the
+  // import live here too, and wiping the tree would silently delete them.
+  if (existsSync(REPORT_PATH)) {
+    const previous = JSON.parse(readFileSync(REPORT_PATH, 'utf8')) as {
+      pages?: { file: string }[];
+    };
+    for (const page of previous.pages ?? []) {
+      await rm(page.file, { force: true });
+    }
+  }
   await mkdir(OUT_DIR, { recursive: true });
 
   const redlinkTargets = new Set<string>();
