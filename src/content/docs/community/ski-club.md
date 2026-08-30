@@ -23,8 +23,9 @@ carries:
 - **Recent LCTF games** — the latest results on the front page, with damage share and
   predicted outcomes alongside each
 
-Match stats are collected and processed idempotently: reprocessing the same match does not
-double-count it, so the numbers stay correct even when a game has to be re-imported.
+Ski Club collects and keeps its own stats, independently of the tracking on
+[TribalOutpost](https://tribaloutpost.com). The leaderboards and ratings here stand on their
+own rather than deriving from anywhere else.
 
 ## TrueSkill ratings
 
