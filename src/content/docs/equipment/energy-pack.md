@@ -16,30 +16,7 @@ The energy pack is a pack that has the passive effect of increasing the speed wi
 
 ## Technical Info
 
-Base
-
-Base++
-
-Classic
-
-Version2
-
-Recharge Rate Boost
-
-0.15
-
-0.15
-
-0.15
-
-0.15
-
-Recharge Rate Boost (%)
-
-58.6%
-
-58.6%
-
-58.6%
-
-58.6%
+|  | Base | Base++ | Classic | Version2 |
+| --- | --- | --- | --- | --- |
+| Recharge Rate Boost | 0.15 | 0.15 | 0.15 | 0.15 |
+| Recharge Rate Boost (%) | 58.6% | 58.6% | 58.6% | 58.6% |

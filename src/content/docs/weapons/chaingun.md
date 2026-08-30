@@ -57,90 +57,13 @@ Interpolate is officially no longer a cheat in league play.
 
 ## Technical info
 
-Base
-
-Base++
-
-Classic
-
-Version2
-
-Damage
-
-0.0825
-
- ?
-
-0.0825
-
-0.0825
-
-Reload time
-
-0.15
-
- ?
-
-0.15
-
-0.15
-
-Spin up/down time
-
-0.5 / 1.0
-
- ?
-
-0.5 / 1.0
-
-0.25 / 0.5
-
-Bullet speed (dry/wet)
-
-425 / 100
-
- ?
-
-750 / 280
-
-850 / 325
-
-Bullet lifetime
-
-3000
-
- ?
-
-3000
-
-3000
-
-Inherent velocity factor
-
-1.0
-
- ?
-
-1.0
-
-1.0
-
-Bullet spread
-
-8.0
-
- ?
-
-6.0
-
- ?
-
-Ammo (light/med/heavy)
-
-100 / 150 / 200
-
- ?
-
-100 / 150 / 200
-
-120 / 150 / 200
+|  | Base | Base++ | Classic | Version2 |
+| --- | --- | --- | --- | --- |
+| Damage | 0.0825 |  ? | 0.0825 | 0.0825 |
+| Reload time | 0.15 |  ? | 0.15 | 0.15 |
+| Spin up/down time | 0.5 / 1.0 |  ? | 0.5 / 1.0 | 0.25 / 0.5 |
+| Bullet speed (dry/wet) | 425 / 100 |  ? | 750 / 280 | 850 / 325 |
+| Bullet lifetime | 3000 |  ? | 3000 | 3000 |
+| Inherent velocity factor | 1.0 |  ? | 1.0 | 1.0 |
+| Bullet spread | 8.0 |  ? | 6.0 |  ? |
+| Ammo (light/med/heavy) | 100 / 150 / 200 |  ? | 100 / 150 / 200 | 120 / 150 / 200 |

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T00:55:51.651Z",
-  "convertedPages": 75,
+  "generatedAt": "2026-08-30T06:30:30.216Z",
+  "convertedPages": 74,
   "slugCollisions": [
     {
       "slug": "reference/targeting-laser",
@@ -495,10 +495,6 @@
       "useCount": 2
     },
     {
-      "file": "TWB_FusionMortar.jpg",
-      "useCount": 2
-    },
-    {
       "file": "TWB_Spinfusor.jpg",
       "useCount": 2
     },
@@ -560,6 +556,10 @@
     },
     {
       "file": "TWB_Chaingun.jpg",
+      "useCount": 1
+    },
+    {
+      "file": "TWB_FusionMortar.jpg",
       "useCount": 1
     },
     {
@@ -896,11 +896,6 @@
       "title": "Mod",
       "section": "scripting",
       "file": "src/content/docs/scripting/mod.md"
-    },
-    {
-      "title": "Mortar",
-      "section": "weapons",
-      "file": "src/content/docs/weapons/mortar.md"
     },
     {
       "title": "Pulse sensor",

@@ -102,7 +102,7 @@ The armors determine how many weapons you can carry, how much damage you can tak
 -   **ELF projector**: The ELF gun is a weapon that lost much of it's usefulness over the years. It does no damage, but it drains the target's energy. It's up to you if you think that's worth a weapon slot.
 -   **[Shocklance](/weapons/shocklance "Shocklance")**: The shocklance is a short-range weapon that fires an instant-hit beam instead of a projectile. It is one of the only weapons in the game capable of killing anyone in one hit, but only if you hit them in the back. Otherwise, it will still do a decent amount of damage. On the downside, it has a very slow firing rate.
 -   **Missile launcher**: The missile launcher can only be fired at a target that is giving off enough heat. However, it fires a fast homing missile that can only be stopped by a flare or by outrunning it (only possible with a Shrike). It does enough damage to kill a Scout armor from full health. Missile launchers cannot be carried by a player in Scout armor.
--   **[Mortar](/weapons/fusion-mortar "Fusion mortar")**: The mortar is a powerful explosive weapon that can only be carried by a player in Juggernaut armor. It does enough damage to kill a Scout in one shot with a large blast radius. It is very good for doing heavy damage to a team's base equipment.
+-   **[Mortar](/weapons/fusion-mortar "Mortar")**: The mortar is a powerful explosive weapon that can only be carried by a player in Juggernaut armor. It does enough damage to kill a Scout in one shot with a large blast radius. It is very good for doing heavy damage to a team's base equipment.
 
 ### Packs
 

@@ -20,6 +20,18 @@ const REPORT_PATH = path.join('archive', 'import-report.json');
 // Image resolution (archive-recovered originals plus hand-reviewed replacements)
 // lives in lib/images.ts.
 
+/**
+ * Pages dropped as duplicates of another article, mapped to the survivor.
+ *
+ * The original wiki carried both Mortar and Fusion mortar with byte-identical
+ * text. Only the survivor is written, and links to the dropped title resolve to
+ * it rather than being unwrapped into plain text. Keep in step with
+ * MERGED_PAGES in generate-redirects.ts.
+ */
+const MERGED_INTO: Record<string, string> = {
+  Mortar: 'Fusion mortar',
+};
+
 export interface Capture {
   timestamp: string;
   waybackUrl: string;
@@ -192,13 +204,34 @@ export function convertPage(
     $(el).remove();
   });
 
-  // The wiki used tables purely for portal layout (Main Page, category listings);
-  // unwrap them so the content survives as ordinary blocks instead of raw HTML.
-  // Tables nest, and replaceWith re-parses the inner markup, so repeat until none remain.
-  for (let pass = 0; pass < 5 && body.find('table').length > 0; pass++) {
-    body.find('table').each((_, el) => {
+  /**
+   * The wiki used tables for two unrelated jobs, and they need opposite handling:
+   *
+   *   - portal layout (the Main Page, category listings) -- unwrap, so the
+   *     content survives as ordinary blocks rather than raw HTML;
+   *   - the per-mod stat tables on weapons and packs -- keep, so turndown's GFM
+   *     plugin renders them as real Markdown tables.
+   *
+   * Header cells separate the two cleanly: every stat table has <th>, and no
+   * layout table does.
+   */
+  const isLayoutTable = (el: any): boolean =>
+    $(el)
+      .find('th')
+      .filter((_i, cell) => $(cell).closest('table').is(el)).length === 0;
+
+  // Tables nest, and replaceWith re-parses the inner markup, so repeat until
+  // no unwrappable table is left.
+  for (let pass = 0; pass < 5; pass++) {
+    const layout = body.find('table').filter((_i, el) => isLayoutTable(el));
+    if (layout.length === 0) break;
+    layout.each((_, el) => {
       const cells = $(el)
         .find('td, th')
+        // find() is a descendant search, so without this the cells of a nested
+        // table are collected by the outer table too, and again when the inner
+        // one is unwrapped -- which duplicated the Main Page's portal row.
+        .filter((_i, cell) => $(cell).closest('table').is(el))
         .map((_i, cell) => $(cell).html() ?? '')
         .get()
         .filter((html) => html.trim().length > 0);
@@ -295,6 +328,7 @@ async function main(): Promise<void> {
   const slugCollisions: { slug: string; titles: string[] }[] = [];
 
   for (const info of pages) {
+    if (MERGED_INTO[info.title]) continue;
     // The wiki's Main Page becomes the site root, so it lives at the content root
     // rather than inside a section directory -- otherwise it builds to /start and
     // nothing serves `/`.
@@ -328,6 +362,11 @@ async function main(): Promise<void> {
 
   const knownRoutes = new Map<string, string>();
   for (const [title, placement] of placements) knownRoutes.set(title, placement.route);
+  // Links to a merged-away title point at the article that absorbed it.
+  for (const [from, to] of Object.entries(MERGED_INTO)) {
+    const route = knownRoutes.get(to);
+    if (route) knownRoutes.set(from, route);
+  }
 
   // Pass 3: convert.
   //
@@ -351,6 +390,7 @@ async function main(): Promise<void> {
   const written: { title: string; section: string; file: string }[] = [];
 
   for (const info of pages) {
+    if (MERGED_INTO[info.title]) continue;
     const result = convertPage(info, placements.get(info.title)!, knownRoutes, redlinkTargets);
     const dir = path.join(OUT_DIR, result.section);
     await mkdir(dir, { recursive: true });

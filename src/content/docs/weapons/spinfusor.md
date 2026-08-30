@@ -44,92 +44,15 @@ A **disc-jump** is the act of shooting a disc at your feet while you are [skiing
 
 ## Technical info
 
-Base
-
-Base++
-
-Classic
-
-Version2
-
-Damage
-
-0.5
-
- ?
-
-0.5
-
-0.5
-
-Blast radius
-
-7.5
-
- ?
-
-7.5
-
-6.5
-
-Reload time
-
-1.75
-
- ?
-
-1.75
-
-1.38
-
-Projectile speed (dry/wet)
-
-90 / 50
-
- ?
-
-95 / 55
-
-90 / 80
-
-Projectile lifetime
-
-5000
-
- ?
-
-5000
-
-5024
-
-Inherent velocity factor
-
-0.5
-
- ?
-
-0.75
-
-1.0
-
-Kickback strength
-
-1750
-
- ?
-
-2000
-
-2850
-
-Ammo (light/med/heavy)
-
-15 / 15 / 15
-
- ?
-
-15 / 15 / 15
-
-15 / 15 / 15
+|  | Base | Base++ | Classic | Version2 |
+| --- | --- | --- | --- | --- |
+| Damage | 0.5 |  ? | 0.5 | 0.5 |
+| Blast radius | 7.5 |  ? | 7.5 | 6.5 |
+| Reload time | 1.75 |  ? | 1.75 | 1.38 |
+| Projectile speed (dry/wet) | 90 / 50 |  ? | 95 / 55 | 90 / 80 |
+| Projectile lifetime | 5000 |  ? | 5000 | 5024 |
+| Inherent velocity factor | 0.5 |  ? | 0.75 | 1.0 |
+| Kickback strength | 1750 |  ? | 2000 | 2850 |
+| Ammo (light/med/heavy) | 15 / 15 / 15 |  ? | 15 / 15 / 15 | 15 / 15 / 15 |
 
 (Page Edited by Misanthropic)
