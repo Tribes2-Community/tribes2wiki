@@ -14,9 +14,10 @@ Because they exist to try things out, what is running on them varies. That makes
 useful if you want to see something new before it lands anywhere else, and worth knowing
 about if you are working on scripts, mods or server-side changes and need somewhere to test.
 
-GeekOfWires also maintains this wiki, which was
-[recovered from the Internet Archive](/project/restoration) after the original
-tribes2wiki.com went offline.
+GeekOfWires kickstarted the wiki recovery that brought this site back from the Internet
+Archive after the original tribes2wiki.com went offline — see
+[the restoration](/project/restoration). It has no single maintainer: the repository is
+open, and [anyone can contribute](/project/making-changes).
 
 ## Playing there
 
