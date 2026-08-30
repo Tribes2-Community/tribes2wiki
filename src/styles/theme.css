@@ -1,19 +1,39 @@
 /*
- * Tribes 2 styling for Starlight: weathered steel base, molten gold accents.
- * Only Starlight's design tokens are overridden, so upstream theme updates
- * keep working.
+ * Tribes 2 styling for Starlight.
+ *
+ * The surface colours are taken from the game's own HUD rather than invented:
+ * sampled from in-game screenshots, its panels sit in a narrow band of dark,
+ * desaturated teal --
+ *
+ *   #1d5168  chat / message panel      (blue-teal)
+ *   #306559  scoreboard panel          (green-teal)
+ *   #325f53  inventory / item panel
+ *   #2b4844  command panel             (darkest)
+ *
+ * Backgrounds below are darker derivatives of that band, so the site reads as
+ * the game's UI without being too light to put text on. Gold is kept for
+ * accents and headings, matching the wiki's emblem.
+ *
+ * Only Starlight's design tokens are overridden, so upstream theme updates keep
+ * working.
  */
 
 :root {
   /* Gold accent ramp, light mode. */
   --sl-color-accent-low: #f5e6c0;
-  --sl-color-accent: #9a6a12;
-  --sl-color-accent-high: #5e3f08;
+  --sl-color-accent: #8a5e12;
+  --sl-color-accent-high: #563a08;
 
-  --t2-gold: #c9962f;
-  --t2-gold-bright: #f0c757;
-  --t2-steel: #5f6a77;
-  --t2-rule: rgba(201, 150, 47, 0.35);
+  --t2-gold: #9a6a12;
+  --t2-gold-bright: #c9962f;
+
+  /* Tribes 2 HUD panel colours, as sampled. */
+  --t2-hud-blue: #1d5168;
+  --t2-hud-green: #306559;
+  --t2-hud-panel: #325f53;
+  --t2-hud-deep: #2b4844;
+
+  --t2-rule: rgba(29, 81, 104, 0.28);
 }
 
 :root[data-theme='dark'] {
@@ -21,21 +41,36 @@
   --sl-color-accent: #c9962f;
   --sl-color-accent-high: #f4d98a;
 
-  /* Cool slate rather than Starlight's neutral grey. */
-  --sl-color-bg: #14181e;
-  --sl-color-bg-nav: #171c23;
-  --sl-color-bg-sidebar: #171c23;
-  --sl-color-bg-inline-code: #232a33;
-  --sl-color-hairline: #2a323c;
-  --sl-color-hairline-light: #333c47;
+  /* Darker derivatives of the HUD teal, so body text stays legible on them. */
+  --sl-color-bg: #0c1a20;
+  --sl-color-bg-nav: #102730;
+  --sl-color-bg-sidebar: #102730;
+  --sl-color-bg-inline-code: #16323c;
+  --sl-color-bg-selection: #1d5168;
+  --sl-color-hairline: #1a3b47;
+  --sl-color-hairline-light: #23566a;
+  --sl-color-hairline-shade: #14303a;
+
+  /* Pale cyan-white, as the HUD uses for panel text. */
+  --sl-color-white: #eaf3f5;
+  --sl-color-gray-1: #d3e3e8;
+  --sl-color-gray-2: #aec4cb;
+  --sl-color-gray-3: #7e99a2;
+  --sl-color-gray-4: #4d6873;
+  --sl-color-gray-5: #2d4a55;
+  --sl-color-gray-6: #17323c;
+  --sl-color-black: #0c1a20;
 
   --t2-gold: #e0ad3f;
   --t2-gold-bright: #f4d98a;
-  --t2-steel: #8e99a6;
   --t2-rule: rgba(224, 173, 63, 0.3);
 }
 
-/* Headings pick up the metal accent, mirroring the logo's gold-on-steel. */
+/*
+ * Headings keep the emblem's gold. Starlight renders the page title outside
+ * .sl-markdown-content, as h1#_top, so it needs naming separately.
+ */
+h1#_top,
 .sl-markdown-content h1,
 .sl-markdown-content h2 {
   color: var(--t2-gold);
@@ -49,6 +84,15 @@
 .site-title {
   font-weight: 700;
   letter-spacing: 0.02em;
+}
+
+/* Asides and code blocks pick up the HUD panel tint. */
+:root[data-theme='dark'] .starlight-aside {
+  background-color: #12313b;
+}
+
+:root[data-theme='dark'] .expressive-code .frame pre {
+  background-color: #102730;
 }
 
 /* Provenance block appended to imported pages. */
