@@ -1,13 +1,13 @@
 ---
 title: 'Fission Core'
-description: 'A set of general community servers run voluntarily by FlakPyro and open for anyone to use.'
+description: 'General community servers run voluntarily by FlakPyro, open for anyone to use.'
 categories: []
 sidebar:
   order: 4
 ---
 
-**Fission Core** is a set of general community servers run by **FlakPyro**, voluntarily and
-at his own expense, and open for the community to use.
+**Fission Core** is a set of general community servers run voluntarily by **FlakPyro**, and
+open for the community to use.
 
 They are general-purpose rather than tied to one event or format — useful for ordinary play,
 and for groups who need somewhere to run a match or a scrim without standing up a server of

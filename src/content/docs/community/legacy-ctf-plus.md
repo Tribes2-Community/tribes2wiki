@@ -9,11 +9,10 @@ sidebar:
 **Legacy CTF+** is the general public server — the one to join first if you have just
 installed the game and want to play. Capture the flag, open to anyone, no sign-up.
 
-It is run by **ChocoTaco**, who does a good deal else for the community besides. He
-maintains [PlayT2.com](https://playt2.com), the install-and-play site that hosts the
-[Tribes 2 Config AIO](/start/tribes-2) most new players use to get running, and publishes
-the guide artwork at [github.com/ChocoTaco1](https://github.com/ChocoTaco1) — several of
-the illustrations on this wiki came from there, replacing images lost when the original
+It is run by **ChocoTaco**, who also maintains [PlayT2.com](https://playt2.com), the site
+hosting the [Tribes 2 Config AIO](/start/tribes-2) that most new players install from, and
+publishes guide artwork at [github.com/ChocoTaco1](https://github.com/ChocoTaco1). Several
+of the illustrations on this wiki come from there, replacing images lost when the original
 site went down.
 
 ## Playing there

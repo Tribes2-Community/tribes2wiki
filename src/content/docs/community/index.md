@@ -6,8 +6,8 @@ sidebar:
   order: 1
 ---
 
-Tribes 2's official services shut down long ago. Everything still running is hosted by
-players, out of their own pockets and their own time. This section covers who runs what.
+Tribes 2's official services shut down long ago. Every server still running is hosted by
+players. This section covers who runs what.
 
 | Server | Run by | What it's for |
 | --- | --- | --- |

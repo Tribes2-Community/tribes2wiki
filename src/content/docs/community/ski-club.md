@@ -13,9 +13,9 @@ It is run by **slush**, also known as **s5h** and **FONDU**.
 
 ## Stats and ratings
 
-What sets Ski Club apart from the other PUG nights is that it keeps records. Match stats
-are collected and processed idempotently — reprocessing the same match does not
-double-count it, so the numbers stay correct even when a game has to be re-imported.
+Ski Club keeps records of its games. Match stats are collected and processed idempotently —
+reprocessing the same match does not double-count it, so the numbers stay correct even when
+a game has to be re-imported.
 
 Those results feed **TrueSkill** ratings. TrueSkill is a Bayesian skill-rating system
 developed by Microsoft Research, designed for team games rather than one-on-one play: it

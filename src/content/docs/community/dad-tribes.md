@@ -12,10 +12,10 @@ weekend starts.
 
 It is run by **Jerry** and **Gunther**.
 
-The Friday slot is a good one to know about. Pick-up games get teams picked and everyone in
-at a set time, which beats waiting in a server hoping enough people turn up. Between Dad
-Tribes on Fridays and [| The Cut |](/community/the-cut) on Saturdays, most weekends have
-organised play at both ends.
+Pick-up games have teams picked and everyone in at a set time, rather than depending on
+enough people happening to be in a server at once. Between Dad Tribes on Fridays and
+[| The Cut |](/community/the-cut) on Saturdays, there is organised play at both ends of the
+weekend.
 
 ## Playing there
 
