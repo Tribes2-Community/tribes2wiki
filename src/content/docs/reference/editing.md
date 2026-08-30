@@ -1,56 +1,107 @@
 ---
 title: 'Editing'
-description: 'On this page you''ll find some useful reading material. If you''re new to Wiki editing, you''ll find all of it useful. If you are a pro at Wiki editing, you sho...'
+description: 'How to edit this wiki: raise an issue to flag something, or open a pull request to change it yourself. Plus the guidelines this wiki is written to.'
 categories: []
 source:
   url: 'http://www.tribes2wiki.com/wiki/Help:Editing'
   archived: 'https://web.archive.org/web/20110828204447id_/http://www.tribes2wiki.com:80/wiki/Help:Editing'
   lastModified: '2010-01-06T23:29:00.000Z'
 ---
-On this page you'll find some useful reading material. If you're new to Wiki editing, you'll find all of it useful. If you are a pro at Wiki editing, you should still view the [guidelines section](#Guidelines), as we might have very different rules than what you're used to.
 
-## Editing
+This wiki no longer runs on MediaWiki. It is a static site built from Markdown files in a
+[public GitHub repository](https://github.com/Tribes2-Community/tribes2wiki), so editing
+works differently to the old site — there are no accounts to have approved, no wikitext,
+and no bureaucrats to ask.
 
-For those of you not familiar with editing Wikis, here are some really common things.
+The [guidelines](#guidelines) below still stand, and are worth reading whichever route you
+take.
+
+## Two ways to change something
+
+### Raise an issue
+
+Use this to flag something without editing it yourself — a page that's wrong, a page
+that's missing, or something mangled in the recovery from the archive.
+
+[Open an issue](https://github.com/Tribes2-Community/tribes2wiki/issues). A page name and a
+sentence is enough. All it needs is a free GitHub account.
+
+### Open a pull request
+
+Use this to make the change yourself. Every article has an **Edit page** link at the
+bottom, which opens that file on GitHub ready to edit in your browser — no git, no local
+checkout, nothing to install.
+
+Edit the text, describe what you changed, and click through to create the pull request. It
+gets reviewed and merged, and if something needs adjusting someone will say so on the pull
+request rather than quietly dropping it.
+
+[Making changes](/project/making-changes) walks through both routes in more detail.
+
+## Writing pages
+
+Pages are [Markdown](https://www.markdownguide.org/basic-syntax/), not wikitext. The
+common things:
+
+| What | How |
+| --- | --- |
+| Bold | `**bold text**` |
+| Italic | `_italic text_` |
+| Heading | `## Heading`, `### Sub-heading` |
+| Bullet | `- item` |
+| Link to another article | `[spinfusor](/weapons/spinfusor)` |
+| Link to an external site | `[TribalWar](https://www.tribalwar.com)` |
+| Image | `![Description](/images/File.png)` |
+
+A few differences from the old wiki worth knowing:
+
+- **Links are paths, not page names.** `[[spinfusor]]` becomes
+  `[spinfusor](/weapons/spinfusor)`. Broken internal links fail the build, so a typo is
+  caught before it reaches the site rather than showing up as a red link.
+- **There are no redirects or templates.** Alternate names are handled by writing the
+  article once and linking to it. Old MediaWiki URLs still resolve — `/wiki/Spinfusor`
+  forwards to the new address — so links from forum posts and search results keep working.
+- **The table of contents builds itself** from your headings; nothing to declare.
+- **Every page starts with a frontmatter block** between `---` lines, holding the title and
+  description. On recovered articles it also records which archived capture the text came
+  from. Leave that alone unless you're deliberately changing it.
+
+To mark an article as unfinished rather than leaving it bare:
+
+```markdown
+:::note[Stub]
+This article is a stub and requires additional information.
+:::
+```
 
 ### Creating a page
 
--   To create a new page, either click on a red link to that page, or type the exact page name you want to create into the search bar and click "Go".
--   When it comes to capitalization, the general rule is **if there is any doubt, then leave it lowercase**.
--   Be thorough with the wording. Avoid abbreviations in article titles at all costs. Notice how the browser's page is tribe and warrior browser. Also notice that [browser](/reference/browser "Browser") redirects to tribe and warrior browser automatically.
--   To create a "redirect" as above, which is useful to have all alternate names of a subject point to one page, use the code `#REDIRECT [[pagename]]`. You'll create a page with the alternate name, and the only thing in the code of the page will be that bit of code. _Example_: [browser](/reference/browser "Browser") contains only the line `#REDIRECT [[tribe and warrior browser]]`.
+Add a Markdown file to the section it belongs to under `src/content/docs/`, starting with:
 
-### Links
+```markdown
+---
+title: 'Missile launcher'
+description: 'One line, shown in search results and link previews.'
+categories:
+  - 'Weapons'
+---
 
--   To link to a page, enter `[[pagename]]`. Capitalization _does_ count beyond the first letter. The first letter of any article name is automatically capitalized, so you don't have to worry about it. _Example_: `[[spinfusor]]` → [spinfusor](/weapons/spinfusor "Spinfusor")
--   You can have letters appear immediately after the bracket with no space, and it will tag them onto the link word, but won't affect the link URL. This should be used any time you are referring to things in plural, when the article describing them is singular. _Example_: `[[mod]]s` → [mods](/scripting/mod "Mod")
--   To have a link appear with different text than the name of the page, use `[[pagename|text]]`. _Example_: `[[sensor jammer pack|SJ]]` → SJ
--   To link to an external site, enclose the link in single brackets: `[http://www.themellin.com]` would show [\[1\]](http://www.themellin.com). If you want, you can also change the text displayed by putting it inside the brackets after the URL: `[http://www.themellin.com Parent Site]` will display [Parent Site](http://www.themellin.com).
--   Generally, if you ever need to link to an outside website in the middle of an article, it should be done using references (these will be explained shortly). For links to a website as a whole, you should clump them all together at the bottom of the page under a `==External links==` header, rather than have them scattered throughout the text of the page.
+Article text goes here.
+```
 
-### Formatting and organization
+Sections map to the sidebar: `weapons`, `armors`, `equipment`, `base-assets`, `tactics`,
+`maps`, `patches`, `scripting`, `start`, `reference`, `project`.
 
--   For bold and italic text, enclose the text in single quotes as such: `'''bold text here'''` and `''italic text here''`. This will produce **bold text here** and _italic text here_ respectively.
--   Headers (text in big letters that divide the page into sections) are denoted by surrounding the header in = signs. Start with `==Header==` for the largest header, then move on to `===Sub-header===` for sub-headers of that header, and so on. A table of contents will automatically be created on the page if there are four or more headers on it, unless you have `__NOTOC__` somewhere in the code of the page. _Example_: `===Formatting and organization===` yields the title of this section.
+About a third of the original wiki was never captured by the Internet Archive.
+[MISSING\_PAGES.md](https://github.com/Tribes2-Community/tribes2wiki/blob/main/MISSING_PAGES.md)
+lists what's gone, ordered by how many surviving articles link to it — the entries at the
+top are where readers currently hit dead ends.
 
-### References
+### Writing in your own words
 
--   To make references, use the `<ref></ref>` tags. Anything you put inside those tags - which can be any normal wiki text - will be stored to be displayed later, and a small reference number will appear in its place. _Example_: `TribalWar says this.<ref>TribalWar. [http://www.tribalwar.com We say that.]</ref>` → TribalWar says this.[\[1\]](#cite_note-0)
--   If any references are used on the page, then you should have a `==References==` header somewhere on the page toward the end that contains only the `<references/>` tag. That tag will output all of the references used on the page denoted by `<ref></ref>` tags. _Example_:
-    1.  [↑](#cite_ref-0) TribalWar. [We say that.](http://www.tribalwar.com)
-
-### Templates
-
--   If you see text enclosed inside `{{ }}` in the source of a page, that is what's called a template or inclusion. `{{Tribes2Wiki:News}}` means that the content of [Tribes2Wiki:News](/project/news "Tribes2Wiki:News") is being copied, or included, at that point in the current page.
--   When creating a page that will be included onto other pages, you can use the `<noinclude></noinclude>` and `<includeonly></includeonly>` tags to give yourself more control over what goes on.
-    -   `<noinclude>This text will not appear if this page is included onto another page.</noinclude>`
-    -   `<includeonly>This text will only appear when this page is included onto another page. It will not appear if someone visits this page explicitly.</includeonly>`
-
-### Other tips
-
--   You can always view the source text of a page by clicking the "edit" (or sometimes "view source") link up top if you want to see how someone else did something.
--   If you need any more info, go to the [MediaWiki help page](http://www.mediawiki.org/wiki/Help:Contents). Many HTML features have a Wiki code equivalent that you should use instead of actual HTML.
--   Remember to always _preview_ your changes before saving them. It's very easy to make tiny mistakes, and if you save before fixing them, you'll just end up cluttering the recent changes page.
+Don't paste text in from forums, other wikis or old guides without asking. That writing
+belongs to whoever wrote it. Read a source, then write what you know — facts about how the
+game plays aren't anyone's property, only the particular words used to describe them.
 
 ## Guidelines
 
@@ -66,7 +117,7 @@ If you do make a page about yourself - or anything for that matter - just don't 
 
 #### Not everything needs its own page
 
-Back to the point, also try to determine whether the subject you are discussing would do better as its own page, or inside another page. If your subject is only relevant to one specific thing in Tribes 2, you should probably just add it to the page for that one specific thing rather than create a new page. You can always create the page as a redirect page to the other article. _Example_: chainwhore points to a paragraph inside the [chaingun](/weapons/chaingun "Chaingun") page.
+Back to the point, also try to determine whether the subject you are discussing would do better as its own page, or inside another page. If your subject is only relevant to one specific thing in Tribes 2, you should probably just add it to the page for that one specific thing rather than create a new page. _Example_: chainwhore points to a paragraph inside the [chaingun](/weapons/chaingun "Chaingun") page.
 
 ### Bias and opinions
 
