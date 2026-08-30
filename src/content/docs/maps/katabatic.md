@@ -18,7 +18,7 @@ Katabatic is a snowy map that has decent visibility and very rough, mountainous 
 
 ### Flag Position
 
-The [flags](/reference/capture-the-flag "Capture the Flag") are in the open for the most part, except for the two walls which sandwich it. On top of one tower is an AA turret which can easily shred a Flag capper into pieces if they are not careful.
+The [flags](/maps/capture-the-flag "Capture the Flag") are in the open for the most part, except for the two walls which sandwich it. On top of one tower is an AA turret which can easily shred a Flag capper into pieces if they are not careful.
 
 ### Bases
 

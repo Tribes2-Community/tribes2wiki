@@ -8,7 +8,7 @@ source:
   archived: 'https://web.archive.org/web/20110717101619id_/http://www.tribes2wiki.com/wiki/Scripting'
   lastModified: '2009-09-04T07:54:00.000Z'
 ---
-**Scripting** refers to making a **script** which alters the gameplay of Tribes 2 either on the serverside or clientside. Unlike [modding](/scripting/mod "Mod"), scripting usually refers to alteration outside of gameplay.
+**Scripting** refers to making a **script** which alters the gameplay of Tribes 2 either on the serverside or clientside. Unlike [modding](/mods/mod "Mod"), scripting usually refers to alteration outside of gameplay.
 
 ## Clientside Scripting
 

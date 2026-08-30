@@ -27,7 +27,7 @@ Keep in mind that the chaingun has a spin-up and spin-down sequence. While each 
 
 ### Chasing
 
-See main article: [flag chaser](/reference/flag-chaser "Flag chaser")
+See main article: [flag chaser](/tactics/flag-chaser "Flag chaser")
 
 Chaingun is also one of the primary weapons, along with the [grenade launcher](/weapons/grenade-launcher "Grenade launcher"), used by chasers. The rapid fire allows you to adjust your aim for every movement the [capper](/tactics/capper "Capper") makes while still sending bullets his way. It is an effective chasing weapon for all the same reasons that it is an effective dueling weapon. If your target gets too far away from you, you can continue chaingunning him, because every bullet that hits him will make him that much easier to kill if you or one of your teammates gets to him before he heals.
 

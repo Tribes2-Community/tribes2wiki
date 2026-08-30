@@ -12,7 +12,7 @@ source:
 This article is somewhat disorganized or not organized properly and requires some cleanup.
 :::
 
-**Base raping** is a term used for (excessively) destroying the enemy base. This serves several purposes and can greatly help an attack. Destroying [generators](/base-assets/generator "Generator") will disable all base assets connected to the generator (exception: Deployables have their own power source and will keep working). Destroying [inventory stations](/equipment/inventory-station "Inventory station") will restrict the enemy to their starting loadouts and also make it difficult to repair the base. Destroying turrets and sensors makes it easier for [cappers](/tactics/capper "Capper") to attack the base.
+**Base raping** is a term used for (excessively) destroying the enemy base. This serves several purposes and can greatly help an attack. Destroying [generators](/base-assets/generator "Generator") will disable all base assets connected to the generator (exception: Deployables have their own power source and will keep working). Destroying [inventory stations](/base-assets/inventory-station "Inventory station") will restrict the enemy to their starting loadouts and also make it difficult to repair the base. Destroying turrets and sensors makes it easier for [cappers](/tactics/capper "Capper") to attack the base.
 
 ## Juggernaut Armor
 

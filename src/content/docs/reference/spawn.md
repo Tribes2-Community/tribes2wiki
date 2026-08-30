@@ -12,4 +12,4 @@ stub: true
 This article is a stub and requires additional information.
 :::
 
-When you first enter a game and begin playing, you are considered to have **spawned**. When you come back to life again after you are killed, this is what is called a **respawn**. Most [game types](/scripting/game-type "Game type") allow you to respawn a few seconds after you are killed, but a few, such as Arena, require you to wait until the completion of a round before you can play again.
+When you first enter a game and begin playing, you are considered to have **spawned**. When you come back to life again after you are killed, this is what is called a **respawn**. Most [game types](/maps/game-type "Game type") allow you to respawn a few seconds after you are killed, but a few, such as Arena, require you to wait until the completion of a round before you can play again.

@@ -8,6 +8,7 @@ export const SECTIONS = [
   'equipment',
   'base-assets',
   'tactics',
+  'mods',
   'maps',
   'scripting',
   'reference',
@@ -48,6 +49,19 @@ const TITLE_SECTION: Record<string, Section> = {
   // spider clamp the deployable indoor one.
   'Landspike turret': 'equipment',
   'Spider clamp turret': 'equipment',
+  // A base asset, despite the deployable variant covered in the same article.
+  'Inventory station': 'base-assets',
+
+  // Reference had become a catch-all; these belong with their subject.
+  'Capture the Flag': 'maps',
+  'Game type': 'maps',
+  'Base': 'mods',
+  'Classic': 'mods',
+  Mod: 'mods',
+  'Flag chaser': 'tactics',
+  'Heavy defense': 'tactics',
+  'Hand grenade': 'weapons',
+  'Targeting laser': 'weapons',
 };
 
 export function sectionFor(title: string, categories: string[]): Section {

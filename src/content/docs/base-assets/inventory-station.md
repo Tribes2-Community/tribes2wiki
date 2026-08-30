@@ -25,6 +25,6 @@ The inventory system in Tribes 2 works in a different way from Tribes 1 and Trib
 
 A deployable station.
 
-A **deployable inventory station** is a deployable version of the inventory station. Unlike its bigger counterpart, it cannot switch armors or equip an armor with another deployable station. While its main use is for arming players at remote locations, it can also be used to obstruct doorways so enemy [heavy offense](/base-assets/heavy-offense "Heavy offense") and [cappers](/tactics/capper "Capper") can't zip through without using a quick destructive force such as a [mine-disc](/weapons/mine-disc "Mine-disc").
+A **deployable inventory station** is a deployable version of the inventory station. Unlike its bigger counterpart, it cannot switch armors or equip an armor with another deployable station. While its main use is for arming players at remote locations, it can also be used to obstruct doorways so enemy [heavy offense](/base-assets/heavy-offense "Heavy offense") and [cappers](/tactics/capper "Capper") can't zip through without using a quick destructive force such as a [mine-disc](/weapons/spinfusor "Mine-disc").
 
 The deployable station in Tribes 2 differs from those found in Tribes 1 in that they can be used indefinitely. However, a team may only have 5 of them deployed at once.

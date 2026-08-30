@@ -37,16 +37,16 @@ Keep in mind, TribesNext is still technically in beta. This means that it will b
 
 ### Choosing a server
 
-Tribes 2 is an incredibly mod-friendly game. There are many different varieties of [mods](/scripting/mod "Mod") and [game types](/scripting/game-type "Game type"), and when you look at the server list, you may not know which one to pick. This will be discussed later in more detail, but just know that if you join a server and aren't happy with the game, it's quite possibly that you joined a server running a strange mod or game type that does not truly reflect Tribes 2. It's entirely likely that you might hate one server but absolutely love another.
+Tribes 2 is an incredibly mod-friendly game. There are many different varieties of [mods](/mods/mod "Mod") and [game types](/maps/game-type "Game type"), and when you look at the server list, you may not know which one to pick. This will be discussed later in more detail, but just know that if you join a server and aren't happy with the game, it's quite possibly that you joined a server running a strange mod or game type that does not truly reflect Tribes 2. It's entirely likely that you might hate one server but absolutely love another.
 
 ## The basics
 
 Below is a list of some basics facts and tips that should be of great use to you if you've never played the game before. Really, you could learn almost all of this just by playing through the five short training missions that came with the game. However, if you're lazy and want to play online right away, here are some things you need to know:
 
 -   You have a jetpack at all times. Right-click to activate it and fly around.
--   If you hold spacebar, you can [ski](/tactics/ski "Ski") down hills and pick up speed. By carefully navigating the terrain and using your jetpack wisely, you can reach literally limitless speed.
+-   If you hold spacebar, you can [ski](/tactics/skiing "Ski") down hills and pick up speed. By carefully navigating the terrain and using your jetpack wisely, you can reach literally limitless speed.
 -   Press enter on the numpad to configure your loadouts with whatever equipment you want.
--   To buy your selected loadout, find an [inventory station](/equipment/inventory-station "Inventory station"). They are usually located somewhere in your base.
+-   To buy your selected loadout, find an [inventory station](/base-assets/inventory-station "Inventory station"). They are usually located somewhere in your base.
 -   All players and objectives are marked with colored indicators. Green means friendly; red means enemy.
 -   Most maps have generators that power base equipment. If they are destroyed, all base equipment will cease to function until the generators are repaired.
 -   Many maps also have vehicles. Vehicles can be acquired from a vehicle station, which are usually near the base.
@@ -54,9 +54,9 @@ Below is a list of some basics facts and tips that should be of great use to you
 
 ## Mods and game types
 
-The [game type](/scripting/game-type "Game type") currently active on a game server is what determines the objectives of the game. There are many of them to choose from, though some of them are harder to find than others.
+The [game type](/maps/game-type "Game type") currently active on a game server is what determines the objectives of the game. There are many of them to choose from, though some of them are harder to find than others.
 
--   **[Capture the Flag](/reference/capture-the-flag "Capture the Flag")**: A staple of any good FPS game, this is the most popular game type in Tribes 2. As you probably know, the goal is to take the enemy's flag and capture it by touching it to your own flag on the flag stand.
+-   **[Capture the Flag](/maps/capture-the-flag "Capture the Flag")**: A staple of any good FPS game, this is the most popular game type in Tribes 2. As you probably know, the goal is to take the enemy's flag and capture it by touching it to your own flag on the flag stand.
 -   **Deathmatch**: Another staple of any FPS game. All players try to kill each other in a big free-for-all. This is much less popular in Tribes 2 than it is in most other FPS games you may have played.
 -   **Arena**: Another game type you should be familiar with from games like Counter-Strike. This is probably the second most popular game type in Tribes 2. Two teams go up against each other and try to kill each other - the last team with players left alive gets the win for that round.
 -   **Duel Mod**: Again, this is a game type everyone should be familiar with. Two players fight each other one-on-one until one of them is killed.
@@ -68,10 +68,10 @@ The [game type](/scripting/game-type "Game type") currently active on a game ser
 There are many more, as well, but they are too numerous to list. Also, you will find it difficult to find some of them, because of the lower number of servers and players, but hopefully more people will start playing and rectify that problem.
 
   
-The [mod](/scripting/mod "Mod") that a game server is running determines the physics, weapons, items, vehicles, and things like that. The most popular mods don't change anything but the physics and other minor things, while keeping the weapons, items, vehicles, etc all the same. The mod that a server is using will be listed in the _RULES SET_ column of the server browser.
+The [mod](/mods/mod "Mod") that a game server is running determines the physics, weapons, items, vehicles, and things like that. The most popular mods don't change anything but the physics and other minor things, while keeping the weapons, items, vehicles, etc all the same. The mod that a server is using will be listed in the _RULES SET_ column of the server browser.
 
--   **[Base](/reference/base "Base")**: Base is the mod that Tribes 2 came with by default. It had much slower physics that Tribes 1, which made games last longer and made the offense have to work a lot harder to coordinate attacks on the enemy base. A majority of the community didn't like the reduced speed for games of CTF, so subsequent mods were made to change the physics to be faster. However, Base is still popular for game types like Arena and Duel Mod. All Base servers will be listed as **variant** in the server list.
--   **[Classic](/reference/classic "Classic")**: Classic became the most popular mod in Tribes 2 after it was made. Classic was designed to be just like Tribes 1 as far as physics and speed. It very quickly became the primary mod for CTF games. Most players seemed to find that the increased speed and rebalanced physics made the game much more intense and strategic. However, Classic did not catch on for most other mods than CTF, because it proved to be a bit unbalanced for player-vs-player combat.
+-   **[Base](/mods/base "Base")**: Base is the mod that Tribes 2 came with by default. It had much slower physics that Tribes 1, which made games last longer and made the offense have to work a lot harder to coordinate attacks on the enemy base. A majority of the community didn't like the reduced speed for games of CTF, so subsequent mods were made to change the physics to be faster. However, Base is still popular for game types like Arena and Duel Mod. All Base servers will be listed as **variant** in the server list.
+-   **[Classic](/mods/classic "Classic")**: Classic became the most popular mod in Tribes 2 after it was made. Classic was designed to be just like Tribes 1 as far as physics and speed. It very quickly became the primary mod for CTF games. Most players seemed to find that the increased speed and rebalanced physics made the game much more intense and strategic. However, Classic did not catch on for most other mods than CTF, because it proved to be a bit unbalanced for player-vs-player combat.
 -   **Other mods**: A few mods that make drastic changes to the game, way beyond simple physics, but still keep the general focus of the game the same are **War2k3**, **Meltdown2**, **Shifter** and **Renegades** along with many, _many_ others. Take note that if you join any server with one of those mods as the rules set, the weapons, armors and vehicles will all be very different from the ones that Tribes 2 was designed with.
 
   
@@ -87,14 +87,14 @@ The basic customizable equipment in Tribes 2 consists of an armor type, weapons,
 
 The armors determine how many weapons you can carry, how much damage you can take, and how fast you move. Some weapons and packs also require certain armors in order to be used.
 
--   **[Scout armor](/armors/scout-armor "Scout armor")**: Most players will refer to this as light armor. This is the most versatile armor because it has the best mobility. Speed has proven to be a much more important factor in Tribes than the ability to take damage, so this armor is almost always the best choice for many tasks. It can hold three weapons.
+-   **[Scout armor](/armors/light-armor "Scout armor")**: Most players will refer to this as light armor. This is the most versatile armor because it has the best mobility. Speed has proven to be a much more important factor in Tribes than the ability to take damage, so this armor is almost always the best choice for many tasks. It can hold three weapons.
 -   **[Assault armor](/armors/assault-armor "Assault armor")**: Most people will refer to this as medium armor. It is a sort of middle-ground armor, but most player rarely use it because they find it to be closer to "worst of both worlds" instead of "best of both worlds". It has its uses, but it's generally not as good as the other two for most tasks. It can hold four weapons.
 -   **[Juggernaut armor](/armors/juggernaut-armor "Juggernaut armor")**: Most people will refer to this as heavy armor. It moves very slowly but can take quite a bit of damage. With practice though, you can find ways to move very quickly so you won't need to rely on vehicles for transportation. For tasks that require you to take and deal lots of punishment, this is usually the best choice. It can hold five weapons.
 
 ### Weapons
 
 -   **Blaster**: The blaster is basically the 'pistol' of Tribes 2. Overall, most players consider it to be pretty useless, but it actually does have a few uses. Either way, in most cases, you are better off with a different weapon unless you know what you're doing. Only weapon in Tribes 2 that goes through shield pack.
--   **[Spinfusor](/weapons/spinfusor "Spinfusor")**: This is definitely the most popular Tribes 2 weapon. It's similar to a 'rocket launcher' in that it fires an explosive projectile in a straight line. You'll be hard pressed to find a player who doesn't use a spinfusor as much as possible, and for good reason. You can also [mine-disc](/weapons/mine-disc "Mine-disc") with it.
+-   **[Spinfusor](/weapons/spinfusor "Spinfusor")**: This is definitely the most popular Tribes 2 weapon. It's similar to a 'rocket launcher' in that it fires an explosive projectile in a straight line. You'll be hard pressed to find a player who doesn't use a spinfusor as much as possible, and for good reason. You can also [mine-disc](/weapons/spinfusor "Mine-disc") with it.
 -   **[Chaingun](/weapons/chaingun "Chaingun")**: The chaingun is another weapon that ranks up there with the spinfusor in terms of popularity, and for good reason as well. This is definitely the most important weapon to master in the game, as it can kill opponents faster than any other.
 -   **[Grenade launcher](/weapons/grenade-launcher "Grenade launcher")**: Another good weapon to master. In the right situation, the grenade launcher can kill people even more easily than the chaingun. This is one of the two weapons where the projectile is actually affected by gravity.
 -   **[Laser rifle](/weapons/laser-rifle "Laser rifle")**: The laser rifle is another staple weapon. It is Tribes 2's sniper rifle. It relies on your energy for power, and has infinite ammo otherwise. If you want to do some long-range sniping, bring a laser rifle. Only players in Scout armor can carry a laser rifle.
@@ -112,9 +112,9 @@ Packs give you some extra abilities. Some of them have passive abilities that ar
 -   **Repair pack**: The repair pack is mostly only used to repair destroyed [base assets](/base-assets/base-asset "Base asset"), but you can repair players (including yourself) with it if you really want to.
 -   **Shield pack**: The s-pack gives you shields when activated. The shields cause any damage dealt to you to be subtracted from your energy instead of your health. When you run out of energy, the shield pack will turn off. This is the second-most used pack, because it allows you to survive for very long periods of time against multiple opponents when mastered.
 -   **Ammo pack**: All this pack does is allow you to carry more ammo for all of your weapons. It is generally not very useful, because you can pick up ammo from the dead bodies of other players, and without the mobility of the e-pack or survivability of the s-pack, you probably won't live long enough to take advantage of your extra ammo anyway.
--   **Sensor jammer**: The sensor jammer prevents you from being detected by enemy sensors, which makes it so no red triangle appears above your head. When activated, the sensor jammer provides this cover to anyone within a certain radius of you. In [Classic](/reference/classic "Classic"), the jammer will provide this cover to only you when it's not active.
+-   **Sensor jammer**: The sensor jammer prevents you from being detected by enemy sensors, which makes it so no red triangle appears above your head. When activated, the sensor jammer provides this cover to anyone within a certain radius of you. In [Classic](/mods/classic "Classic"), the jammer will provide this cover to only you when it's not active.
 -   **[Cloak pack](/equipment/cloak-pack "Cloak pack")**: The cloak pack renders the wearer invisible when it is activated. However, it gives off a very recognizable sound, and enemy players can still track you by seeing your footprints on outdoor terrain.
--   **Deployable packs**: Additionally, there are several more packs that you can deploy on the map for various purposes. These include the [deployable station](/equipment/deployable-station "Deployable station"), [landspike turret](/equipment/landspike-turret "Landspike turret"), [spider clamp turret](/equipment/spider-clamp-turret "Spider clamp turret"), deployable pulse sensor, motion sensor, and turret barrels.
+-   **Deployable packs**: Additionally, there are several more packs that you can deploy on the map for various purposes. These include the [deployable station](/base-assets/inventory-station "Deployable station"), [landspike turret](/base-assets/base-turret "Landspike turret"), [spider clamp turret](/base-assets/base-turret "Spider clamp turret"), deployable pulse sensor, motion sensor, and turret barrels.
 
 ### Grenades
 

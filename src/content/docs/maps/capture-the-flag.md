@@ -13,7 +13,7 @@ stub: true
 This article is a stub and requires additional information.
 :::
 
-**Capture the Flag**, or **CTF**, is a very common [game type](/scripting/game-type "Game type") among all types of video games, and the concept is much the same in all of them. There are two teams, and each team has a flag. Most of the time, the flag is at your team's base where all of you will respawn. The goal is to take the enemy flag and bring it to your flag for a capture. You can only capture the flag if your flag is on your team's flag stand. Additionally, there are [base assets](/base-assets/base-asset "Base asset") like turrets and [generators](/base-assets/generator "Generator") that can be destroyed to make the job of capturing the flag easier.
+**Capture the Flag**, or **CTF**, is a very common [game type](/maps/game-type "Game type") among all types of video games, and the concept is much the same in all of them. There are two teams, and each team has a flag. Most of the time, the flag is at your team's base where all of you will respawn. The goal is to take the enemy flag and bring it to your flag for a capture. You can only capture the flag if your flag is on your team's flag stand. Additionally, there are [base assets](/base-assets/base-asset "Base asset") like turrets and [generators](/base-assets/generator "Generator") that can be destroyed to make the job of capturing the flag easier.
 
 ## Standoff
 

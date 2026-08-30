@@ -14,6 +14,6 @@ This article is a stub and requires additional information.
 
 _A screenshot of the inventory menu._
 
-The term **loadout**, or **inventory** if you will, is used to describe everything that a player has selected on the inventory menu. A loadout consists of armor type, 3-5 weapons, a pack, grenade type, and mines (some [mods](/scripting/mod "Mod") offer different types of mines, but usually there is only one).
+The term **loadout**, or **inventory** if you will, is used to describe everything that a player has selected on the inventory menu. A loadout consists of armor type, 3-5 weapons, a pack, grenade type, and mines (some [mods](/mods/mod "Mod") offer different types of mines, but usually there is only one).
 
 To bring up the inventory menu, press your _Inventory_ key (**Numpad-Enter** by default).

@@ -32,7 +32,38 @@ const MERGED_INTO: Record<string, string> = {
   Mortar: 'Fusion mortar',
   // `Ski` and `Skiing` were byte-identical, same last-modified date.
   Ski: 'Skiing',
+  // The turret article covers base and deployable turrets alike; these two were
+  // redirects into its subsections.
+  'Landspike turret': 'Base turret',
+  'Spider clamp turret': 'Base turret',
+  'Scout armor': 'Light armor',
+  Juggernaut: 'Juggernaut armor',
+  'Deployable station': 'Inventory station',
+  Waypoint: 'Command circuit',
+  'Targeting Laser': 'Targeting laser',
+  Script: 'Scripting',
+  // Mine-disc is a section of the spinfusor article.
+  'Mine-disc': 'Spinfusor',
+  'Tribes2Wiki:Community Portal': 'Tribes2Wiki:Community portal',
+  'Tribes2Wiki:News/Tribes 2 IRC Issues': 'Tribes2Wiki:News',
+  'Tribes2Wiki talk:News/Tribes 2 IRC Issues': 'Tribes2Wiki:News',
 };
+
+/**
+ * Archive pages dropped outright: MediaWiki scaffolding the new site replaces.
+ * The category listings are what the sidebar now does, and they linked to pages
+ * that no longer exist; Help:Contents was a hand-maintained table of contents.
+ */
+const DROPPED = new Set([
+  'Category:Armors',
+  'Category:Base assets',
+  'Category:Maps',
+  'Category:Movies',
+  'Category:Scripting',
+  'Category:Tactics',
+  'Category:Weapons',
+  'Help:Contents',
+]);
 
 /**
  * Archive pages replaced by hand-written articles since the import. The
@@ -349,7 +380,7 @@ async function main(): Promise<void> {
   const slugCollisions: { slug: string; titles: string[] }[] = [];
 
   for (const info of pages) {
-    if (MERGED_INTO[info.title] || REPLACED_BY_HAND[info.title]) continue;
+    if (MERGED_INTO[info.title] || REPLACED_BY_HAND[info.title] || DROPPED.has(info.title)) continue;
     // The wiki's Main Page becomes the site root, so it lives at the content root
     // rather than inside a section directory -- otherwise it builds to /start and
     // nothing serves `/`.
@@ -419,7 +450,7 @@ async function main(): Promise<void> {
   const written: { title: string; section: string; file: string }[] = [];
 
   for (const info of pages) {
-    if (MERGED_INTO[info.title] || REPLACED_BY_HAND[info.title]) continue;
+    if (MERGED_INTO[info.title] || REPLACED_BY_HAND[info.title] || DROPPED.has(info.title)) continue;
     const result = convertPage(info, placements.get(info.title)!, knownRoutes, redlinkTargets);
     if (PRESERVE_EDITED.has(info.title)) {
       // Keep the file as it stands, but still record it so routes and the

@@ -30,7 +30,7 @@ One thing that is not defined inside the MIS file is the actual design of the te
 
 ### SPN file
 
-Another file required for almost all maps to work as intended is a SPN file such as `Katabatic.spn`. This file is required in order for players to spawn in the correct locations. Without a proper SPN file, players will spawn 100 meters in the sky in the center of the map's terrain instead of in a reasonable location. Sometimes the map can be used with a [game type](/scripting/game-type "Game type") or [mod](/scripting/mod "Mod") that removes the need for a SPN file, but this is very rare. All maps need to have their own SPN file, and the file name must be the same as the name of the MIS file, except with a different file extension. In order to generate a SPN file, you need to have all spawnspheres placed on the map (designated inside the MIS file) in their desired locations, and then run a special Tribes2.exe command line with the mission file. The syntax for this is `Tribes2.exe -spnBuild _MissionName GameType_`, where _MissionName_ and _GameType_ are the 'abbreviated' versions. Example: `Tribes2.exe -spnBuild BeggarsRun CTF`
+Another file required for almost all maps to work as intended is a SPN file such as `Katabatic.spn`. This file is required in order for players to spawn in the correct locations. Without a proper SPN file, players will spawn 100 meters in the sky in the center of the map's terrain instead of in a reasonable location. Sometimes the map can be used with a [game type](/maps/game-type "Game type") or [mod](/mods/mod "Mod") that removes the need for a SPN file, but this is very rare. All maps need to have their own SPN file, and the file name must be the same as the name of the MIS file, except with a different file extension. In order to generate a SPN file, you need to have all spawnspheres placed on the map (designated inside the MIS file) in their desired locations, and then run a special Tribes2.exe command line with the mission file. The syntax for this is `Tribes2.exe -spnBuild _MissionName GameType_`, where _MissionName_ and _GameType_ are the 'abbreviated' versions. Example: `Tribes2.exe -spnBuild BeggarsRun CTF`
 
 ### NAV file
 
@@ -38,4 +38,4 @@ The last kind of file that can be used in a map is a NAV file. These files are n
 
 ## List of Maps
 
-If you'd like to see a list of maps, please see [Category:Maps](/maps/category-maps "Category:Maps").
+If you'd like to see a list of maps, please see Category:Maps.

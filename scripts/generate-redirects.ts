@@ -51,6 +51,19 @@ const MERGED_PAGES: Record<string, string> = {
   Ski: '/tactics/skiing',
   // `Pulse sensor` was split: the base-asset half kept the original title.
   'Pulse sensor': '/base-assets/pulse-sensor',
+  // Duplicates the import created by resolving MediaWiki redirects into copies.
+  'Landspike turret': '/base-assets/base-turret',
+  'Spider clamp turret': '/base-assets/base-turret',
+  'Scout armor': '/armors/light-armor',
+  Juggernaut: '/armors/juggernaut-armor',
+  'Deployable station': '/base-assets/inventory-station',
+  Waypoint: '/reference/command-circuit',
+  'Targeting Laser': '/weapons/targeting-laser',
+  Script: '/scripting/scripting',
+  'Mine-disc': '/weapons/spinfusor',
+  'Tribes2Wiki:Community Portal': '/project/community-portal',
+  'Tribes2Wiki:News/Tribes 2 IRC Issues': '/project/news',
+  'Tribes2Wiki talk:News/Tribes 2 IRC Issues': '/project/news',
 };
 
 /**
@@ -69,6 +82,15 @@ for (const page of REPORT.pages as ReportPage[]) {
   const target = MERGED_PAGES[page.title] ?? routeFor(page);
   const oldPath = `/wiki/${toUrlTitle(page.title)}`;
 
+  all[oldPath] = target;
+  if (!oldPath.includes(':')) staticRedirects[oldPath] = target;
+}
+
+// Merged pages are no longer emitted by the converter, so they never reach the
+// report -- but their old URLs are exactly the ones most likely to be linked
+// from elsewhere, so they are emitted from the merge map directly.
+for (const [title, target] of Object.entries(MERGED_PAGES)) {
+  const oldPath = `/wiki/${toUrlTitle(title)}`;
   all[oldPath] = target;
   if (!oldPath.includes(':')) staticRedirects[oldPath] = target;
 }

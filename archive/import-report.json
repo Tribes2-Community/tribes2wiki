@@ -1,22 +1,7 @@
 {
-  "generatedAt": "2026-08-30T07:04:44.089Z",
-  "convertedPages": 73,
-  "slugCollisions": [
-    {
-      "slug": "reference/targeting-laser",
-      "titles": [
-        "Targeting laser",
-        "Targeting Laser"
-      ]
-    },
-    {
-      "slug": "project/community-portal",
-      "titles": [
-        "Tribes2Wiki:Community portal",
-        "Tribes2Wiki:Community Portal"
-      ]
-    }
-  ],
+  "generatedAt": "2026-08-30T08:25:08.051Z",
+  "convertedPages": 52,
+  "slugCollisions": [],
   "redlinks": [
     "Assault Armor",
     "BONES",
@@ -62,50 +47,22 @@
   "missingPages": [
     {
       "title": "Missile launcher",
-      "linkCount": 11
+      "linkCount": 7
     },
     {
       "title": "Plasma rifle",
-      "linkCount": 9
+      "linkCount": 7
     },
     {
       "title": "Arena",
-      "linkCount": 7
-    },
-    {
-      "title": "Farmer",
-      "linkCount": 7
-    },
-    {
-      "title": "ELF projector",
-      "linkCount": 5
-    },
-    {
-      "title": "Heavy armor",
-      "linkCount": 5
-    },
-    {
-      "title": "Motion sensor",
-      "linkCount": 5
-    },
-    {
-      "title": "Tribes 1",
-      "linkCount": 5
-    },
-    {
-      "title": "Beacon",
-      "linkCount": 4
+      "linkCount": 6
     },
     {
       "title": "Category:The List",
       "linkCount": 4
     },
     {
-      "title": "Inventory",
-      "linkCount": 4
-    },
-    {
-      "title": "Pub",
+      "title": "Heavy armor",
       "linkCount": 4
     },
     {
@@ -113,27 +70,19 @@
       "linkCount": 4
     },
     {
-      "title": "Bomber",
+      "title": "Beacon",
       "linkCount": 3
     },
     {
-      "title": "Flare",
+      "title": "Farmer",
       "linkCount": 3
     },
     {
-      "title": "Light offense",
+      "title": "Motion sensor",
       "linkCount": 3
     },
     {
-      "title": "Light on flag",
-      "linkCount": 3
-    },
-    {
-      "title": "Medium armor",
-      "linkCount": 3
-    },
-    {
-      "title": "Sensor jammer pack",
+      "title": "Pub",
       "linkCount": 3
     },
     {
@@ -145,15 +94,7 @@
       "linkCount": 3
     },
     {
-      "title": "Starsiege: Tribes",
-      "linkCount": 3
-    },
-    {
-      "title": "Tank",
-      "linkCount": 3
-    },
-    {
-      "title": "Version2",
+      "title": "Tribes 1",
       "linkCount": 3
     },
     {
@@ -173,15 +114,7 @@
       "linkCount": 2
     },
     {
-      "title": "Blaster",
-      "linkCount": 2
-    },
-    {
       "title": "Cappers",
-      "linkCount": 2
-    },
-    {
-      "title": "Cheat",
       "linkCount": 2
     },
     {
@@ -189,11 +122,11 @@
       "linkCount": 2
     },
     {
-      "title": "Deployable turret",
+      "title": "Duel",
       "linkCount": 2
     },
     {
-      "title": "Duel",
+      "title": "ELF projector",
       "linkCount": 2
     },
     {
@@ -201,7 +134,7 @@
       "linkCount": 2
     },
     {
-      "title": "Inventories",
+      "title": "Inventory",
       "linkCount": 2
     },
     {
@@ -209,7 +142,15 @@
       "linkCount": 2
     },
     {
-      "title": "Light defense",
+      "title": "Light offense",
+      "linkCount": 2
+    },
+    {
+      "title": "Light on flag",
+      "linkCount": 2
+    },
+    {
+      "title": "Medium armor",
       "linkCount": 2
     },
     {
@@ -217,35 +158,19 @@
       "linkCount": 2
     },
     {
-      "title": "Missile",
-      "linkCount": 2
-    },
-    {
-      "title": "Scripts.vl2",
-      "linkCount": 2
-    },
-    {
-      "title": "Sensor",
-      "linkCount": 2
-    },
-    {
-      "title": "Tribe and warrior browser",
-      "linkCount": 2
-    },
-    {
-      "title": "Tribes: Vengeance",
-      "linkCount": 2
-    },
-    {
-      "title": "Turret",
-      "linkCount": 2
-    },
-    {
-      "title": "Vehicle station",
+      "title": "Sensor jammer pack",
       "linkCount": 2
     },
     {
       "title": "AA turret",
+      "linkCount": 1
+    },
+    {
+      "title": "Blaster",
+      "linkCount": 1
+    },
+    {
+      "title": "Bomber",
       "linkCount": 1
     },
     {
@@ -261,7 +186,7 @@
       "linkCount": 1
     },
     {
-      "title": "Category:Hand grenades",
+      "title": "Category:Maps",
       "linkCount": 1
     },
     {
@@ -269,15 +194,7 @@
       "linkCount": 1
     },
     {
-      "title": "Category:Powered equipment",
-      "linkCount": 1
-    },
-    {
-      "title": "Chaingun (player)",
-      "linkCount": 1
-    },
-    {
-      "title": "Chainwhore",
+      "title": "Cheat",
       "linkCount": 1
     },
     {
@@ -293,11 +210,19 @@
       "linkCount": 1
     },
     {
+      "title": "Deployable turret",
+      "linkCount": 1
+    },
+    {
       "title": "Discjumping",
       "linkCount": 1
     },
     {
       "title": "Duel Mod",
+      "linkCount": 1
+    },
+    {
+      "title": "Flare",
       "linkCount": 1
     },
     {
@@ -317,10 +242,6 @@
       "linkCount": 1
     },
     {
-      "title": "Help:Map Editor",
-      "linkCount": 1
-    },
-    {
       "title": "Hunters",
       "linkCount": 1
     },
@@ -329,7 +250,15 @@
       "linkCount": 1
     },
     {
-      "title": "Juggernaut tactics",
+      "title": "Inventories",
+      "linkCount": 1
+    },
+    {
+      "title": "Light defense",
+      "linkCount": 1
+    },
+    {
+      "title": "Missile",
       "linkCount": 1
     },
     {
@@ -357,7 +286,11 @@
       "linkCount": 1
     },
     {
-      "title": "Satchel charge",
+      "title": "Scripts.vl2",
+      "linkCount": 1
+    },
+    {
+      "title": "Sensor",
       "linkCount": 1
     },
     {
@@ -369,7 +302,19 @@
       "linkCount": 1
     },
     {
+      "title": "Starsiege: Tribes",
+      "linkCount": 1
+    },
+    {
+      "title": "Tank",
+      "linkCount": 1
+    },
+    {
       "title": "Team Hunters",
+      "linkCount": 1
+    },
+    {
+      "title": "Tribes: Vengeance",
       "linkCount": 1
     },
     {
@@ -397,11 +342,11 @@
       "linkCount": 1
     },
     {
-      "title": "Turret barrel",
+      "title": "Turret",
       "linkCount": 1
     },
     {
-      "title": "Turtle",
+      "title": "Turret barrel",
       "linkCount": 1
     },
     {
@@ -417,7 +362,11 @@
       "linkCount": 1
     },
     {
-      "title": "VL2 file",
+      "title": "Vehicle station",
+      "linkCount": 1
+    },
+    {
+      "title": "Version2",
       "linkCount": 1
     },
     {
@@ -428,11 +377,7 @@
   "referencedImages": [
     {
       "file": "Ambox_letter.png",
-      "useCount": 18
-    },
-    {
-      "file": "AA_turret.jpg",
-      "useCount": 3
+      "useCount": 16
     },
     {
       "file": "Ambox_notice.png",
@@ -440,51 +385,11 @@
     },
     {
       "file": "Ambox_style.png",
-      "useCount": 3
-    },
-    {
-      "file": "ELF_turret.jpg",
-      "useCount": 3
-    },
-    {
-      "file": "Landspike_turret.jpg",
-      "useCount": 3
-    },
-    {
-      "file": "Missile_turret.jpg",
-      "useCount": 3
-    },
-    {
-      "file": "Mortar_turret.jpg",
-      "useCount": 3
-    },
-    {
-      "file": "Plasma_turret.jpg",
-      "useCount": 3
-    },
-    {
-      "file": "Sentry_turret.jpg",
-      "useCount": 3
-    },
-    {
-      "file": "Spider_clamp_turret.jpg",
-      "useCount": 3
-    },
-    {
-      "file": "Command_circuit.jpg",
       "useCount": 2
     },
     {
-      "file": "Deployable_station.jpg",
-      "useCount": 2
-    },
-    {
-      "file": "Inventory_station.jpg",
-      "useCount": 2
-    },
-    {
-      "file": "TWB_Spinfusor.jpg",
-      "useCount": 2
+      "file": "AA_turret.jpg",
+      "useCount": 1
     },
     {
       "file": "Bowl.jpg",
@@ -492,6 +397,18 @@
     },
     {
       "file": "Cloak_pack.jpg",
+      "useCount": 1
+    },
+    {
+      "file": "Command_circuit.jpg",
+      "useCount": 1
+    },
+    {
+      "file": "Deployable_station.jpg",
+      "useCount": 1
+    },
+    {
+      "file": "ELF_turret.jpg",
       "useCount": 1
     },
     {
@@ -507,6 +424,14 @@
       "useCount": 1
     },
     {
+      "file": "Inventory_station.jpg",
+      "useCount": 1
+    },
+    {
+      "file": "Landspike_turret.jpg",
+      "useCount": 1
+    },
+    {
       "file": "List_game_types.jpg",
       "useCount": 1
     },
@@ -519,7 +444,27 @@
       "useCount": 1
     },
     {
+      "file": "Missile_turret.jpg",
+      "useCount": 1
+    },
+    {
+      "file": "Mortar_turret.jpg",
+      "useCount": 1
+    },
+    {
+      "file": "Plasma_turret.jpg",
+      "useCount": 1
+    },
+    {
+      "file": "Sentry_turret.jpg",
+      "useCount": 1
+    },
+    {
       "file": "SmallAlarmClock.png",
+      "useCount": 1
+    },
+    {
+      "file": "Spider_clamp_turret.jpg",
       "useCount": 1
     },
     {
@@ -541,47 +486,31 @@
     {
       "file": "TWB_Shocklance.jpg",
       "useCount": 1
+    },
+    {
+      "file": "TWB_Spinfusor.jpg",
+      "useCount": 1
     }
   ],
   "missingImages": [
-    {
-      "file": "AA_turret.jpg",
-      "useCount": 3
-    },
     {
       "file": "Ambox_notice.png",
       "useCount": 3
     },
     {
       "file": "Ambox_style.png",
-      "useCount": 3
-    },
-    {
-      "file": "ELF_turret.jpg",
-      "useCount": 3
-    },
-    {
-      "file": "Missile_turret.jpg",
-      "useCount": 3
-    },
-    {
-      "file": "Mortar_turret.jpg",
-      "useCount": 3
-    },
-    {
-      "file": "Plasma_turret.jpg",
-      "useCount": 3
-    },
-    {
-      "file": "Sentry_turret.jpg",
-      "useCount": 3
-    },
-    {
-      "file": "Inventory_station.jpg",
       "useCount": 2
     },
     {
+      "file": "AA_turret.jpg",
+      "useCount": 1
+    },
+    {
       "file": "Bowl.jpg",
+      "useCount": 1
+    },
+    {
+      "file": "ELF_turret.jpg",
       "useCount": 1
     },
     {
@@ -590,6 +519,10 @@
     },
     {
       "file": "Inventory_screen.jpg",
+      "useCount": 1
+    },
+    {
+      "file": "Inventory_station.jpg",
       "useCount": 1
     },
     {
@@ -605,6 +538,22 @@
       "useCount": 1
     },
     {
+      "file": "Missile_turret.jpg",
+      "useCount": 1
+    },
+    {
+      "file": "Mortar_turret.jpg",
+      "useCount": 1
+    },
+    {
+      "file": "Plasma_turret.jpg",
+      "useCount": 1
+    },
+    {
+      "file": "Sentry_turret.jpg",
+      "useCount": 1
+    },
+    {
       "file": "SmallAlarmClock.png",
       "useCount": 1
     }
@@ -617,8 +566,8 @@
     },
     {
       "title": "Base",
-      "section": "reference",
-      "file": "src/content/docs/reference/base.md"
+      "section": "mods",
+      "file": "src/content/docs/mods/base.md"
     },
     {
       "title": "Base asset",
@@ -647,43 +596,8 @@
     },
     {
       "title": "Capture the Flag",
-      "section": "reference",
-      "file": "src/content/docs/reference/capture-the-flag.md"
-    },
-    {
-      "title": "Category:Armors",
-      "section": "armors",
-      "file": "src/content/docs/armors/category-armors.md"
-    },
-    {
-      "title": "Category:Base assets",
-      "section": "base-assets",
-      "file": "src/content/docs/base-assets/category-base-assets.md"
-    },
-    {
-      "title": "Category:Maps",
       "section": "maps",
-      "file": "src/content/docs/maps/category-maps.md"
-    },
-    {
-      "title": "Category:Movies",
-      "section": "reference",
-      "file": "src/content/docs/reference/category-movies.md"
-    },
-    {
-      "title": "Category:Scripting",
-      "section": "scripting",
-      "file": "src/content/docs/scripting/category-scripting.md"
-    },
-    {
-      "title": "Category:Tactics",
-      "section": "tactics",
-      "file": "src/content/docs/tactics/category-tactics.md"
-    },
-    {
-      "title": "Category:Weapons",
-      "section": "weapons",
-      "file": "src/content/docs/weapons/category-weapons.md"
+      "file": "src/content/docs/maps/capture-the-flag.md"
     },
     {
       "title": "Chaingun",
@@ -692,8 +606,8 @@
     },
     {
       "title": "Classic",
-      "section": "reference",
-      "file": "src/content/docs/reference/classic.md"
+      "section": "mods",
+      "file": "src/content/docs/mods/classic.md"
     },
     {
       "title": "Cloak pack",
@@ -711,11 +625,6 @@
       "file": "src/content/docs/reference/defaultgamecs.md"
     },
     {
-      "title": "Deployable station",
-      "section": "equipment",
-      "file": "src/content/docs/equipment/deployable-station.md"
-    },
-    {
       "title": "Energy pack",
       "section": "equipment",
       "file": "src/content/docs/equipment/energy-pack.md"
@@ -727,8 +636,8 @@
     },
     {
       "title": "Flag chaser",
-      "section": "reference",
-      "file": "src/content/docs/reference/flag-chaser.md"
+      "section": "tactics",
+      "file": "src/content/docs/tactics/flag-chaser.md"
     },
     {
       "title": "Fusion mortar",
@@ -737,8 +646,8 @@
     },
     {
       "title": "Game type",
-      "section": "scripting",
-      "file": "src/content/docs/scripting/game-type.md"
+      "section": "maps",
+      "file": "src/content/docs/maps/game-type.md"
     },
     {
       "title": "Generator",
@@ -752,23 +661,18 @@
     },
     {
       "title": "Hand grenade",
-      "section": "reference",
-      "file": "src/content/docs/reference/hand-grenade.md"
+      "section": "weapons",
+      "file": "src/content/docs/weapons/hand-grenade.md"
     },
     {
       "title": "Heavy defense",
-      "section": "reference",
-      "file": "src/content/docs/reference/heavy-defense.md"
+      "section": "tactics",
+      "file": "src/content/docs/tactics/heavy-defense.md"
     },
     {
       "title": "Heavy offense",
       "section": "base-assets",
       "file": "src/content/docs/base-assets/heavy-offense.md"
-    },
-    {
-      "title": "Help:Contents",
-      "section": "reference",
-      "file": "src/content/docs/reference/contents.md"
     },
     {
       "title": "Help:Editing",
@@ -782,13 +686,8 @@
     },
     {
       "title": "Inventory station",
-      "section": "equipment",
-      "file": "src/content/docs/equipment/inventory-station.md"
-    },
-    {
-      "title": "Juggernaut",
-      "section": "armors",
-      "file": "src/content/docs/armors/juggernaut.md"
+      "section": "base-assets",
+      "file": "src/content/docs/base-assets/inventory-station.md"
     },
     {
       "title": "Juggernaut armor",
@@ -804,11 +703,6 @@
       "title": "LakRabbit",
       "section": "reference",
       "file": "src/content/docs/reference/lakrabbit.md"
-    },
-    {
-      "title": "Landspike turret",
-      "section": "equipment",
-      "file": "src/content/docs/equipment/landspike-turret.md"
     },
     {
       "title": "Laser rifle",
@@ -836,24 +730,9 @@
       "file": "src/content/docs/scripting/map.md"
     },
     {
-      "title": "Mine-disc",
-      "section": "weapons",
-      "file": "src/content/docs/weapons/mine-disc.md"
-    },
-    {
       "title": "Mod",
-      "section": "scripting",
-      "file": "src/content/docs/scripting/mod.md"
-    },
-    {
-      "title": "Scout armor",
-      "section": "armors",
-      "file": "src/content/docs/armors/scout-armor.md"
-    },
-    {
-      "title": "Script",
-      "section": "scripting",
-      "file": "src/content/docs/scripting/script.md"
+      "section": "mods",
+      "file": "src/content/docs/mods/mod.md"
     },
     {
       "title": "Scripting",
@@ -869,11 +748,6 @@
       "title": "Shocklance",
       "section": "weapons",
       "file": "src/content/docs/weapons/shocklance.md"
-    },
-    {
-      "title": "Ski",
-      "section": "tactics",
-      "file": "src/content/docs/tactics/ski.md"
     },
     {
       "title": "Skiing",
@@ -896,24 +770,14 @@
       "file": "src/content/docs/reference/spawn.md"
     },
     {
-      "title": "Spider clamp turret",
-      "section": "equipment",
-      "file": "src/content/docs/equipment/spider-clamp-turret.md"
-    },
-    {
       "title": "Spinfusor",
       "section": "weapons",
       "file": "src/content/docs/weapons/spinfusor.md"
     },
     {
       "title": "Targeting laser",
-      "section": "reference",
-      "file": "src/content/docs/reference/targeting-laser.md"
-    },
-    {
-      "title": "Targeting Laser",
-      "section": "reference",
-      "file": "src/content/docs/reference/targeting-laser-2.md"
+      "section": "weapons",
+      "file": "src/content/docs/weapons/targeting-laser.md"
     },
     {
       "title": "TribalWar",
@@ -926,11 +790,6 @@
       "file": "src/content/docs/start/tribes-2.md"
     },
     {
-      "title": "Tribes2Wiki talk:News/Tribes 2 IRC Issues",
-      "section": "project",
-      "file": "src/content/docs/project/talk-news-tribes-2-irc-issues.md"
-    },
-    {
       "title": "Tribes2Wiki:About",
       "section": "project",
       "file": "src/content/docs/project/about.md"
@@ -939,11 +798,6 @@
       "title": "Tribes2Wiki:Community portal",
       "section": "project",
       "file": "src/content/docs/project/community-portal.md"
-    },
-    {
-      "title": "Tribes2Wiki:Community Portal",
-      "section": "project",
-      "file": "src/content/docs/project/community-portal-2.md"
     },
     {
       "title": "Tribes2Wiki:General disclaimer",
@@ -956,11 +810,6 @@
       "file": "src/content/docs/project/news.md"
     },
     {
-      "title": "Tribes2Wiki:News/Tribes 2 IRC Issues",
-      "section": "project",
-      "file": "src/content/docs/project/news-tribes-2-irc-issues.md"
-    },
-    {
       "title": "Tribes2Wiki:Privacy policy",
       "section": "project",
       "file": "src/content/docs/project/privacy-policy.md"
@@ -969,11 +818,6 @@
       "title": "Vehicle pad",
       "section": "equipment",
       "file": "src/content/docs/equipment/vehicle-pad.md"
-    },
-    {
-      "title": "Waypoint",
-      "section": "reference",
-      "file": "src/content/docs/reference/waypoint.md"
     }
   ]
 }
