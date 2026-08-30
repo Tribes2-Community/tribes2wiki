@@ -40,11 +40,21 @@ function routeFor(page: ReportPage): string {
 /** The wiki wrote spaces as underscores in URLs. */
 const toUrlTitle = (title: string) => title.replace(/ /g, '_');
 
+/**
+ * Pages removed after import because they duplicated another article. The
+ * archive recorded them as separate pages -- the original wiki had both
+ * `Mortar` and `Fusion mortar` carrying identical text -- so their old URLs are
+ * pointed at the surviving article rather than at a route that no longer exists.
+ */
+const MERGED_PAGES: Record<string, string> = {
+  Mortar: '/weapons/fusion-mortar',
+};
+
 const all: Record<string, string> = {};
 const staticRedirects: Record<string, string> = {};
 
 for (const page of REPORT.pages as ReportPage[]) {
-  const target = routeFor(page);
+  const target = MERGED_PAGES[page.title] ?? routeFor(page);
   const oldPath = `/wiki/${toUrlTitle(page.title)}`;
 
   all[oldPath] = target;

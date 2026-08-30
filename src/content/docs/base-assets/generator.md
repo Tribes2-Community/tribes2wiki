@@ -14,7 +14,7 @@ A **generator** is a [base asset](/base-assets/base-asset "Base asset") that pow
 
 ## Destroying a Generator
 
-The best way to destroy a generator in real mods is by using a [mortar](/weapons/mortar "Mortar"). In [base](/reference/base "Base") mod, one shot will disable it. In [classic](/reference/classic "Classic") mod, throwing a [hand grenade](/reference/hand-grenade "Hand grenade") and mine together while hitting the generator with mortar will disable it.
+The best way to destroy a generator in real mods is by using a [mortar](/weapons/fusion-mortar "Fusion mortar"). In [base](/reference/base "Base") mod, one shot will disable it. In [classic](/reference/classic "Classic") mod, throwing a [hand grenade](/reference/hand-grenade "Hand grenade") and mine together while hitting the generator with mortar will disable it.
 
 If you don't have heavy armor, the best way to take out a generator is by using a plasma rifle. Combine hand grenades as you see fit.
 
