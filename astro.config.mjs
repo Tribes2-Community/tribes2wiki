@@ -17,7 +17,7 @@ export default defineConfig({
   redirects: redirectMap.static,
   integrations: [
     starlight({
-      title: 'Tribes2Wiki',
+      title: 'Tribes 2 Community Wiki',
       description:
         'The Community Tribes 2 Wiki — a community-maintained rebuild of tribes2wiki.com, ' +
         'recovered from the Internet Archive.',

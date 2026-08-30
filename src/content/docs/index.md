@@ -1,13 +1,13 @@
 ---
 title: 'Main Page'
-description: 'Welcome to the Unofficial Tribes 2 Wiki. Here you''ll find all the information you could ever want about Tribes 2. Feel free to create pages for absolutely an...'
+description: 'Welcome to the Community Tribes 2 Wiki. Here you''ll find all the information you could ever want about Tribes 2. Feel free to create pages for absolutely an...'
 categories: []
 source:
   url: 'http://www.tribes2wiki.com/wiki/Main_Page'
   archived: 'https://web.archive.org/web/20111206203935id_/http://www.tribes2wiki.com:80/wiki/Main_Page'
   lastModified: '2011-10-10T16:35:00.000Z'
 ---
-**Welcome to the Unofficial Tribes 2 Wiki**. Here you'll find all the information you could ever want about [Tribes 2](/start/tribes-2 "Tribes 2"). Feel free to create pages for absolutely anything related to the game. That includes (but is not limited to) [scripts](/scripting/script "Script"), [maps](/scripting/map "Map"), [servers](/reference/server "Server"), strategies, teams and even individual players if you think there are important things to say about them.
+**Welcome to the Community Tribes 2 Wiki**. Here you'll find all the information you could ever want about [Tribes 2](/start/tribes-2 "Tribes 2"). Feel free to create pages for absolutely anything related to the game. That includes (but is not limited to) [scripts](/scripting/script "Script"), [maps](/scripting/map "Map"), [servers](/reference/server "Server"), strategies, teams and even individual players if you think there are important things to say about them.
 
 **If you aren't familiar with Tribes 2, or you are interested in playing the game**, check out the [Introduction to Tribes 2](/start/introduction-to-tribes-2 "Introduction to Tribes 2") page. There, you will find instructions on how to download the game and play online. Non-Tribes players should also check out that page for some basic information about the game, and players interested in playing the game for the first time will find many useful tips to help them get started on learning the best first person shooter ever created.
 
