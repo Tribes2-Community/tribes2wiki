@@ -7,7 +7,8 @@ sidebar:
 ---
 
 **Ski Club** runs **5v5 LCTF pick-up games**, organised through the
-[| The Cut |](/community/the-cut) Discord rather than on a server you drop into.
+[| The Cut |](/community/the-cut) [Discord](https://discord.gg/yz3AhkJCxg) rather than on a
+server you drop into.
 
 It is run by **slush**, also known as **s5h** and **FONDU**.
 
@@ -57,5 +58,6 @@ From there:
 
 Once you have played, you get a rating page of your own, tracking your μ and σ across games.
 
-The 5v5 games themselves are organised in the [| The Cut |](/community/the-cut) Discord, so
-that is where to watch for a sign-up going up.
+The 5v5 games themselves are organised in the [| The Cut |](/community/the-cut) Discord —
+[join it here](https://discord.gg/yz3AhkJCxg) — so that is where to watch for a sign-up
+going up.
