@@ -21,6 +21,71 @@ We are currently maintaining **126** articles.
 
 ## Latest News
 
+### TribesNEXT Quality-of-Life Patch — August 3, 2025
+
+Krash has opened testing on a preview patch for [TribesNEXT](/project/community-resources),
+a package of quality-of-life fixes aimed at stability, performance and getting the game
+working properly on modern hardware. It is compatible with RC2, and the installer is
+[available from TribesNEXT](https://www.tribesnext.com/forum/discussion/4430/preview-qol-fixes-update).
+
+The preview raises the system requirements: it needs a CPU with SSE4/AVX support (roughly
+2012 onward), a GPU supporting OpenGL 3.2 or later (roughly 2009 onward), and Windows
+Vista or newer. Builds without the AVX requirement may follow, but the other two are hard
+cutoffs. Feedback and bug reports go in the forum thread.
+
+#### Engine and timing
+
+The game loop and time management have been rewritten to always use high-resolution
+timing, giving much steadier frame pacing. Servers no longer lose timing accuracy the
+longer they stay up, though a hard limit remains at around 49 days before the timer
+overflows. The memory manager has been replaced. MemPatch is disabled by default, since
+older patches may conflict with this one; the `-developer` flag re-enables it.
+
+#### Accounts
+
+`Tribes2.exe` is no longer modified by the installer and Ruby is no longer bundled —
+account handling is now a native implementation. Patched clients use a faster native
+authentication handshake, and servers can require it. Script-based handshakes still work
+for connecting to unpatched servers.
+
+#### Rendering
+
+Perspective projection has been corrected for widescreen and ultrawide displays, and a FOV
+slider, multisample anti-aliasing, render scaling and texture filtering modes have been
+added. Textures are no longer capped at 512×512, mipmapping moved to the GPU, and dynamic
+shadow resolution is doubled. A reverse-Z floating point depth buffer greatly reduces
+z-fighting on thin or distant geometry. Terrain texture blending now runs on the GPU at
+roughly double the previous resolution, and baked terrain shadows use bicubic filtering
+with subtle ambient occlusion. Frame rates up to 1000 are possible, and long-standing
+problems with recent AMD drivers are resolved.
+
+#### Networking
+
+The low-level networking has been substantially rewritten while keeping the game protocol
+compatible with existing servers and demos. Servers now send updates to every client as
+soon as possible after each tick, rather than leaving some players waiting, which makes
+delivery fairer and more responsive. Hosts can raise the packet rate above 32 per second
+and the packet size up to 1000 bytes, both recommended for large servers, and can set a
+faster burst rate for clients still loading. Clients send movement and trigger input at the
+earliest opportunity. Failed DNS lookups no longer crash the game, IPv6 transport has been
+added, and IPX support has been dropped.
+
+#### Audio, input and interface
+
+Miles has been updated with fixes for several memory leaks and for the ADPCM decoding bug
+behind the jet thrust glitch, and OpenAL is now available as an alternative sound driver.
+Input moves to SDL3 with raw mouse input always on — you may need to revisit your
+sensitivity — along with basic gamepad support and the ability to bind every mouse button.
+The interface gains a UI scaling slider that follows your system DPI, an aspect ratio
+limiter for very wide displays, and a scalable text renderer, making the HUD legible at
+high resolutions for the first time.
+
+#### Other additions
+
+The patch adds borderless and exclusive fullscreen with refresh rate selection, modern
+HTTPS support, optional automatic downloading of terrains and interiors from the tribes2.net
+asset depot, and WINE support out of the box.
+
 ### Another Tournament in the Works — July 27, 2011
 
 After the success of the 10-year anniversary tournament, TeamWarfare has decided to host another Tribes 2 draft tournament - the first in what might be a seasonal series of tournaments. For the last tournament, Hi-Rez (the makers of Tribes: Ascend and owners of the Tribes franchise) offered prizes to the winners in the form of Tribes: Ascend merchandise, but it is yet unknown if they will be sponsoring this tournament in some way. While the 10-year anniversary tournament was set up and managed by two players, this one will be run by TWL from the get-go, so any organizational issues that people made have noticed with the last tournament should not carry over to this one. The draft will occur on August 8th, so sign-ups will be open until then. For more information, feel free to check out [this thread](http://www.teamwarfare.com/forums/showthread.asp?forumid=4&threadid=472825) on the TeamWarfare forums.

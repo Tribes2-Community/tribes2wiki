@@ -48,6 +48,7 @@ export default defineConfig({
         { label: 'Base assets', items: [{ autogenerate: { directory: 'base-assets' } }] },
         { label: 'Tactics', items: [{ autogenerate: { directory: 'tactics' } }] },
         { label: 'Maps & game types', items: [{ autogenerate: { directory: 'maps' } }] },
+        { label: 'Community patches', items: [{ autogenerate: { directory: 'patches' } }] },
         { label: 'Scripting', items: [{ autogenerate: { directory: 'scripting' } }] },
         { label: 'Reference', items: [{ autogenerate: { directory: 'reference' } }] },
         { label: 'About this wiki', items: [{ autogenerate: { directory: 'project' } }] },
