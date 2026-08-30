@@ -30,6 +30,16 @@ patches, and mapping with the mission, world and BONES editors. It merges the su
 
 Read it at **[modding.tribes2wiki.com](https://modding.tribes2wiki.com)**.
 
+### [PlayT2.com](https://playt2.com)
+
+The place to send anyone who wants to play. Installation instructions, the server list, an
+arsenal reference and the community Discord, all kept current.
+
+### [TribalOutpost.com](https://tribaloutpost.com)
+
+Maps, scripts and textures — the community's download hub, and where the map archive that
+outlived Tribes2Maps now lives.
+
 ### [Community resources](/project/community-resources)
 
 Where the Tribes 2 community still gathers — TribesNEXT, The Construct, PlayT2 and
@@ -37,6 +47,43 @@ Tribes2Maps — and where to look before writing one of this wiki's
 [missing articles](/project/restoration).
 
 ## Latest News
+
+### 25 Year Anniversary Tournament — May 29, 2026
+
+Tribes 2 turns 25, and it is being marked with a tournament: the **25 Year Anniversary
+Tournament**, hosted by **the Cut** and powered by **TribalOutpost**. Sign-ups, rules and
+the full schedule are at **[tribes2forever.com](https://tribes2forever.com)**.
+
+#### Format
+
+Six teams, drafted rather than pre-formed. The draft runs on **Sunday 13 September 2026**,
+with the first round-robin matches on **27 September** and further matches on Sunday
+evenings for five or more weeks. Playoffs follow, with dates still to be confirmed.
+
+Each round-robin match is three maps, and every team plays the same maps in a given week so
+scrims can be arranged against the right ground. Sides are decided in advance; playoffs use
+mirrored or otherwise fairly sided maps. Full schedules and assigned servers are issued once
+the draft is done.
+
+#### Map pool
+
+Ice Dance · Woodymyrk · Massive · Damnation · Rollercoaster · Magnum · Stonehenge · Abaddon ·
+Rain Dance · DX · Beachblitz · Feign · Wilderzone · Harvester · Ocular
+
+#### Linking your account
+
+Entrants are asked to link their in-game account to [TribalOutpost](https://tribaloutpost.com):
+generate a code from your account page there, then join the TribalOutpost Link server in
+game and enter it in chat. If the linking doesn't work for you, say so — the organisers have
+said nobody will be dropped over it, and the requirement is still under discussion.
+
+Details may change through the summer and the sign-up period. Read the site itself for the
+current rules, and report any problems to the organisers.
+
+#### With thanks to
+
+**blake (YTBlake)** · **IrvinT2** · **ChocoTaco** · **FlakPyro** · **Slush** · **Sfphinx**
+— for the work that made it happen.
 
 ### TribesNEXT Quality-of-Life Patch — August 3, 2025
 
