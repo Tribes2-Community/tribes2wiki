@@ -28,6 +28,13 @@ export default defineConfig({
       customCss: ['./src/styles/theme.css'],
       social: [
         {
+          icon: 'discord',
+          label: 'Discord',
+          // PlayT2's redirector rather than the invite itself, so the link keeps
+          // working if the invite is rotated.
+          href: 'https://playt2.com/discord',
+        },
+        {
           icon: 'github',
           label: 'GitHub',
           href: 'https://github.com/Tribes2-Community/tribes2wiki',
