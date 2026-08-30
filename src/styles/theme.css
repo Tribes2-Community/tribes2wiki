@@ -126,6 +126,19 @@ h1#_top,
   letter-spacing: 0.05em;
 }
 
+/*
+ * The nav item for the page you're on. Starlight styles this from the accent
+ * tokens, which makes it gold; these override it to the HUD's teal instead.
+ * Hover and focus are pinned to the same values so the highlight doesn't shift
+ * when you mouse over the page you're already reading.
+ */
+.sidebar-content a[aria-current='page'],
+.sidebar-content a[aria-current='page']:hover,
+.sidebar-content a[aria-current='page']:focus {
+  background-color: #215a56;
+  color: #28c8c8;
+}
+
 /* Asides and code blocks pick up the HUD panel tint. */
 :root[data-theme='dark'] .starlight-aside {
   background-color: #12313b;
