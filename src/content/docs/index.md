@@ -19,6 +19,23 @@ source:
 
 We are currently maintaining **126** articles.
 
+## Available Resources
+
+### [Tribes 2 Mod Development Handbook](https://modding.tribes2wiki.com)
+
+A teaching handbook for writing mods against vanilla Tribes 2, covering the V12 engine as
+it actually shipped, TorqueScript, datablocks and the mod-path stack, the community
+patches, and mapping with the mission, world and BONES editors. It merges the surviving
+2002–2003 community modding tutorials with fresh analysis of the shipped game data.
+
+Read it at **[modding.tribes2wiki.com](https://modding.tribes2wiki.com)**.
+
+### [Community resources](/project/community-resources)
+
+Where the Tribes 2 community still gathers — TribesNEXT, The Construct, PlayT2 and
+Tribes2Maps — and where to look before writing one of this wiki's
+[missing articles](/project/restoration).
+
 ## Latest News
 
 ### TribesNEXT Quality-of-Life Patch — August 3, 2025
