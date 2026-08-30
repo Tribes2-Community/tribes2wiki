@@ -72,6 +72,7 @@ export default defineConfig({
       disable404Route: true,
       sidebar: [
         { label: 'Start here', items: [{ autogenerate: { directory: 'start' } }] },
+        { label: 'Modern community', items: [{ autogenerate: { directory: 'community' } }] },
         { label: 'Weapons', items: [{ autogenerate: { directory: 'weapons' } }] },
         { label: 'Armors', items: [{ autogenerate: { directory: 'armors' } }] },
         { label: 'Packs & deployables', items: [{ autogenerate: { directory: 'equipment' } }] },

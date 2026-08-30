@@ -66,13 +66,17 @@ eat it. See [common problems](/patches/rc-releases#common-problems).
 Tribes 2 is small now, but not empty. Servers are community-run, most busy in the evenings,
 and each has its own character:
 
-| Server | Hosted by |
-| --- | --- |
-| **Legacy CTF+** | ChocoTaco |
-| **\| The Cut \| Back to Ymir** | YTBlake and IrvinT2 |
-| **Fission Core** | FlakPyro |
-| **Dad Tribes** | Jerry and Gunther |
-| **Wilderzone** | GeekOfWires |
+| Server | Hosted by | |
+| --- | --- | --- |
+| **[Legacy CTF+](/community/legacy-ctf-plus)** | ChocoTaco | The general pub |
+| **[\| The Cut \| Back to Ymir](/community/the-cut)** | YTBlake and IrvinT2 | Saturday PUGs |
+| **[Fission Core](/community/fission-core)** | FlakPyro | General community servers |
+| **[Dad Tribes](/community/dad-tribes)** | Jerry and Gunther | Pub, and Friday PUGs |
+| **[Ski Club](/community/ski-club)** | slush | 5v5 LCTF PUGs |
+| **[Wilderzone](/community/wilderzone)** | GeekOfWires | Development and testing |
+
+More on each, and on the difference between a pub and a PUG, under
+[Modern community](/community/).
 
 If a server looks empty, it's worth asking in the community Discord linked from
 [PlayT2.com](https://playt2.com) — pickup games and scrims are usually organised there
