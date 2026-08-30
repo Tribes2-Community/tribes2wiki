@@ -17,7 +17,7 @@ source:
 
 [Introduction to Tribes 2](/start/introduction-to-tribes-2 "Introduction to Tribes 2") • [Tribes 2 Community](/project/community-portal-2 "Tribes2Wiki:Community Portal") • [Help Files](/reference/contents "Help:Contents")
 
-We are currently maintaining **126** articles.
+We are currently maintaining **60** articles.
 
 ## Available Resources
 
