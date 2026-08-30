@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T06:30:30.216Z",
+  "generatedAt": "2026-08-30T06:37:22.236Z",
   "convertedPages": 74,
   "slugCollisions": [
     {
@@ -859,8 +859,8 @@
     },
     {
       "title": "Landspike turret",
-      "section": "base-assets",
-      "file": "src/content/docs/base-assets/landspike-turret.md"
+      "section": "equipment",
+      "file": "src/content/docs/equipment/landspike-turret.md"
     },
     {
       "title": "Laser rifle",
@@ -939,8 +939,8 @@
     },
     {
       "title": "Solar panel",
-      "section": "equipment",
-      "file": "src/content/docs/equipment/solar-panel.md"
+      "section": "base-assets",
+      "file": "src/content/docs/base-assets/solar-panel.md"
     },
     {
       "title": "Spam",
@@ -954,8 +954,8 @@
     },
     {
       "title": "Spider clamp turret",
-      "section": "base-assets",
-      "file": "src/content/docs/base-assets/spider-clamp-turret.md"
+      "section": "equipment",
+      "file": "src/content/docs/equipment/spider-clamp-turret.md"
     },
     {
       "title": "Spinfusor",

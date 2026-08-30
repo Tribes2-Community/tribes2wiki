@@ -32,7 +32,7 @@ Many players pride themselves on being able to hit their opponent with a disc in
 
 See main article: [spam](/tactics/spam "Spam")
 
-Another common use of the spinfusor is long-range spamming. Any stationary target is susceptible to spinfusor spam. The most common targets are [spider clamp turrets](/base-assets/spider-clamp-turret "Spider clamp turret"), [landspike turrets](/base-assets/landspike-turret "Landspike turret"), and [deployable stations](/equipment/deployable-station "Deployable station"). Most base equipment is too heavily shielded to be effectively destroyed by a single disc spammer, but two people disc spamming at once can blow up almost anything very quickly. On some maps with outside [inventory stations](/equipment/inventory-station "Inventory station"), disc spam can be used to both destroy inventories and keep the other team from repairing them.
+Another common use of the spinfusor is long-range spamming. Any stationary target is susceptible to spinfusor spam. The most common targets are [spider clamp turrets](/equipment/spider-clamp-turret "Spider clamp turret"), [landspike turrets](/equipment/landspike-turret "Landspike turret"), and [deployable stations](/equipment/deployable-station "Deployable station"). Most base equipment is too heavily shielded to be effectively destroyed by a single disc spammer, but two people disc spamming at once can blow up almost anything very quickly. On some maps with outside [inventory stations](/equipment/inventory-station "Inventory station"), disc spam can be used to both destroy inventories and keep the other team from repairing them.
 
 ### Mine-disc
 

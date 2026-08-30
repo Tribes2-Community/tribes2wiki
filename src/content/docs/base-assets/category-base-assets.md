@@ -36,7 +36,7 @@ The following 8 pages are in this category, out of 8 total.
 ### S
 
 -   Sensor
--   [Solar panel](/equipment/solar-panel "Solar panel")
+-   [Solar panel](/base-assets/solar-panel "Solar panel")
 
 ### T
 

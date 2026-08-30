@@ -41,7 +41,13 @@ const TITLE_SECTION: Record<string, Section> = {
   'Deployable station': 'equipment',
   'Inventory station': 'equipment',
   'Vehicle pad': 'equipment',
-  'Solar panel': 'equipment',
+  // Fixed base structures, not deployables.
+  'Solar panel': 'base-assets',
+  // Deployable turrets, despite sitting in the Base assets category on the
+  // original wiki: the landspike is the deployable outdoor turret and the
+  // spider clamp the deployable indoor one.
+  'Landspike turret': 'equipment',
+  'Spider clamp turret': 'equipment',
 };
 
 export function sectionFor(title: string, categories: string[]): Section {
