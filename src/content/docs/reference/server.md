@@ -15,3 +15,10 @@ This article is a stub and requires additional information.
 A **server**, or more specifically a **game server**, is what you join when you play Tribes 2. You can see a list a servers on the _JOIN_ tab of the _GAME_ screen. Servers are designated by a specific IP and port. The IP is the IP of the host computer on which the server is running, and the port is whatever port that the host machine decides to use for the server. The IP and port are separated by a colon when viewing the server address (ie. 65.43.134.12:28000).
 
 When starting up a server, you have many different options when it comes to configuring the server.
+
+## Modding reference
+
+For running one, see the modding handbook:
+
+- [Hosting and testing](https://modding.tribes2wiki.com/06-shipping/hosting-and-testing.html)
+- [Debugging](https://modding.tribes2wiki.com/06-shipping/debugging.html)

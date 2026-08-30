@@ -56,3 +56,10 @@ A **disc-jump** is the act of shooting a disc at your feet while you are [skiing
 | Ammo (light/med/heavy) | 15 / 15 / 15 |  ? | 15 / 15 / 15 | 15 / 15 / 15 |
 
 (Page Edited by Misanthropic)
+
+## Modding reference
+
+For how weapons and projectiles are built, see the modding handbook:
+
+- [Weapons](https://modding.tribes2wiki.com/03-content-recipes/weapons.html)
+- [Projectiles](https://modding.tribes2wiki.com/03-content-recipes/projectiles.html)

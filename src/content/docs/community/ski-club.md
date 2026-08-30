@@ -32,8 +32,8 @@ own rather than deriving from anywhere else.
 Results feed **TrueSkill** ratings. TrueSkill is a Bayesian skill-rating system developed by
 Microsoft Research, designed for team games rather than one-on-one play: it tracks both an
 estimate of each player's skill and how confident it is in that estimate, updating both
-after every match. That suits pick-up games, where teams are drafted fresh each time and a
-player might only appear occasionally.
+after every match. That suits pick-up games, where sides are picked fresh at the start of
+each match and a player might only appear occasionally.
 
 - [TrueSkill at Microsoft Research](https://www.microsoft.com/en-us/research/project/trueskill-ranking-system/)
 

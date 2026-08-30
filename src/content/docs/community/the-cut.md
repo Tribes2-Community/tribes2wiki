@@ -6,9 +6,10 @@ sidebar:
   order: 3
 ---
 
-**| The Cut |** runs the **Saturday night PUGs** — organised pick-up games with teams
-picked from whoever signs up, rather than a public server you drop into. It is where a lot
-of the more competitive play happens.
+**| The Cut |** runs the **Saturday night PUGs** — scheduled pick-up games rather than a
+public server you drop into. The slot is fixed, but the teams are not: sides are picked
+from whoever turns up, at the start of the match. It is where a lot of the more competitive
+play happens.
 
 It is run by **YTBlake** and **IrvinT2**, who are also among the organisers of the
 [25 Year Anniversary Tournament](https://tribes2forever.com) — six drafted teams, a draft

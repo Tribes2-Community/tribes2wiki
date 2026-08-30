@@ -12,10 +12,10 @@ weekend starts.
 
 It is run by **Jerry** and **Gunther**.
 
-Pick-up games have teams picked and everyone in at a set time, rather than depending on
-enough people happening to be in a server at once. Between Dad Tribes on Fridays and
-[| The Cut |](/community/the-cut) on Saturdays, there is organised play at both ends of the
-weekend.
+Pick-up games run to a set time rather than depending on enough people happening to be in a
+server at once. The teams themselves are picked at the start of the match, from whoever has
+turned up. Between Dad Tribes on Fridays and [| The Cut |](/community/the-cut) on Saturdays,
+there is scheduled play at both ends of the weekend.
 
 ## Playing there
 

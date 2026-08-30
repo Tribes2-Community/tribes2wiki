@@ -39,3 +39,13 @@ The last kind of file that can be used in a map is a NAV file. These files are n
 ## List of Maps
 
 If you'd like to see a list of maps, please see Category:Maps.
+
+## Modding reference
+
+For building one, the modding handbook covers the whole pipeline:
+
+- [Mapping](https://modding.tribes2wiki.com/10-mapping/)
+- [The mission editor](https://modding.tribes2wiki.com/11-mission-editor/)
+- [The world editor](https://modding.tribes2wiki.com/12-world-editor/)
+- [Terrain](https://modding.tribes2wiki.com/13-terrain/)
+- [Shipping a map](https://modding.tribes2wiki.com/16-shipping-a-map/)

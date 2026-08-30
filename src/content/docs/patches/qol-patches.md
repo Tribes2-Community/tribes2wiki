@@ -121,6 +121,13 @@ Borderless and exclusive fullscreen with refresh rate selection, modern HTTPS su
 optional automatic downloading of terrains and interiors from the tribes2.net asset depot,
 and WINE support out of the box.
 
+## Modding reference
+
+The modding handbook documents the patch from a developer's angle:
+
+- [TribesNEXT QOL](https://modding.tribes2wiki.com/07-community-patches/tribesnext-qol.html)
+- [Modding against a patched install](https://modding.tribes2wiki.com/07-community-patches/modding-against-a-patched-install.html)
+
 ## Known issues
 
 The thread tracks these in detail and they change as testing continues. At the time of

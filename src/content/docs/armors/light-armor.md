@@ -33,3 +33,9 @@ While [heavy offense](/base-assets/heavy-offense "Heavy offense") is generally b
 See main article: light defense
 
 Most defense is played in light armor for any of a few reasons. Only lights can use the [laser rifle](/weapons/laser-rifle "Laser rifle"), which is a great defensive weapon against enemy cappers. Only a light armor can hope to match the speed of an enemy capper and chase him down. Also, players spawn in light armor by default, so many players will begin defending their base immediately after they spawn without even going to an inventory station. In Classic, lights can also play as a light on flag, because the use of [mine-discing](/weapons/spinfusor "Mine-disc") allows them to kill any enemy capper instantly when they try to touch the flag.
+
+## Modding reference
+
+For how armors are defined, see the modding handbook:
+
+- [Armors](https://modding.tribes2wiki.com/03-content-recipes/armors.html)

@@ -17,3 +17,12 @@ source:
 ## Serverside Scripting
 
 **Serverside scripting** refers to scripts that operate on the server that affect all players without having them download a client-side addition. Most scripts that don't affect gameplay are serverside, however, some clientside scripts are needed to verify that a player has something. For example, a script written for a reticle pack may want to verify with the server that he actually has the reticles.
+
+## Modding reference
+
+The modding handbook goes considerably deeper:
+
+- [TorqueScript](https://modding.tribes2wiki.com/02-engine-model/torquescript.html)
+- [Datablocks](https://modding.tribes2wiki.com/02-engine-model/datablocks.html)
+- [Packages](https://modding.tribes2wiki.com/02-engine-model/packages.html)
+- [Console function reference](https://modding.tribes2wiki.com/reference/console-functions.html)

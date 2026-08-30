@@ -104,6 +104,14 @@ TribesNEXT forums. The [QOL patches](/patches/qol-patches) resolve it properly.
 
 **Jittery game or server.** Pinning the game to a single CPU core often helps.
 
+## Modding reference
+
+The modding handbook documents what RC2a changes underneath, which matters if you write
+mods or run a server:
+
+- [RC2a](https://modding.tribes2wiki.com/07-community-patches/rc2a.html)
+- [Modding against a patched install](https://modding.tribes2wiki.com/07-community-patches/modding-against-a-patched-install.html)
+
 ## What came next
 
 Several further releases were planned and never shipped — see

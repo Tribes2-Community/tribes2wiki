@@ -55,3 +55,11 @@ you know what you need.
 
 Get patches from TribesNEXT directly rather than a re-upload. Official installers are
 digitally signed, so you can check the publisher before running one.
+
+## Modding against a patch
+
+If you write mods or run a server, the modding handbook covers what each patch changes
+underneath:
+
+- [Community patches](https://modding.tribes2wiki.com/07-community-patches/)
+- [Modding against a patched install](https://modding.tribes2wiki.com/07-community-patches/modding-against-a-patched-install.html)

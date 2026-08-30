@@ -32,6 +32,24 @@ You need Tribes 2 and a [community patch](/patches) first — see
 [mod](/mods/mod), so it changes how the game plays compared to
 [Base](/mods/base) or [Classic](/mods/classic).
 
+## How the mod works
+
+The [modding handbook](https://modding.tribes2wiki.com) documents Construction in detail:
+
+- [Construction Mod](https://modding.tribes2wiki.com/58-construction-mod/) — the overview
+- [Playing](https://modding.tribes2wiki.com/58-construction-mod/playing.html)
+- [Building systems](https://modding.tribes2wiki.com/58-construction-mod/building-systems.html)
+- [What it changed](https://modding.tribes2wiki.com/58-construction-mod/what-it-changed.html)
+- [Reusable mechanisms](https://modding.tribes2wiki.com/58-construction-mod/reusable-mechanisms.html)
+
+It also covers the variants the community built on top of it, among them
+[Power Edition](https://modding.tribes2wiki.com/59-power-edition/),
+[C2K](https://modding.tribes2wiki.com/60-c2k-construction/),
+[Spirit](https://modding.tribes2wiki.com/62-spirit-construction/),
+[Metallic](https://modding.tribes2wiki.com/63-metallic-construction/),
+[Ultimate Build](https://modding.tribes2wiki.com/66-ultimate-build/) and
+[ACCM](https://modding.tribes2wiki.com/70-accm/).
+
 The original wiki linked a `Construction` article that was never written. Anyone who knows
 this mod is well placed to finally write it — see
 [making changes](/project/making-changes).

@@ -12,6 +12,7 @@ import TurndownService from 'turndown';
 import { gfm } from 'turndown-plugin-gfm';
 import { routeFor, sectionFor, slugify, titleFromHref, originalImageName } from './lib/wiki.ts';
 import { resolveImage } from './lib/images.ts';
+import { handbookSection } from './lib/handbook.ts';
 
 const MANIFEST = JSON.parse(readFileSync('archive/manifest.json', 'utf8'));
 const OUT_DIR = path.join('src', 'content', 'docs');
@@ -313,7 +314,9 @@ export function convertPage(
     })
     .join('\n\n');
 
-  const markdownBody = [asides, articleMarkdown].filter(Boolean).join('\n\n');
+  const markdownBody = [asides, articleMarkdown, handbookSection(info.title)]
+    .filter(Boolean)
+    .join('\n\n');
 
   const { section, slug } = placement;
 

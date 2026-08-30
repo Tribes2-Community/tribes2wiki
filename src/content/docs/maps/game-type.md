@@ -17,3 +17,13 @@ New game types are created by copying the [defaultGame.cs](/reference/defaultgam
 ## List of game types
 
 View list here: Category:Game types.
+
+## Modding reference
+
+The modding handbook documents how game types are implemented, with a chapter each:
+
+- [Game types](https://modding.tribes2wiki.com/05-gameplay-systems/gametypes.html)
+- [Capture the Flag](https://modding.tribes2wiki.com/22-capture-the-flag/)
+- [Siege](https://modding.tribes2wiki.com/24-siege/)
+- [Capture and Hold](https://modding.tribes2wiki.com/26-capture-and-hold/)
+- [Hunters](https://modding.tribes2wiki.com/28-hunters/)

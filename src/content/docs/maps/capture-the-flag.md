@@ -18,3 +18,9 @@ This article is a stub and requires additional information.
 ## Standoff
 
 A **flag standoff**, or just **standoff**, is a situation when both teams have the enemy's flag, and they are both holding the flags at their respective bases.
+
+## Modding reference
+
+The modding handbook covers how CTF is put together:
+
+- [Capture the Flag](https://modding.tribes2wiki.com/22-capture-the-flag/)

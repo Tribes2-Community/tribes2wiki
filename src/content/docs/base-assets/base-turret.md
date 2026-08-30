@@ -64,3 +64,9 @@ In addition to the permanent base turrets, your team can also use **deployable t
 See main article: farmer
 
 Both types of deployed turrets are very useful and are a necessary asset to any good defense. Almost all teams will designate a farmer to deploy these turrets. The number of turrets that you can deploy varies between 4-8 of each type depending on the number of players in the server. When you have multiple turrets set up in good locations, they can pose a significant threat to any attacking force. One thing to note is that it's better to place turrets in areas where they will have the best view on enemies to shoot. While this may seem like common sense, many player will actually try to hide their turrets to keep the enemy from destroying them. Deploying landspike turrets is pretty straightforward, but spider clamp turrets have much more versatility in their deployment. It's possible to place a clamp turret in such a way that it has a lot of coverage on enemy players, but is still hard to destroy. Keep your eye out for tricks like this.
+
+## Modding reference
+
+For how turrets are built, see the modding handbook:
+
+- [Turrets and deployables](https://modding.tribes2wiki.com/03-content-recipes/turrets-and-deployables.html)

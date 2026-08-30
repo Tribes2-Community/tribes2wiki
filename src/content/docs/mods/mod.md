@@ -19,3 +19,11 @@ When you start up a server, you first have to decide what mod you want the serve
 ## List of mods in Tribes 2
 
 View list here: Category:Mods.
+
+## Modding reference
+
+To write one, the modding handbook starts here:
+
+- [Your first mod](https://modding.tribes2wiki.com/01-getting-started/your-first-mod.html)
+- [Mod paths and overrides](https://modding.tribes2wiki.com/02-engine-model/mod-paths-and-overrides.html)
+- [Packaging a mod](https://modding.tribes2wiki.com/06-shipping/packaging.html)

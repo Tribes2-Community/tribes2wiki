@@ -29,3 +29,9 @@ Base is also played by people who like large-scale games with an emphasis on veh
 -   Variant
 
 ## References
+
+## Modding reference
+
+The modding handbook covers the shipped ruleset in detail:
+
+- [The Base ruleset](https://modding.tribes2wiki.com/31-base-ruleset/)
