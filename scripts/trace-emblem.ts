@@ -31,8 +31,11 @@ const OUT_FAVICON = 'public/favicon.svg';
 const OUT_AVATAR = 'brand/org-avatar.png';
 const ALPHA_CUTOFF = 8;
 
-const GOLD = '#e0ad3f';
+/** Vertical ramp on the emblem: deep brown-gold at the top, bright gold at the foot. */
+const GOLD_TOP = '#7a4f14';
+const GOLD_BOTTOM = '#e8bb4f';
 const PLATE = '#171c23';
+const GRADIENT_ID = 't2-emblem-gold';
 
 if (!existsSync(SOURCE)) {
   console.log('Fetching source art from %s', SOURCE_URL);
@@ -128,7 +131,13 @@ const offsetY = (1000 - boxH * scale) / 2;
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-label="Tribes 2 emblem">
   <title>Tribes 2 emblem</title>
   <g transform="translate(${offsetX.toFixed(2)} ${offsetY.toFixed(2)}) scale(${scale.toFixed(5)}) translate(${-minX} ${-minY})">
-    <path fill="${GOLD}" d="${pathData}"/>
+    <defs>
+      <linearGradient id="${GRADIENT_ID}" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="${GOLD_TOP}"/>
+        <stop offset="1" stop-color="${GOLD_BOTTOM}"/>
+      </linearGradient>
+    </defs>
+    <path fill="url(#${GRADIENT_ID})" d="${pathData}"/>
   </g>
 </svg>
 `;
