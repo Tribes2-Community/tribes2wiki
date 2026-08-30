@@ -49,6 +49,19 @@ in-game building rather than combat, with its own
 The original wiki linked a `Construction` article that was never written. Anyone who knows
 this mod is well placed to finally write it.
 
+## Tribes2Maps
+
+<https://legacy.tribes2maps.com>
+
+A database of Tribes 2 maps and map reviews, along with mapping tutorials and utilities.
+It ran from 2000 to 2009 and survives as a read-only archive mirror; map downloads
+themselves have moved to [TribalOutpost.com](https://www.tribaloutpost.com).
+
+It's the natural reference for this wiki's map coverage, which is thin. The original wiki
+linked four map articles it never got round to writing — **Beggar's Run**, **Damnation**,
+**Dangerous Crossing** and **Sun Dried** — and its `Category:Maps` was nearly empty. Anyone
+wanting to fill those gaps will find the raw material here.
+
 ## PlayT2
 
 <https://github.com/ChocoTaco1/PlayT2-Modern>
