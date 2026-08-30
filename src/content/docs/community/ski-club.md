@@ -11,22 +11,32 @@ sidebar:
 
 It is run by **slush**, also known as **s5h** and **FONDU**.
 
-## Stats and ratings
+## The stats site
 
-Ski Club keeps records of its games. Match stats are collected and processed idempotently —
-reprocessing the same match does not double-count it, so the numbers stay correct even when
-a game has to be re-imported.
+Results are published at **[skiclub.duckdns.org](https://skiclub.duckdns.org/)**, which
+carries:
 
-Those results feed **TrueSkill** ratings. TrueSkill is a Bayesian skill-rating system
-developed by Microsoft Research, designed for team games rather than one-on-one play: it
-tracks both an estimate of each player's skill and how confident it is in that estimate,
-updating both after every match. That makes it well suited to pick-up games, where teams
-are drafted fresh each time and a player might only appear occasionally.
+- **Matches** — a history of games, each with a full scoresheet
+- **Leaderboards** — separate tables for LCTF, duelling and Shazbux
+- **TrueSkill** — a page per player showing their rating over time
+- **Recent LCTF games** — the latest results on the front page, with damage share and
+  predicted outcomes alongside each
+
+Match stats are collected and processed idempotently: reprocessing the same match does not
+double-count it, so the numbers stay correct even when a game has to be re-imported.
+
+## TrueSkill ratings
+
+Results feed **TrueSkill** ratings. TrueSkill is a Bayesian skill-rating system developed by
+Microsoft Research, designed for team games rather than one-on-one play: it tracks both an
+estimate of each player's skill and how confident it is in that estimate, updating both
+after every match. That suits pick-up games, where teams are drafted fresh each time and a
+player might only appear occasionally.
 
 - [TrueSkill at Microsoft Research](https://www.microsoft.com/en-us/research/project/trueskill-ranking-system/)
 
-In practice it means teams can be balanced from ratings that reflect actual results, rather
-than from guesswork about who is good.
+It means teams can be balanced from ratings that reflect results, and it is also what drives
+the predicted outcomes shown against each game.
 
 ## Taking part
 
