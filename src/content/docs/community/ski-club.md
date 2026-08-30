@@ -35,10 +35,27 @@ player might only appear occasionally.
 
 - [TrueSkill at Microsoft Research](https://www.microsoft.com/en-us/research/project/trueskill-ranking-system/)
 
+Both halves are on show in the leaderboard: **μ** is the skill estimate, **σ** how uncertain
+the system still is about it. A high μ with a high σ means a player has looked strong but
+hasn't played enough games to be sure of yet.
+
 It means teams can be balanced from ratings that reflect results, and it is also what drives
 the predicted outcomes shown against each game.
 
 ## Taking part
 
-Sign-ups happen in the Cut's Discord. Find it through [PlayT2.com](https://playt2.com) or
-the [tournament site](https://tribes2forever.com).
+Start at **[skiclub.duckdns.org](https://skiclub.duckdns.org/)**. The front page shows live
+status for the Ski Club servers — **Slope 1** and the **Duel** server — so you can see
+whether anything is running before you launch the game.
+
+From there:
+
+- **[Leaderboards](https://skiclub.duckdns.org/leaderboards)** — LCTF, duelling and Shazbux
+- **[LCTF Stats](https://skiclub.duckdns.org/lctf/stats)** — the detail behind the ratings
+- **[Matches](https://skiclub.duckdns.org/matches)** — every game played, with full
+  scoresheets
+
+Once you have played, you get a rating page of your own, tracking your μ and σ across games.
+
+The 5v5 games themselves are organised in the [| The Cut |](/community/the-cut) Discord, so
+that is where to watch for a sign-up going up.
