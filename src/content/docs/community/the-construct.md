@@ -3,7 +3,7 @@ title: 'The-Construct.net'
 description: 'The Tribes 2 Construction Mod community: the server, the IRC channel and the Discord.'
 categories: []
 sidebar:
-  order: 8
+  order: 9
 ---
 
 **[The-Construct.net](https://www.the-construct.net)** is the home of the Tribes 2

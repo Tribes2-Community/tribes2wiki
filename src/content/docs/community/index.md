@@ -17,6 +17,7 @@ players. This section covers who runs what.
 | [Dad Tribes](/community/dad-tribes) | Jerry and Gunther | Public play and Friday PUGs |
 | [Ski Club](/community/ski-club) | slush | 5v5 LCTF PUGs, with TrueSkill ratings |
 | [Wilderzone](/community/wilderzone) | GeekOfWires | Development and testing |
+| [Blair Lag Project](/community/blair-lag-project) | Blakhart | Classic, heavily botted |
 | [The-Construct.net](/community/the-construct) | The Construct | The Construction Mod community |
 
 ## Pubs and PUGs
