@@ -86,6 +86,7 @@ export default defineConfig({
             { slug: 'base-assets/base-turret' },
             { slug: 'base-assets/generator' },
             { slug: 'base-assets/solar-panel' },
+            { slug: 'base-assets/pulse-sensor' },
             { slug: 'base-assets/heavy-offense' },
           ],
         },

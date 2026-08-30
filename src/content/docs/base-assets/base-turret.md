@@ -41,7 +41,7 @@ Lastly, there is the **mortar turret** barrel. While mortar turrets are incredib
 
 ### Sentry turret
 
-The final type of permanent turret is the **sentry turret**. Unlike the rest of the base turrets, sentry turrets cannot be customized. They are also smaller, less durable, and have a built-in motion sensor, rather than the built-in [pulse sensor](/equipment/pulse-sensor "Pulse sensor") that all other turrets employ. As a result, sentry turrets won't fire at a target that isn't moving, unless the target is also being detected by some other form of sensor. Sentry turrets don't do too much damage per shot, but they fire very quickly and the projectiles move very fast. If an enemy passes by a sentry turret, they are pretty much guaranteed to take a decent amount of damage in a small amount of time.
+The final type of permanent turret is the **sentry turret**. Unlike the rest of the base turrets, sentry turrets cannot be customized. They are also smaller, less durable, and have a built-in motion sensor, rather than the built-in [pulse sensor](/base-assets/pulse-sensor "Pulse sensor") that all other turrets employ. As a result, sentry turrets won't fire at a target that isn't moving, unless the target is also being detected by some other form of sensor. Sentry turrets don't do too much damage per shot, but they fire very quickly and the projectiles move very fast. If an enemy passes by a sentry turret, they are pretty much guaranteed to take a decent amount of damage in a small amount of time.
 
 ## Deployable turret
 

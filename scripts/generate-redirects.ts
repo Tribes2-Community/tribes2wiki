@@ -48,6 +48,17 @@ const toUrlTitle = (title: string) => title.replace(/ /g, '_');
  */
 const MERGED_PAGES: Record<string, string> = {
   Mortar: '/weapons/fusion-mortar',
+  // `Pulse sensor` was split: the base-asset half kept the original title.
+  'Pulse sensor': '/base-assets/pulse-sensor',
+};
+
+/**
+ * Titles the converter no longer emits, so they never reach the import report,
+ * but whose old URLs must still resolve. Keep in step with REPLACED_BY_HAND in
+ * convert.ts.
+ */
+const EXTRA_TITLES: Record<string, string> = {
+  'Pulse sensor': '/base-assets/pulse-sensor',
 };
 
 const all: Record<string, string> = {};
@@ -57,6 +68,13 @@ for (const page of REPORT.pages as ReportPage[]) {
   const target = MERGED_PAGES[page.title] ?? routeFor(page);
   const oldPath = `/wiki/${toUrlTitle(page.title)}`;
 
+  all[oldPath] = target;
+  if (!oldPath.includes(':')) staticRedirects[oldPath] = target;
+}
+
+// Titles no longer present in the report still need their old URLs to work.
+for (const [title, target] of Object.entries(EXTRA_TITLES)) {
+  const oldPath = `/wiki/${toUrlTitle(title)}`;
   all[oldPath] = target;
   if (!oldPath.includes(':')) staticRedirects[oldPath] = target;
 }

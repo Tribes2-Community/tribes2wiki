@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T06:37:22.236Z",
-  "convertedPages": 74,
+  "generatedAt": "2026-08-30T06:41:18.101Z",
+  "convertedPages": 73,
   "slugCollisions": [
     {
       "slug": "reference/targeting-laser",
@@ -117,10 +117,6 @@
       "linkCount": 3
     },
     {
-      "title": "Deployable turret",
-      "linkCount": 3
-    },
-    {
       "title": "Flare",
       "linkCount": 3
     },
@@ -137,15 +133,7 @@
       "linkCount": 3
     },
     {
-      "title": "Sensor jammer",
-      "linkCount": 3
-    },
-    {
       "title": "Sensor jammer pack",
-      "linkCount": 3
-    },
-    {
-      "title": "Sentry turret",
       "linkCount": 3
     },
     {
@@ -201,6 +189,10 @@
       "linkCount": 2
     },
     {
+      "title": "Deployable turret",
+      "linkCount": 2
+    },
+    {
       "title": "Duel",
       "linkCount": 2
     },
@@ -226,10 +218,6 @@
     },
     {
       "title": "Missile",
-      "linkCount": 2
-    },
-    {
-      "title": "Satchel charge",
       "linkCount": 2
     },
     {
@@ -269,10 +257,6 @@
       "linkCount": 1
     },
     {
-      "title": "Cap route",
-      "linkCount": 1
-    },
-    {
       "title": "Category:Game types",
       "linkCount": 1
     },
@@ -294,10 +278,6 @@
     },
     {
       "title": "Chainwhore",
-      "linkCount": 1
-    },
-    {
-      "title": "Cloak",
       "linkCount": 1
     },
     {
@@ -374,6 +354,14 @@
     },
     {
       "title": "Respawn",
+      "linkCount": 1
+    },
+    {
+      "title": "Satchel charge",
+      "linkCount": 1
+    },
+    {
+      "title": "Sensor jammer",
       "linkCount": 1
     },
     {
@@ -507,18 +495,6 @@
       "useCount": 1
     },
     {
-      "file": "Deployable_camera.jpg",
-      "useCount": 1
-    },
-    {
-      "file": "Deployable_motion_sensor.jpg",
-      "useCount": 1
-    },
-    {
-      "file": "Deployable_pulse_sensor.jpg",
-      "useCount": 1
-    },
-    {
       "file": "Energy_pack.jpg",
       "useCount": 1
     },
@@ -543,14 +519,6 @@
       "useCount": 1
     },
     {
-      "file": "Medium_pulse_sensor.jpg",
-      "useCount": 1
-    },
-    {
-      "file": "Pulse_sensor.jpg",
-      "useCount": 1
-    },
-    {
       "file": "SmallAlarmClock.png",
       "useCount": 1
     },
@@ -572,10 +540,6 @@
     },
     {
       "file": "TWB_Shocklance.jpg",
-      "useCount": 1
-    },
-    {
-      "file": "Wiki_Logo1.png",
       "useCount": 1
     }
   ],
@@ -621,10 +585,6 @@
       "useCount": 1
     },
     {
-      "file": "Deployable_camera.jpg",
-      "useCount": 1
-    },
-    {
       "file": "Generator.jpg",
       "useCount": 1
     },
@@ -645,19 +605,7 @@
       "useCount": 1
     },
     {
-      "file": "Medium_pulse_sensor.jpg",
-      "useCount": 1
-    },
-    {
-      "file": "Pulse_sensor.jpg",
-      "useCount": 1
-    },
-    {
       "file": "SmallAlarmClock.png",
-      "useCount": 1
-    },
-    {
-      "file": "Wiki_Logo1.png",
       "useCount": 1
     }
   ],
@@ -896,11 +844,6 @@
       "title": "Mod",
       "section": "scripting",
       "file": "src/content/docs/scripting/mod.md"
-    },
-    {
-      "title": "Pulse sensor",
-      "section": "equipment",
-      "file": "src/content/docs/equipment/pulse-sensor.md"
     },
     {
       "title": "Scout armor",

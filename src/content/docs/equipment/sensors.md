@@ -1,6 +1,6 @@
 ---
-title: 'Pulse sensor'
-description: 'A sensor is any object which can detect the presence of an enemy player or object. There are many different types of sensors that have different methods of d...'
+title: 'Sensors'
+description: 'A sensor is any object which can detect the presence of an enemy player or object. The combination of all your team''s sensors is your sensor network.'
 categories:
   - 'Base assets'
   - 'Powered equipment'
@@ -9,19 +9,18 @@ source:
   archived: 'https://web.archive.org/web/20100417113428id_/http://www.tribes2wiki.com:80/wiki/Pulse_sensor'
   lastModified: '2009-09-22T01:06:00.000Z'
 ---
-_A large pulse sensor_
 
 A **sensor** is any object which can detect the presence of an enemy player or object. There are many different types of sensors that have different methods of detection. The combination of all of your team's sensors is referred to as your **sensor network**. Your sensor network, as well as all players and objects currently being detected by your sensor network, can be viewed by accessing the [command circuit](/reference/command-circuit "Command circuit"). The red triangle that appears over the heads of enemy players is also dependent on your sensor network. The red triangle will only appear if that enemy player is being detected by some form of sensor in your sensor network.
 
 ## Pulse sensor
 
-A **pulse sensor** is a [base asset](/base-assets/base-asset "Base asset") that detects enemy players and vehicles when they come into range. Pulse sensors have a detection range and will detect anything inside that range so long it is not obstructed. The detection field of a pulse sensor cannot penetrate mountains, hills, or any structures. There are two types of pulse sensor base assets. One is referred to as a large pulse sensor, and the other is a medium pulse sensor. Just as it sounds, large pulse sensors appear taller and have a much wider detection field range. Pulse sensors will spin around when they are active. If a pulse sensor takes too much damage or is not powered, it will be inactive and will be unable to detect anything. Additionally, all [base turrets](/base-assets/base-turret "Base turret") and deployable turrets have a built-in pulse sensor - except for the sentry turret, which has a motion sensor instead.
+The [pulse sensor](/base-assets/pulse-sensor "Pulse sensor") is a base asset that detects enemy players and vehicles within range. All [base turrets](/base-assets/base-turret "Base turret") and deployable turrets have one built in, except the sentry turret, which carries a motion sensor instead.
 
 ### Deployable pulse sensor
 
 ![A deployable pulse sensor.](/images/Deployable_pulse_sensor.png)
 
-Additionally, there is a deployable pack known as **deployable pulse sensor**, which acts exactly like a regular pulse sensor, but with a much smaller range. These are definitely useful, as you can often hide them along enemy cap routes and other routes, allowing you to detect incoming enemies much sooner than you otherwise would. They can also be used along with sentry turrets and motion sensors to remove the vulnerability of standing still and shooting at the target. Even so, most teams rarely find the time to set up deployable pulse sensors. While they are beneficial, the time and effort to deploy them might not always be worth it. To deploy a pulse sensor, you need to acquire one from an [inventory station](/equipment/inventory-station "Inventory station") and then press the _Use Pack_ key when aiming at the desired location. Deployable pulse sensors can only be deployed on floors and terrain that is not too steep.
+There is also a deployable pack known as the **deployable pulse sensor**, which acts exactly like a regular pulse sensor, but with a much smaller range. These are definitely useful, as you can often hide them along enemy cap routes and other routes, allowing you to detect incoming enemies much sooner than you otherwise would. They can also be used along with sentry turrets and motion sensors to remove the vulnerability of standing still and shooting at the target. Even so, most teams rarely find the time to set up deployable pulse sensors. While they are beneficial, the time and effort to deploy them might not always be worth it. To deploy a pulse sensor, you need to acquire one from an [inventory station](/equipment/inventory-station "Inventory station") and then press the _Use Pack_ key when aiming at the desired location. Deployable pulse sensors can only be deployed on floors and terrain that is not too steep.
 
 ## Motion sensor
 

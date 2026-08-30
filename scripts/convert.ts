@@ -32,6 +32,25 @@ const MERGED_INTO: Record<string, string> = {
   Mortar: 'Fusion mortar',
 };
 
+/**
+ * Archive pages replaced by hand-written articles since the import. The
+ * converter no longer generates them, and links to the original title resolve
+ * to the replacement instead.
+ *
+ * `Pulse sensor` was really a general sensors article: the base-asset section
+ * became /base-assets/pulse-sensor and the remainder /equipment/sensors.
+ */
+const REPLACED_BY_HAND: Record<string, string> = {
+  'Pulse sensor': '/base-assets/pulse-sensor',
+};
+
+/**
+ * Archive pages edited by hand since the import. Their routes still resolve for
+ * link rewriting, but the converter neither regenerates nor deletes them, so a
+ * re-run doesn't silently discard the edits.
+ */
+const PRESERVE_EDITED = new Set(['Main Page']);
+
 export interface Capture {
   timestamp: string;
   waybackUrl: string;
@@ -328,7 +347,7 @@ async function main(): Promise<void> {
   const slugCollisions: { slug: string; titles: string[] }[] = [];
 
   for (const info of pages) {
-    if (MERGED_INTO[info.title]) continue;
+    if (MERGED_INTO[info.title] || REPLACED_BY_HAND[info.title]) continue;
     // The wiki's Main Page becomes the site root, so it lives at the content root
     // rather than inside a section directory -- otherwise it builds to /start and
     // nothing serves `/`.
@@ -367,6 +386,8 @@ async function main(): Promise<void> {
     const route = knownRoutes.get(to);
     if (route) knownRoutes.set(from, route);
   }
+  // Links to a hand-replaced title point at the hand-written article.
+  for (const [from, route] of Object.entries(REPLACED_BY_HAND)) knownRoutes.set(from, route);
 
   // Pass 3: convert.
   //
@@ -377,7 +398,13 @@ async function main(): Promise<void> {
     const previous = JSON.parse(readFileSync(REPORT_PATH, 'utf8')) as {
       pages?: { file: string }[];
     };
+    const preservedFiles = new Set(
+      (previous.pages ?? [])
+        .filter((p) => PRESERVE_EDITED.has(p.title))
+        .map((p) => p.file),
+    );
     for (const page of previous.pages ?? []) {
+      if (preservedFiles.has(page.file)) continue;
       await rm(page.file, { force: true });
     }
   }
@@ -390,8 +417,21 @@ async function main(): Promise<void> {
   const written: { title: string; section: string; file: string }[] = [];
 
   for (const info of pages) {
-    if (MERGED_INTO[info.title]) continue;
+    if (MERGED_INTO[info.title] || REPLACED_BY_HAND[info.title]) continue;
     const result = convertPage(info, placements.get(info.title)!, knownRoutes, redlinkTargets);
+    if (PRESERVE_EDITED.has(info.title)) {
+      // Keep the file as it stands, but still record it so routes and the
+      // redirect map stay correct.
+      written.push({
+        title: info.title,
+        section: result.section,
+        file: path
+          .join(OUT_DIR, result.section, `${result.slug}.md`)
+          .split(path.sep)
+          .join('/'),
+      });
+      continue;
+    }
     const dir = path.join(OUT_DIR, result.section);
     await mkdir(dir, { recursive: true });
     const file = path.join(dir, `${result.slug}.md`);
