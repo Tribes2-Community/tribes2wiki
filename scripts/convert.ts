@@ -30,6 +30,8 @@ const REPORT_PATH = path.join('archive', 'import-report.json');
  */
 const MERGED_INTO: Record<string, string> = {
   Mortar: 'Fusion mortar',
+  // `Ski` and `Skiing` were byte-identical, same last-modified date.
+  Ski: 'Skiing',
 };
 
 /**
@@ -49,7 +51,7 @@ const REPLACED_BY_HAND: Record<string, string> = {
  * link rewriting, but the converter neither regenerates nor deletes them, so a
  * re-run doesn't silently discard the edits.
  */
-const PRESERVE_EDITED = new Set(['Main Page', 'Tribes 2', 'Help:Editing']);
+const PRESERVE_EDITED = new Set(['Main Page', 'Tribes 2', 'Help:Editing', 'Skiing']);
 
 export interface Capture {
   timestamp: string;

@@ -17,3 +17,20 @@ In Tribes 2, skiing was built directly into the game. If you hold the **Jump** k
 One thing you will inevitably run into are **deadstops**. These are an unfortunate byproduct of the original Torque gaming engine on which Tribes 2 now runs. Basically, if you are skiing along a completely flat surface, you will sometimes come to complete stop as if you have run into an invisible wall. You will often even take damage when this happens. Deadstops usually only happen when you are moving fast, and therefore you will rarely come across one in Base. However, in Classic and Version2 it takes a lot of luck not to run into a deadstop at least once per map.
 
 Deadstops are not random. They will always be in the same place every time on each map. If you really are bothered by them, you could memorize the location of every deadstop and simply avoid those areas or make sure you are not touching the ground if you fly over them. Sometimes this can be incredibly difficult, as it is on the map Damnation, but they are unfortunately a part of the game.
+
+### Keep Moving
+
+The advice above applies to the game as it originally shipped. The
+[TribesNEXT quality-of-life patch](/patches/qol-patches) addresses the problem directly:
+its physics work states that **deadstops on terrain, and on horizontal co-planar interior
+surfaces, have been eliminated**.
+
+That came out of a broader pass over the engine's maths and collision handling. Per-frame
+math functions were replaced with SIMD variants — which is largely why the patch requires a
+CPU with AVX support — and parts of the collision physics were made more efficient or
+adjusted, without changing how the game plays or breaking demo playback. Vehicle handling
+was tidied up in the same pass: wheeled vehicles compensate for the yaw oscillation that
+made them shimmy at speed, and the mobile point base had its centre of mass rebalanced.
+
+So on a patched client, memorising deadstop locations is no longer something you need to
+do. On RC2a or an unpatched install, everything above still holds.

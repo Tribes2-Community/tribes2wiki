@@ -48,6 +48,7 @@ const toUrlTitle = (title: string) => title.replace(/ /g, '_');
  */
 const MERGED_PAGES: Record<string, string> = {
   Mortar: '/weapons/fusion-mortar',
+  Ski: '/tactics/skiing',
   // `Pulse sensor` was split: the base-asset half kept the original title.
   'Pulse sensor': '/base-assets/pulse-sensor',
 };
