@@ -21,4 +21,4 @@ tribes2wiki.com went offline.
 ## Playing there
 
 The servers appear on the **JOIN** tab once you have the game and a
-[community patch](/patches/) installed — see [Tribes 2](/start/tribes-2) for setup.
+[community patch](/patches) installed — see [Tribes 2](/start/tribes-2) for setup.

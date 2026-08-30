@@ -19,4 +19,4 @@ FlakPyro is also among the organisers of the
 ## Playing there
 
 Find the servers on the **JOIN** tab once you have the game and a
-[community patch](/patches/) installed. See [Tribes 2](/start/tribes-2) for setup.
+[community patch](/patches) installed. See [Tribes 2](/start/tribes-2) for setup.

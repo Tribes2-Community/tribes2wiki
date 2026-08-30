@@ -17,7 +17,7 @@ site went down.
 
 ## Playing there
 
-Install the game and a [community patch](/patches/), create an account in game, then find
+Install the game and a [community patch](/patches), create an account in game, then find
 the server on the **JOIN** tab. See [Tribes 2](/start/tribes-2) if you have not set up yet.
 
 Pub servers fill in the evenings and empty out otherwise. If it looks quiet, the community

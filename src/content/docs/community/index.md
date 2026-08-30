@@ -37,4 +37,4 @@ dead.
 ## Getting in
 
 You need the game and a community patch first. See [Tribes 2](/start/tribes-2) for the
-setup, and [community patches](/patches/) for which patch to use.
+setup, and [community patches](/patches) for which patch to use.

@@ -31,7 +31,7 @@ shareware release and installs the game itself, but nothing that lets you play o
 ### 2. Apply a TribesNEXT patch
 
 Without one you cannot create an account, browse servers, or join a game. Two are
-available, and they are [both regarded as equally stable](/patches/):
+available, and they are [both regarded as equally stable](/patches):
 
 **The [quality-of-life patch](/patches/qol-patches) — recommended.** A native rewrite
 aimed at modern hardware: proper widescreen and ultrawide support, a FOV slider, far
@@ -76,7 +76,7 @@ and each has its own character:
 | **[Wilderzone](/community/wilderzone)** | GeekOfWires | Development and testing |
 
 More on each, and on the difference between a pub and a PUG, under
-[Modern community](/community/).
+[Modern community](/community).
 
 If a server looks empty, it's worth asking in the community Discord linked from
 [PlayT2.com](https://playt2.com) — pickup games and scrims are usually organised there
@@ -87,4 +87,4 @@ rather than by sitting in an empty server.
 - [Introduction to Tribes 2](/start/introduction-to-tribes-2) — how the game actually plays
 - [Loadout](/start/loadout) — armours, weapons and packs
 - [Skiing](/tactics/skiing) — the movement technique the whole game is built around
-- [Community patches](/patches/) — what each patch does, and which you want
+- [Community patches](/patches) — what each patch does, and which you want

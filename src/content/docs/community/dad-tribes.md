@@ -20,5 +20,5 @@ weekend.
 ## Playing there
 
 The public server is on the **JOIN** tab once you have the game and a
-[community patch](/patches/) installed — see [Tribes 2](/start/tribes-2). The Friday PUG is
+[community patch](/patches) installed — see [Tribes 2](/start/tribes-2). The Friday PUG is
 organised through Discord, linked from [PlayT2.com](https://playt2.com).
