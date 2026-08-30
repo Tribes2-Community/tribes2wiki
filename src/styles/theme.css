@@ -66,6 +66,34 @@
   --t2-hud-deep: #2b4844;
 
   --t2-rule: rgba(29, 81, 104, 0.28);
+
+  /*
+   * Light mode on the same hue as the dark theme, so the two read as one site.
+   * Starlight ships this scale at hue 224, a blue-grey; 196 is the hue of the
+   * dark theme's ground (#0c1a20) and of the HUD panels it was sampled from.
+   *
+   * Backgrounds derive from these: bg is --sl-color-black, the nav and sidebar
+   * come from gray-6/7, and the hairlines from gray-5/6. Redefining the scale
+   * carries the tint through without overriding each surface by hand.
+   */
+  --sl-color-white: hsl(196, 30%, 12%);
+  --sl-color-gray-1: hsl(196, 24%, 18%);
+  --sl-color-gray-2: hsl(196, 18%, 27%);
+  --sl-color-gray-3: hsl(196, 14%, 39%);
+  --sl-color-gray-4: hsl(196, 15%, 57%);
+  --sl-color-gray-5: hsl(196, 22%, 78%);
+  --sl-color-gray-6: hsl(196, 34%, 93%);
+  --sl-color-gray-7: hsl(196, 40%, 96%);
+  --sl-color-black: hsl(192, 45%, 99%);
+}
+
+/* Asides and code blocks pick up the same tint in light mode. */
+:root:not([data-theme='dark']) .starlight-aside {
+  background-color: hsl(196, 40%, 95%);
+}
+
+:root:not([data-theme='dark']) .expressive-code .frame pre {
+  background-color: hsl(196, 38%, 96%);
 }
 
 :root[data-theme='dark'] {
